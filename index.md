@@ -2,4 +2,4 @@
 title: "deobald.ca"
 ---
 
-Nothing to see here.
+<img src="images/versatile.jpg" width="100%" height="100%" />
