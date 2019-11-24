@@ -2,4 +2,4 @@
 title: "deobald.ca"
 ---
 
-<link href="layout.css" rel="stylesheet">
+Nothing to see here.
