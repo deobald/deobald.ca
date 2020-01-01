@@ -1,0 +1,5 @@
+baseURL = "https://www.deobald.ca"
+languageCode = "en-us"
+title = "Essays"
+theme = "hyde-hyde"
+
