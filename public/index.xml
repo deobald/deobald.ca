@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays</title>
+    <link>https://www.deobald.ca/</link>
+    <description>Recent content on Essays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 18:21:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.deobald.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spike</title>
+      <link>https://www.deobald.ca/posts/spike/</link>
+      <pubDate>Wed, 01 Jan 2020 18:21:22 +0530</pubDate>
+      
+      <guid>https://www.deobald.ca/posts/spike/</guid>
+      <description>Welcome to Hugo Title Case Hello, this is my first post to Hugoo.</description>
+    </item>
+    
+  </channel>
+</rss>
