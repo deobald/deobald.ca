@@ -1,5 +1,13 @@
 baseURL = "https://www.deobald.ca"
 languageCode = "en-us"
-title = "Essays"
+title = "Steven Deobald"
 theme = "hyde-hyde"
+publishDir = "../docs"
 
+# generates the sidebar
+sectionPagesMenu = "main"
+
+[params.social]
+  twitter = "deobald"
+  keybase = "deobald"
+  github = "deobald"
