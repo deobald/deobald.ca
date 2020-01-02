@@ -7,10 +7,18 @@ publishDir = "../docs"
 # generates the sidebar
 sectionPagesMenu = "main"
 
-[params.social]
-  twitter = "deobald"
-  keybase = "deobald"
-  github = "deobald"
-
 [params]
-  customCss = ["css/deobald.css"]
+  # hides the automatic prev/next links at the bottom of essays
+  postNavigation = false
+  essayNavigation = false
+
+[params.social]
+  gravatar = "steven@deobald.ca"
+  twitter = "deobald"
+  github = "deobald"
+  keybase = "deobald"
+  email = "steven@deobald.ca"
+
+[[menu.main]]
+  name = "RSS Feed"
+  url = "/index.xml"

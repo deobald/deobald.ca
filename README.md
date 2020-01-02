@@ -15,3 +15,8 @@ src/static/img                          # content images go here
 ```
 
 The current theme is `hyde-hyde` and the location of the hook for custom CSS may change if the theme is switched. At the time of this writing, custom CSS is only used to center images so hopefully switching the hook isn't difficult.
+
+These are handy:
+
+- https://github.com/htr3n/hyde-hyde
+- https://github.com/htr3n/hyde-hyde/blob/master/exampleSite/config.toml
