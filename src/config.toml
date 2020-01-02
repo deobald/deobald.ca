@@ -11,3 +11,6 @@ sectionPagesMenu = "main"
   twitter = "deobald"
   keybase = "deobald"
   github = "deobald"
+
+[params]
+  customCss = ["css/deobald.css"]
