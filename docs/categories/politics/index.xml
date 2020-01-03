@@ -6,10 +6,21 @@
     <description>Recent content in Politics on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2008 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.deobald.ca/categories/politics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ceci n&#39;est pas une pipe</title>
+      <link>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
+      <description>A description of a doctrine without words is not a doctrine without words.
+Over the last few days, the internet saw a layered explosion of conversation regarding Adria Richards, and a conversation which happened near her at PyCon 2013. To me, it looked like this:
+ The first circle represents the initial event. The second circle represents Adria&#39;s public reaction. The third circle represents the reactions of HackerNews, Twitter, Playhaven, SendGrid, Anonymous, 4chan, and the internet at large to Adria&#39;s reaction.</description>
+    </item>
     
     <item>
       <title>Cartoons and Comic Books</title>
