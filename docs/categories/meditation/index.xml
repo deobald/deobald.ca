@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meditation on Steven Deobald</title>
+    <link>https://www.deobald.ca/categories/meditation/</link>
+    <description>Recent content in meditation on Steven Deobald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2013 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.deobald.ca/categories/meditation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Atheist&#39;s Glimpse of God</title>
+      <link>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</guid>
+      <description>One of the benefits of working for a startup like C42 Engineering (where I help build rubymonk.com &amp;mdash; the name is a coincidence) is the broad range of experiences available, both in and out of the office. Thanks to our flexible work environment, I was able to travel to Himachal Pradesh for a couple weeks of experimenting on myself as a break from experimenting with software. I know not everyone enjoys such benefits, so let me start by saying this: I am thankful.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+
+
+<script language="javascript">
+ var bell = new Audio("/timer/zen-bell.wav");
+
+ // CountDownTimer credit to @robbmj and @railgun in this StackOverFlow answer:
+ // https://stackoverflow.com/questions/20618355/the-simplest-possible-javascript-countdown-timer
+ // ...because I'm not a programmer anymore and this seemed fine.
+ function CountDownTimer(duration, granularity) {
+   this.duration = duration;
+   this.granularity = granularity || 1000;
+   this.tickFtns = [];
+   this.running = false;
+ }
+
+ CountDownTimer.prototype.start = function() {
+   if (this.running) {
+     return;
+   }
+   this.running = true;
+   var start = Date.now(),
+       that = this,
+       diff, obj;
+
+   (function timer() {
+     diff = that.duration - (((Date.now() - start) / 1000) | 0);
+
+     if (diff > 0) {
+       setTimeout(timer, that.granularity);
+     } else {
+       diff = 0;
+       that.running = false;
+     }
+
+     obj = CountDownTimer.parse(diff);
+     that.tickFtns.forEach(function(ftn) {
+       ftn.call(this, obj.minutes, obj.seconds);
+     }, that);
+   }());
+ };
+
+ CountDownTimer.prototype.onTick = function(ftn) {
+   if (typeof ftn === 'function') {
+     this.tickFtns.push(ftn);
+   }
+   return this;
+ };
+
+ CountDownTimer.prototype.expired = function() {
+   return !this.running;
+ };
+
+ CountDownTimer.parse = function(seconds) {
+   return {
+     'minutes': (seconds / 60) | 0,
+     'seconds': (seconds % 60) | 0
+   };
+ };
+
+</script>
+
+<br />
+<div style="border-radius: 5px; border-style: solid; border-width: 2px; text-align: center;">
+  <div id="timer-digits{{ .Get "minutes" }}" style="font-size: 96px; margin: 1em;">
+    00:00
+  </div>
+</div>
+
+<script language="javascript">
+ var display = document.querySelector('#timer-digits{{ .Get "minutes" }}');
+ var totalSeconds = (parseInt({{ .Get "minutes" }}) * 60) - 1;
+
+ function countDown(minutes, seconds) {
+   var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
+   var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+   display.textContent = displayMinutes + ":" + displaySeconds;
+
+   if (minutes < 1 && seconds < 1) {
+     console.log("minutes: " + minutes + " seconds: " + seconds);
+     bell.play();
+   }
+ }
+
+ var timer = new CountDownTimer(totalSeconds);
+ timer.tickFtns = [countDown];
+
+</script>
+
+<br />
+
+<div>
+  <button onclick="javascript:bell.play();timer.start();" style="font-size: 32px;">Start</button>
+</div>
+
+<br />

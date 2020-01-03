@@ -3,13 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</loc>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/</loc>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.deobald.ca/essays/</loc>
-    <lastmod>2008-05-01T00:00:00+05:30</lastmod>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/meditation/</loc>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.deobald.ca/</loc>
-    <lastmod>2008-05-01T00:00:00+05:30</lastmod>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/</loc>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/vipassana/</loc>
+    <lastmod>2013-02-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</loc>
+    <lastmod>2008-05-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/media/</loc>
+    <lastmod>2008-05-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/politics/</loc>
+    <lastmod>2008-05-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/racism/</loc>
+    <lastmod>2008-05-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -50,14 +95,6 @@
   <url>
     <loc>https://www.deobald.ca/essays/2007-04-01-making-it-look-easy/</loc>
     <lastmod>2007-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/</loc>
   </url>
   
 </urlset>
