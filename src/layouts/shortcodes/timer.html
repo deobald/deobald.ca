@@ -1,8 +1,5 @@
 
-
 <script language="javascript">
- var bell = new Audio("/timer/zen-bell.wav");
-
  // CountDownTimer credit to @robbmj and @railgun in this StackOverFlow answer:
  // https://stackoverflow.com/questions/20618355/the-simplest-possible-javascript-countdown-timer
  // ...because I'm not a programmer anymore and this seemed fine.
@@ -57,6 +54,34 @@
    };
  };
 
+ // ---------------------------------------------
+
+ // DisplayTimer is the UI hacked around CountDownTimer
+ function DisplayTimer(selector, minutes) {
+   this.bell = new Audio("/timer/zen-bell.wav");
+   this.minutes = minutes;
+   this.totalSeconds = (this.minutes * 60) - 1;
+   this.display = document.querySelector(selector + this.minutes);
+   this.countDownTimer = new CountDownTimer(this.totalSeconds);
+   this.countDownTimer.tickFtns = [this.countDown(this.display, this.bell)];
+ }
+
+ DisplayTimer.prototype.start = function() {
+   this.bell.play();
+   this.countDownTimer.start();
+ };
+
+ DisplayTimer.prototype.countDown = function(display, bell) {
+   return function(minutes, seconds) {
+     var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
+     var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+     display.textContent = displayMinutes + ":" + displaySeconds;
+
+     if (minutes < 1 && seconds < 1) {
+       bell.play();
+     }
+   };
+ };
 </script>
 
 <br />
@@ -67,29 +92,15 @@
 </div>
 
 <script language="javascript">
- var display = document.querySelector('#timer-digits{{ .Get "minutes" }}');
- var totalSeconds = (parseInt({{ .Get "minutes" }}) * 60) - 1;
-
- function countDown(minutes, seconds) {
-   var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
-   var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
-   display.textContent = displayMinutes + ":" + displaySeconds;
-
-   if (minutes < 1 && seconds < 1) {
-     console.log("minutes: " + minutes + " seconds: " + seconds);
-     bell.play();
-   }
- }
-
- var timer = new CountDownTimer(totalSeconds);
- timer.tickFtns = [countDown];
-
+ var timers = timers || [];
+ var timerId = parseInt({{ .Get "minutes" }});
+ timers[timerId] = new DisplayTimer('#timer-digits', timerId);
 </script>
 
 <br />
 
 <div>
-  <button onclick="javascript:bell.play();timer.start();" style="font-size: 32px;">Start</button>
+  <button onclick="javascript:timers[{{ .Get "minutes" }}].start();" style="font-size: 32px;">Start</button>
 </div>
 
 <br />
