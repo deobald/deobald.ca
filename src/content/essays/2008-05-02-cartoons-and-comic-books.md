@@ -1,8 +1,8 @@
 ---
 title: "Cartoons and Comic Books"
 date: 2008-05-02T00:00:00+05:30
-categories: ["Politics"]
-tags: ["Media", "Racism"]
+categories: ["politics"]
+tags: ["media", "racism"]
 draft: false
 ---
 
