@@ -179,7 +179,7 @@
     
     
     <br/>
-    <i class="fas fa-clock"></i> 13 min read
+    <i class="fas fa-clock"></i> 14 min read
 </div>
 
 
@@ -208,10 +208,7 @@
 <li>make sure you hear a gong sound when you click &ldquo;Start&rdquo;; the timer only works in modern browsers (HTML5).</li>
 </ul>
 
-
 <script language="javascript">
- var bell = new Audio("/timer/zen-bell.wav");
-
  
  
  
@@ -266,6 +263,34 @@
    };
  };
 
+ 
+
+ 
+ function DisplayTimer(selector, minutes) {
+   this.bell = new Audio("/timer/zen-bell.wav");
+   this.minutes = minutes;
+   this.totalSeconds = (this.minutes * 60) - 1;
+   this.display = document.querySelector(selector + this.minutes);
+   this.countDownTimer = new CountDownTimer(this.totalSeconds);
+   this.countDownTimer.tickFtns = [this.countDown(this.display, this.bell)];
+ }
+
+ DisplayTimer.prototype.start = function() {
+   this.bell.play();
+   this.countDownTimer.start();
+ };
+
+ DisplayTimer.prototype.countDown = function(display, bell) {
+   return function(minutes, seconds) {
+     var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
+     var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+     display.textContent = displayMinutes + ":" + displaySeconds;
+
+     if (minutes < 1 && seconds < 1) {
+       bell.play();
+     }
+   };
+ };
 </script>
 
 <br />
@@ -276,39 +301,22 @@
 </div>
 
 <script language="javascript">
- var display = document.querySelector('#timer-digits10');
- var totalSeconds = (parseInt( 10 ) * 60) - 1;
-
- function countDown(minutes, seconds) {
-   var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
-   var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
-   display.textContent = displayMinutes + ":" + displaySeconds;
-
-   if (minutes < 1 && seconds < 1) {
-     console.log("minutes: " + minutes + " seconds: " + seconds);
-     bell.play();
-   }
- }
-
- var timer = new CountDownTimer(totalSeconds);
- timer.tickFtns = [countDown];
-
+ var timers = timers || [];
+ var timerId = parseInt( 10 );
+ timers[timerId] = new DisplayTimer('#timer-digits', timerId);
 </script>
 
 <br />
 
 <div>
-  <button onclick="javascript:bell.play();timer.start();" style="font-size: 32px;">Start</button>
+  <button onclick="javascript:timers[ 10 ].start();" style="font-size: 32px;">Start</button>
 </div>
 
 <br />
 
 <p>How did that go? Was it difficult? If you found it easy, try this twenty minute timer.</p>
 
-
 <script language="javascript">
- var bell = new Audio("/timer/zen-bell.wav");
-
  
  
  
@@ -363,6 +371,34 @@
    };
  };
 
+ 
+
+ 
+ function DisplayTimer(selector, minutes) {
+   this.bell = new Audio("/timer/zen-bell.wav");
+   this.minutes = minutes;
+   this.totalSeconds = (this.minutes * 60) - 1;
+   this.display = document.querySelector(selector + this.minutes);
+   this.countDownTimer = new CountDownTimer(this.totalSeconds);
+   this.countDownTimer.tickFtns = [this.countDown(this.display, this.bell)];
+ }
+
+ DisplayTimer.prototype.start = function() {
+   this.bell.play();
+   this.countDownTimer.start();
+ };
+
+ DisplayTimer.prototype.countDown = function(display, bell) {
+   return function(minutes, seconds) {
+     var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
+     var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+     display.textContent = displayMinutes + ":" + displaySeconds;
+
+     if (minutes < 1 && seconds < 1) {
+       bell.play();
+     }
+   };
+ };
 </script>
 
 <br />
@@ -373,29 +409,15 @@
 </div>
 
 <script language="javascript">
- var display = document.querySelector('#timer-digits20');
- var totalSeconds = (parseInt( 20 ) * 60) - 1;
-
- function countDown(minutes, seconds) {
-   var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
-   var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
-   display.textContent = displayMinutes + ":" + displaySeconds;
-
-   if (minutes < 1 && seconds < 1) {
-     console.log("minutes: " + minutes + " seconds: " + seconds);
-     bell.play();
-   }
- }
-
- var timer = new CountDownTimer(totalSeconds);
- timer.tickFtns = [countDown];
-
+ var timers = timers || [];
+ var timerId = parseInt( 20 );
+ timers[timerId] = new DisplayTimer('#timer-digits', timerId);
 </script>
 
 <br />
 
 <div>
-  <button onclick="javascript:bell.play();timer.start();" style="font-size: 32px;">Start</button>
+  <button onclick="javascript:timers[ 20 ].start();" style="font-size: 32px;">Start</button>
 </div>
 
 <br />
