@@ -4,12 +4,57 @@
   
   <url>
     <loc>https://www.deobald.ca/categories/</loc>
-    <lastmod>2019-11-20T00:00:00+05:30</lastmod>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/design/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/encryption/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.deobald.ca/essays/</loc>
-    <lastmod>2019-11-20T00:00:00+05:30</lastmod>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/ethics/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/federation/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/free-software/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/open-source/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/</loc>
+    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -29,16 +74,6 @@
   
   <url>
     <loc>https://www.deobald.ca/tags/off-grid/</loc>
-    <lastmod>2019-11-20T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/</loc>
-    <lastmod>2019-11-20T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/</loc>
     <lastmod>2019-11-20T00:00:00+05:30</lastmod>
   </url>
   
@@ -75,11 +110,6 @@
   <url>
     <loc>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</loc>
     <lastmod>2019-08-21T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/design/</loc>
-    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -139,21 +169,6 @@
   
   <url>
     <loc>https://www.deobald.ca/tags/ethics/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/federation/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/free-software/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/open-source/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url>
   

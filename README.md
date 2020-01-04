@@ -21,8 +21,11 @@ These are handy:
 - https://github.com/htr3n/hyde-hyde
 - https://github.com/htr3n/hyde-hyde/blob/master/exampleSite/config.toml
 
+Images in posts should be restricted to a width of 480px. Images in `image-table` shortcodes should be both the same width and the same height.
+
 # TODO
 
+- [ ] google analytics?
 - [ ] timer should default to max value, not 00:00 (suggest kitchen/phone timer for paper or non-js)
 - [ ] run fix-formatting.sh on all medium.com imports
 - [ ] link medium.com back to deobald.ca on each essay
