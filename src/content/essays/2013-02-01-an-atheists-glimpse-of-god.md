@@ -38,6 +38,7 @@ Meditation isn't usually very complicated. Try this for ten minutes:
 - if you get really distracted, breathe hard a few times so your breath is easier to focus on.
 - don't feel disappointed or defeated when your mind wanders... it's just what happens.
 - make sure you hear a gong sound when you click "Start"; the timer only works in modern browsers (HTML5).
+- if you are reading this essay on a paper printout (or for any other reason) you can use a kitchen timer or a timer application on your phone/tablet/watch/etc.
 
 {{< timer minutes=10 >}}
 

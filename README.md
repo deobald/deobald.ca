@@ -25,8 +25,8 @@ Images in posts should be restricted to a width of 480px. Images in `image-table
 
 # TODO
 
-- [ ] google analytics?
-- [ ] timer should default to max value, not 00:00 (suggest kitchen/phone timer for paper or non-js)
+- [x] google analytics?
+- [x] timer should default to max value, not 00:00 (suggest kitchen/phone timer for paper or non-js)
 - [ ] run fix-formatting.sh on all medium.com imports
 - [ ] link medium.com back to deobald.ca on each essay
 - [ ] link blogger back to deobald.ca on each essay

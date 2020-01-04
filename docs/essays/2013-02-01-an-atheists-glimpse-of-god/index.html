@@ -206,6 +206,7 @@
 <li>if you get really distracted, breathe hard a few times so your breath is easier to focus on.</li>
 <li>don't feel disappointed or defeated when your mind wanders&hellip; it's just what happens.</li>
 <li>make sure you hear a gong sound when you click &ldquo;Start&rdquo;; the timer only works in modern browsers (HTML5).</li>
+<li>if you are reading this essay on a paper printout (or for any other reason) you can use a kitchen timer or a timer application on your phone/tablet/watch/etc.</li>
 </ul>
 
 <script language="javascript">
@@ -273,22 +274,32 @@
    this.display = document.querySelector(selector + this.minutes);
    this.countDownTimer = new CountDownTimer(this.totalSeconds);
    this.countDownTimer.tickFtns = [this.countDown(this.display, this.bell)];
+   DisplayTimer.render(this.display, this.minutes, 0);
  }
 
  DisplayTimer.prototype.start = function() {
-   this.bell.play();
+   if (!this.countDownTimer.running) {
+     this.bell.play();
+   }
    this.countDownTimer.start();
+ };
+
+ DisplayTimer.render = function(display, minutes, seconds) {
+   var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
+   var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+   display.textContent = displayMinutes + ":" + displaySeconds;
+ };
+
+ DisplayTimer.tryChime = function(bell, minutes, seconds) {
+   if (minutes < 1 && seconds < 1) {
+     bell.play();
+   }
  };
 
  DisplayTimer.prototype.countDown = function(display, bell) {
    return function(minutes, seconds) {
-     var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
-     var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
-     display.textContent = displayMinutes + ":" + displaySeconds;
-
-     if (minutes < 1 && seconds < 1) {
-       bell.play();
-     }
+     DisplayTimer.render(display, minutes, seconds);
+     DisplayTimer.tryChime(bell, minutes, seconds);
    };
  };
 </script>
@@ -381,22 +392,32 @@
    this.display = document.querySelector(selector + this.minutes);
    this.countDownTimer = new CountDownTimer(this.totalSeconds);
    this.countDownTimer.tickFtns = [this.countDown(this.display, this.bell)];
+   DisplayTimer.render(this.display, this.minutes, 0);
  }
 
  DisplayTimer.prototype.start = function() {
-   this.bell.play();
+   if (!this.countDownTimer.running) {
+     this.bell.play();
+   }
    this.countDownTimer.start();
+ };
+
+ DisplayTimer.render = function(display, minutes, seconds) {
+   var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
+   var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+   display.textContent = displayMinutes + ":" + displaySeconds;
+ };
+
+ DisplayTimer.tryChime = function(bell, minutes, seconds) {
+   if (minutes < 1 && seconds < 1) {
+     bell.play();
+   }
  };
 
  DisplayTimer.prototype.countDown = function(display, bell) {
    return function(minutes, seconds) {
-     var displayMinutes = minutes < 10 ? "0" + minutes : minutes;
-     var displaySeconds = seconds < 10 ? "0" + seconds : seconds;
-     display.textContent = displayMinutes + ":" + displaySeconds;
-
-     if (minutes < 1 && seconds < 1) {
-       bell.play();
-     }
+     DisplayTimer.render(display, minutes, seconds);
+     DisplayTimer.tryChime(bell, minutes, seconds);
    };
  };
 </script>
