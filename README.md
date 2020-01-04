@@ -27,3 +27,4 @@ These are handy:
 - [ ] run fix-formatting.sh on all medium.com imports
 - [ ] link medium.com back to deobald.ca on each essay
 - [ ] link blogger back to deobald.ca on each essay
+- [ ] categorize and tag all posts
