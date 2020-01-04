@@ -23,6 +23,7 @@ These are handy:
 
 # TODO
 
-- [ ] timer should default to max value, not 00:00
+- [ ] timer should default to max value, not 00:00 (suggest kitchen/phone timer for paper or non-js)
+- [ ] run fix-formatting.sh on all medium.com imports
 - [ ] link medium.com back to deobald.ca on each essay
 - [ ] link blogger back to deobald.ca on each essay
