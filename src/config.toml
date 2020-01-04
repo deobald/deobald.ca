@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Steven Deobald"
 theme = "hyde-hyde"
 publishDir = "../docs"
+googleAnalytics = "UA-155302034-1"
 
 # generates the sidebar
 sectionPagesMenu = "main"
