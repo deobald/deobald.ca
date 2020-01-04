@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.deobald.ca/tags/anapana/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.deobald.ca/categories/</loc>
-    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/essays/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/meditation/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/vipassana/</loc>
+    <lastmod>2019-08-21T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -13,17 +48,12 @@
   </url>
   
   <url>
-    <loc>https://www.deobald.ca/essays/</loc>
+    <loc>https://www.deobald.ca/tags/infrastructure/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.deobald.ca/categories/infrastructure/</loc>
-    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/infrastructure/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -44,16 +74,6 @@
   
   <url>
     <loc>https://www.deobald.ca/essays/2019-03-01-silent-spaces/</loc>
-    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/</loc>
-    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -88,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://www.deobald.ca/categories/meditation/</loc>
-    <lastmod>2019-01-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.deobald.ca/tags/social-media/</loc>
-    <lastmod>2019-01-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/vipassana/</loc>
     <lastmod>2019-01-16T00:00:00+05:30</lastmod>
   </url>
   
