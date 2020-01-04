@@ -4,17 +4,72 @@
   
   <url>
     <loc>https://www.deobald.ca/categories/</loc>
-    <lastmod>2018-12-23T00:00:00+05:30</lastmod>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/cryptography/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.deobald.ca/tags/design/</loc>
-    <lastmod>2018-12-23T00:00:00+05:30</lastmod>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.deobald.ca/essays/</loc>
-    <lastmod>2018-12-23T00:00:00+05:30</lastmod>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/ethics/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/federation/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/free-software/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/open-source/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/technology/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</loc>
+    <lastmod>2018-12-25T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/vipassana/</loc>
+    <lastmod>2018-12-25T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -23,22 +78,7 @@
   </url>
   
   <url>
-    <loc>https://www.deobald.ca/</loc>
-    <lastmod>2018-12-23T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/</loc>
-    <lastmod>2018-12-23T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</loc>
-    <lastmod>2018-12-23T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/vipassana/</loc>
     <lastmod>2018-12-23T00:00:00+05:30</lastmod>
   </url>
   
