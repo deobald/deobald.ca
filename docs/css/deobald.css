@@ -5,3 +5,19 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+hr {
+    text-align: center;
+    margin-top: 30px;
+    border: medium none;
+    font-size: 28px;
+    font-family: medium-content-slab-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 300;
+}
+
+hr::before {
+    line-height: 1.4;
+    text-indent: 0.6em;
+    letter-spacing: 0.6em;
+    content: "...";
+}
