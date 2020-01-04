@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>garbage on Steven Deobald</title>
+    <link>https://www.deobald.ca/categories/garbage/</link>
+    <description>Recent content in garbage on Steven Deobald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.deobald.ca/categories/garbage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>India Has A Three-Body Problem</title>
+      <link>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</guid>
+      <description>When I moved to Bangalore six years ago, I had no interest in India’s garbage management problem. I moved here to build a software company, not to muck about with garbage bins. But every time I would fly between the subcontinent and the Americas, I would find relief on my home continent and exhaustion on my continent of immigration. Living in a giant garbage heap is mentally taxing. Every moment spent outdoors is either an angsty mental rundown of how I might help, complete with acute feelings of powerlessness, or searching for someone to blame (my brain’s lazy personal favourite is a generic and completely unhelpful “the middle class”).</description>
+    </item>
+    
+  </channel>
+</rss>

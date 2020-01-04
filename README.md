@@ -20,3 +20,9 @@ These are handy:
 
 - https://github.com/htr3n/hyde-hyde
 - https://github.com/htr3n/hyde-hyde/blob/master/exampleSite/config.toml
+
+# TODO
+
+- [ ] timer should default to max value, not 00:00
+- [ ] link medium.com back to deobald.ca on each essay
+- [ ] link blogger back to deobald.ca on each essay

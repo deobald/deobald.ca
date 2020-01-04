@@ -1,0 +1,11 @@
+<table class="image-table">
+  <tbody>
+    <tr>
+      {{ range $img_src := .Params }}
+      <td class="image-table-cell" align="center">
+        <img src="{{ $img_src }} ">
+      </td>
+      {{ end }}
+    </tr>
+  </tbody>
+</table>

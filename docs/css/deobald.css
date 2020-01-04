@@ -25,9 +25,16 @@ hr::before {
 }
 
 /* image captions */
-img + em {
+img + em, .image-table + p > em, .image-table + em {
     font-style: normal;
     display: inherit;
     text-align: center;
     font-size: 80%;
+}
+
+.image-table, .image-table tbody tr:nth-child(2n+1) td, .image-table-cell {
+    margin-bottom: 0px;
+    background: none;
+    border: none;
+    border-collapse: collapse;
 }
