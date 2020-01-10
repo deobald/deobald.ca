@@ -110,7 +110,7 @@ Meditation centres are a collective exception; spaces designed for meditation ar
 
 Vipassana centres around the globe are designed in the same way, run entirely on donations and volunteer efforts. Courses are free and anyone is welcome to apply to take an introductory 10-Day course to learn how to meditate. All Silent Spaces come with restrictions and this is the key restriction of a Vipassana Centre: you must know how to meditate as an old student in Vipassana to make free use of the centre. In fact, the restrictions of Vipassana Centres are actually a bit stricter than this. They remain universal spaces, however, because they are strict in terms of their uses, not their users. _Silence_ is escalated to _Noble Silence_. Not only is the meditation hall of a Vipassana Centre free of talking and phones, Noble Silence forbids touching, eye contact, reading, writing, and bodily noises.
 
-Because of this strict focus on a precise definition of silent and an individual form of meditation, the universality of formal meditation centres is far from perfect. If I need a couple of hours to think deeply about a difficult problem in silence, a Zendo or a Vipassana Centre is not the space for it. Thankfully, not every Silent Space must incorporate these strict rules. Meditation centres provide us with an architectural aspiration. Their extreme example is a template of what humanity will soon need to build into in every neighbourhood of every town or city.
+Because of this strict focus on a precise definition of silent and an individual form of meditation, the universality of formal meditation centres is far from perfect. If I need a couple of hours to think deeply about a difficult problem in silence, a Zendo or a Vipassana Centre is not the space for it. Thankfully, not every Silent Space must incorporate these strict rules. Meditation centres provide us with an architectural aspiration. Their extreme example is a template of what humanity will soon need to build into every neighbourhood of every town or city.
 
 ***
 
@@ -124,6 +124,8 @@ The canonical Silent Space is almost painfully obvious but it does have some dis
 1. Signage
 2. Sound barriers
 3. A building
+
+(Optional features might include such basics as public toilets and drinking water taps, provided there is someone to maintain them. But they are not essential.)
 
 Signage should be posted in clear view, in all relevant languages, explaining unambiguously that visitors are in a Silent Space. In Bangalore, such translations of the local Kannada would definitely include Hindi, Tamil, and English. It would be advisable to include Telugu, Marathi, and Malayalam. Clarity and disambiguation is the aim of such translations. The level of detail depends on the space. The large, one-word _SILENCE_ sign at the beginning of this article was enough to keep anyone from speaking, running, clapping, or using their phones when we visited the Theosophical Society Gardens, where I took that photo. If the space is meant to elevate silence from simply external to internal, disallowing physical bodily contact, sleeping, or reading, it should mention this explicitly.
 
