@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.deobald.ca/reading/2020-01-28-reading-list/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/books/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.deobald.ca/categories/</loc>
-    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/libraries/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/categories/reading/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/reading/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.deobald.ca/tags/</loc>
+    <lastmod>2020-01-28T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -44,16 +79,6 @@
   
   <url>
     <loc>https://www.deobald.ca/tags/open-source/</loc>
-    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/</loc>
-    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.deobald.ca/tags/</loc>
     <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url>
   
