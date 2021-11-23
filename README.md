@@ -4,6 +4,22 @@ My personal home page on the world wide web.
 
 # Development
 
+`hyde-hyde` is a submodule. Submodules are the worst:
+
+```
+git submodule init
+git submodule sync
+git submodule update
+# if anything is broken, try upgrading to the latest:
+git submodule update --rebase --remote
+```
+
+You will also need to install the `asciidoctor-html5s` extension:
+
+```
+yay -S ruby-asciidoctor-html5s
+```
+
 Relevant files:
 
 ```

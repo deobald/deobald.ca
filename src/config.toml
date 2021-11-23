@@ -23,3 +23,8 @@ sectionPagesMenu = "main"
 [[menu.main]]
   name = "RSS Feed"
   url = "/index.xml"
+
+[markup]
+  [markup.asciidocExt]
+    backend = 'html5s'
+    extensions = ["asciidoctor-html5s"]
