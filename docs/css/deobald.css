@@ -38,3 +38,11 @@ img + em, .image-table + p > em, .image-table + em {
     border: none;
     border-collapse: collapse;
 }
+
+/* AsciiDoctor */
+.admonition-block {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: rgb(30, 64, 175);
+  color: rgb(219, 234, 254);
+}
