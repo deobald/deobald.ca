@@ -28,3 +28,19 @@ sectionPagesMenu = "main"
   [markup.asciidocExt]
     backend = 'html5s'
     extensions = ["asciidoctor-html5s"]
+
+
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|RUBYLIB)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+
