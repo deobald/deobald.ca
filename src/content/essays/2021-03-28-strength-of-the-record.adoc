@@ -260,8 +260,8 @@ Liu's scholars in the desert would do precisely this. Each scholar's document ma
 
 '''
 
-A copy of this article can always be found at this permanent URL: https://xtdb.com/articles/strength-of-the-record.html
-
+A copy of this article can always be found at this permanent URL:
+https://docs.xtdb.com/concepts/strength-of-the-record/
 
 This work by https://deobald.ca[Steven Deobald] for https://juxt.pro[JUXT Ltd.] is licensed under
 http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0].
