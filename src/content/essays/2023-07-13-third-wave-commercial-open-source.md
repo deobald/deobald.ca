@@ -22,7 +22,9 @@ apps:
 * slides.com
 * excalidraw
 * proton
-* bitwarden
+* bitwarden (vs. 1password, lastpass)
+* cal.com (vs. calendly)
+* mastodon clients
 
 infra:
 * typesense (vs. algolia)
