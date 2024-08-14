@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/home/steven/src/deobald/deobald.ca/src",
+	"sourceRoot": "/home/steven/work/deobald/deobald.ca/src",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
 		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
