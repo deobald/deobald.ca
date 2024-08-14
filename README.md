@@ -4,6 +4,18 @@ My personal home page on the world wide web.
 
 # Development
 
+## Ubuntu:
+
+```
+sudo apt install hugo
+rbenv install 3.2.3     # or whatever version
+rbenv local   3.2.3     # or whatever version
+gem install asciidoctor
+gem install asciidoctor-html5s
+```
+
+## Submodules:
+
 `hyde-hyde` is a submodule. Submodules are the worst:
 
 ```
@@ -14,9 +26,18 @@ git submodule update
 git submodule update --rebase --remote
 ```
 
-You will also need to install the `asciidoctor-html5s` extension:
+If you don't do this, you will see:
+
+`WARN 2024/08/13 21:27:52 found no layout file for "HTML" for kind "home": ...`
+
+## Arch
+
+You can install AsciiDoctor via `yay`,
+including the `asciidoctor-html5s` extension:
 
 ```
+yay -S hugo
+yay -S ruby-asciidoctor
 yay -S ruby-asciidoctor-html5s
 ```
 
