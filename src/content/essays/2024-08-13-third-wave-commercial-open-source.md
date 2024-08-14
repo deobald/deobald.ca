@@ -3,7 +3,7 @@ title: "Third Wave (Commercial) Open Source"
 date: 2024-08-13T00:00:00
 categories: ["open source"]
 tags: ["design", "free software", "open source"]
-draft: true
+draft: false
 ---
 
 Commercial Open Source Softare (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products.
@@ -23,7 +23,7 @@ The term "Open Core" is harder to define than "Commercial Open Source".
 There exist obvious examples of true open source cores to otherwise proprietary software products:
 GitLab, Mattermost, and Metabase provide the classic Community Edition vs. Enterprise Edition dichotomy.
 Other businesses are harder to categorize.
-Many products --- including Telegram, Keybase, and Canonical Snap Store --- release open source clients to proprietary services and arguably don't qualify as commercial open source at all.
+Many products --- including Telegram, Keybase, and Canonical Snap Store --- release open source clients to proprietary services and don't qualify as commercial open source at all.
 
 MySQL was one of the first products to employ dual licensing, capitalizing on the restrictive nature of the GPL.
 Dual licensing was a huge component of their 186-page
@@ -40,11 +40,11 @@ The third wave embraces financial stability with new tools, in addition to the o
 has coined the term "over-the-wall open source", which refers to the idea that the traditional aspects of an open source project --- a public issue tracker, a public code repository, a mailing list, a chatroom, and so on --- are optional.
 If I build a video editing tool for iOS behind closed doors but release a tarball of the source under an open source license with every (paid) binary release, that's still open source.
 Rich Hickey's [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-points directly to the underlying truth of open source:
+points directly at this underlying truth of open source:
 
 > Open source is a licensing and delivery mechanism, period.
 
-Just because it is common to build open source in public does not mean community or social engagement or the entitlement of users have anything to do with open source.
+Just because it is common to build open source in public does not mean community or social engagement or the entitlement of users have anything to do with it.
 And removing some of those things creates a revenue opportunity.
 Want a specific feature built into the product?
 As a team of 3, we'll build it over 2 months for $150,000.
@@ -53,7 +53,7 @@ $50/mo.
 Does your company want read-write access to the issue tracker?
 $150/mo.
 Or whatever.
-The idea that open source is somehow synonymous with martyrdom or 24/7/365 transparency is an understandable error, but an error nonetheless.
+The idea that open source is somehow synonymous with martyrdom, the selfless service of a public library, or 24/7 transparency is an understandable error, but an error nonetheless.
 
 ## What Open Source Is Not
 
@@ -73,7 +73,7 @@ Licenses which are Not Really Licenses, like the
 (pronounced "boozle"),
 are not open source.
 These are license _templates_, which really do not need to exist in the contents of `LICENSE`, at all.
-The timebomb of delicious fresh scent that's released when the change date of a BUSL-licensed codebase is activated might as well just be located in a specific file for that purpose: `PROMISE`, `LICENSE-TIMEBOMB`, or something.
+The timebomb of lemony fresh scent that's released when the BUSL change date is activated might as well just be located in a specific file for that purpose: `PROMISE`, `LICENSE-TIMEBOMB`, or something.
 Not only are these projects not open source, but they don't even provide a consistent license in the way the SSPL does.
 Your company can ask your lawyers to certify the SSPL safe to use.
 Your company cannot certify the BUSL safe to use, because it changes with every product it applies to.
@@ -102,7 +102,7 @@ As Evan Czaplicki stated in
 [_The Economics of Programming Languages_](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 (a talk which applies to other forms of software products as well),
 all software creators want to prevent "getting Jeff'd".
-The AGPL-3.0 is a good start.
+It's not entirely possible to avoid getting Jeff'd, because open source can't discriminate against anyone (even Jeff), but the AGPL-3.0 is a good start.
 
 ## Communal Altruism? Or Centralized Capitalism?
 
@@ -141,10 +141,11 @@ In 2006, Firefox's heyday, "good design" was a lot easier to point to.
 No ugly ads. Clean interfaces. Snappy response times. A brand so loved by fans they
 [cut a crop circle visible on Google Earth (for a while)](https://firefoxcropcircle.com/circle/).
 
-20 years later, all these qualities are taken for granted.
+20 years later, Firefox is coughing up its death hairball --- but all these qualities are now taken for granted.
 Users still hate slow, buggy, laggy, and messy software.
 But we've also grown to demand more of the companies we buy software from, as they increasingly violate the privacy of individuals and companies, exploit copyrighted material, and sell influence.
-"Good design" in 2024 respects users' autonomy, an ironic ouroboros of open source principles _defining quality design_, in the abstract, three decades after a time when open source was synonymous with user interfaces as hideous as the Gnutella config screen.
+Good design in 2024 respects users' autonomy, an ironic ouroboros of open source principles now _defining quality design_, in the abstract.
+If we time-travel back to the birth of today's Computer Science Masters students, "open source" was synonymous with designs as hideous as the Gnutella config screen.
 
 But there was another design event which framed what quality design means today: the iPhone.
 Apple played no small part in elevating discourse surrounding the software design discipline throughout the 21st century.
@@ -203,7 +204,7 @@ Whatever the model, these tools are giving power back to users and embracing the
 Personally, it's hard for me to imagine working for a company which _doesn't_ produce third wave open source.
 I could quite happily work for most of the companies mentioned above.
 
-Still, there are a wide range of applications that don't have competitive open source equivalents yet:
+And there are tons of applications that don't have competitive open source equivalents yet:
 
 * collaborative documents (word processing, spreadsheets)
 * cloud computing

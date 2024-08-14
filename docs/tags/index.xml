@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.deobald.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.deobald.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>https://www.deobald.ca/tags/design/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.deobald.ca/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free software</title>
+      <link>https://www.deobald.ca/tags/free-software/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.deobald.ca/tags/free-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://www.deobald.ca/tags/open-source/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.deobald.ca/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>concepts</title>
       <link>https://www.deobald.ca/tags/concepts/</link>
@@ -22,24 +49,6 @@
       <pubDate>Thu, 11 Nov 2021 15:00:00 +0000</pubDate>
       
       <guid>https://www.deobald.ca/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open source</title>
-      <link>https://www.deobald.ca/tags/open-source/</link>
-      <pubDate>Thu, 11 Nov 2021 15:00:00 +0000</pubDate>
-      
-      <guid>https://www.deobald.ca/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://www.deobald.ca/tags/design/</link>
-      <pubDate>Sun, 28 Mar 2021 20:48:00 +0000</pubDate>
-      
-      <guid>https://www.deobald.ca/tags/design/</guid>
       <description></description>
     </item>
     
@@ -76,15 +85,6 @@
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
       
       <guid>https://www.deobald.ca/tags/federation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>free software</title>
-      <link>https://www.deobald.ca/tags/free-software/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://www.deobald.ca/tags/free-software/</guid>
       <description></description>
     </item>
     
