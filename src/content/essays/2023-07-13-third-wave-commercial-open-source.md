@@ -16,16 +16,16 @@ The first wave was characterized by shrinkwrapping and commercial support.
 Peaking in the mid-1990s, Red Hat was the poster-child of selling support for software written by other people.
 On the surface, the literal shrinkwrapping is what many of us remember from this time period:
 graphical installers, Linux on CD, and RPMs built by paid employees.
-While branding and polish isn't to be underplayed, it was support the enterprise wanted -- and bought.
+While branding and polish isn't to be underplayed, it was support the enterprise wanted --- and bought.
 
 The second wave was characterized by Open Core products and, occasionally, dual-licensing.
 The term "Open Core" is harder to define than "Commercial Open Source".
 There exist obvious examples of true open source cores to otherwise proprietary software products:
 GitLab, Mattermost, and Metabase provide the classic Community Edition vs. Enterprise Edition dichotomy.
 Other businesses are harder to categorize.
-Many products -- including Telegram, Keybase, and Canonical Snap Store -- release open source clients to proprietary services and arguably don't qualify as commercial open source at all.
+Many products --- including Telegram, Keybase, and Canonical Snap Store --- release open source clients to proprietary services and arguably don't qualify as commercial open source at all.
 
-MySQL was one of the first products to capitalize on dual licensing, capitalizing on the restrictive nature of the GPL.
+MySQL was one of the first products to employ dual licensing, capitalizing on the restrictive nature of the GPL.
 Dual licensing was a huge component of their 186-page
 [2013 pitch deck](https://www.pitchdeckhunt.com/pitch-decks/mysql).
 MySQL, while undoubtedly second-wave, wasn't Open Core.
@@ -37,10 +37,10 @@ There still exist beloved projects like VLC, which
 But most open source projects are increasingly moving toward a revenue model of some kind.
 The third wave embraces financial stability with new tools, in addition to the old strategies of shrink-wrapping and open core.
 [Jamie Brandon](https://www.scattered-thoughts.net/)
-has coined the term "over-the-wall open source", which refers to the idea that the traditional aspects of an open source project -- a public issue tracker, a public code repository, a mailing list, a chatroom, and so on -- are optional.
+has coined the term "over-the-wall open source", which refers to the idea that the traditional aspects of an open source project --- a public issue tracker, a public code repository, a mailing list, a chatroom, and so on --- are optional.
 If I build a video editing tool for iOS behind closed doors but release a tarball of the source under an open source license with every (paid) binary release, that's still open source.
 Rich Hickey's [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-hints points directly to the underlying truth of open source:
+points directly to the underlying truth of open source:
 
 > Open source is a licensing and delivery mechanism, period.
 
@@ -57,7 +57,7 @@ The idea that open source is somehow synonymous with martyrdom or 24/7/365 trans
 
 ## What Open Source Is Not
 
-A few years ago, I actually had a colleague state that "no one decides what 'open source' means -- not the FSF, not the Open Source Initiative, not Debian's DFSG, nobody."
+A few years ago, I actually had a colleague state that "no one decides what 'open source' means --- not the FSF, not the Open Source Initiative, not Debian's DFSG, nobody."
 I didn't bother pointing out the existence of
 [The Open Source Definition](https://opensource.org/osd),
 or the fact that the OSI coined the term ... or the fact that it's incredibly helpful for words to _mean things._
@@ -74,7 +74,7 @@ Licenses which are Not Really Licenses, like the
 are not open source.
 These are license _templates_, which really do not need to exist in the contents of `LICENSE`, at all.
 The timebomb of delicious fresh scent that's released when the change date of a BUSL-licensed codebase is activated might as well just be located in a specific file for that purpose: `PROMISE`, `LICENSE-TIMEBOMB`, or something.
-Not only are they not open source, but they don't even provide a consistent license in the way the SSPL does.
+Not only are these projects not open source, but they don't even provide a consistent license in the way the SSPL does.
 Your company can ask your lawyers to certify the SSPL safe to use.
 Your company cannot certify the BUSL safe to use, because it changes with every product it applies to.
 
@@ -115,7 +115,7 @@ And they all work in different ways.
 
 This diagram places a few sample projects on a plane, but you can probably guess which quadrant I'm placing my bets on:
 commercial delivery and centralized control.
-It's hard to build a company out of a rag-tag group of developers, scattered throughout the globe, who only know each other from the types of jokes they tell on IRC or Discord.
+It's hard to build a company out of a rag-tag group of developers, scattered throughout the globe, who only know each other from the types of jokes they tell on IRC.
 It's also hard to build software without money.
 Even the examples in the "Altruistic" category were financed, somehow.
 Perens, Stallman, and Hickey all made money from consulting gigs.
@@ -132,8 +132,8 @@ But centralization brings other advantages.
 ## The Firefox Phenomenon
 
 Back in 2018, I co-authored an article on the advent of clean design with Varun Pai, our lead designer at Nilenso Software:
-[_Designing for Open Source Software_](https://blog.nilenso.com/blog/2018/04/09/designing-for-open-source-software/)
-While this article finishes with a focus on our specific design choices about the product we were building at the time, the crux of the article is as valid today as it was half a decade ago:
+[_Designing for Open Source Software_](https://blog.nilenso.com/blog/2018/04/09/designing-for-open-source-software/).
+While this article finishes with a focus on our specific design choices, the crux of the article is as valid today as it was half a decade ago:
 good design is essential.
 A coherent, centralized, full-time team helps a great deal when building good design.
 
@@ -143,12 +143,12 @@ No ugly ads. Clean interfaces. Snappy response times. A brand so loved by fans t
 
 20 years later, all these qualities are taken for granted.
 Users still hate slow, buggy, laggy, and messy software.
-But we've also grown to expect more of the companies we buy software from, as an increasing number violate the privacy of individuals and companies, exploit copyrighted material, and sell influence.
-"Good design" in 2024 respects users' autonomy, an ironic ouroboros of open source principles _defining quality design_, in the abstract, three decades after a time when open source was synonymous with user interfaces as hideous as the Gnutella config screen or GIMP.
+But we've also grown to demand more of the companies we buy software from, as they increasingly violate the privacy of individuals and companies, exploit copyrighted material, and sell influence.
+"Good design" in 2024 respects users' autonomy, an ironic ouroboros of open source principles _defining quality design_, in the abstract, three decades after a time when open source was synonymous with user interfaces as hideous as the Gnutella config screen.
 
 But there was another design event which framed what quality design means today: the iPhone.
 Apple played no small part in elevating discourse surrounding the software design discipline throughout the 21st century.
-The iPhone (and small touchscreens, in general) played the specific part of transforming simplicity and ease into salient features for new products:
+The iPhone (and small touchscreens, in general) played the specific part of transforming simplicity and ease-of-use into salient features for new products:
 push a button to call a cab, open a map that tells you where you are, [record a patient's blood pressure](https://simple.org), check your bank balance with your fingerprint, learn a new language while you wait for the bus, edit your company's website with a few clicks.
 
 Simplicity is a requirement for third wave open source and the space that surrounds it.
@@ -163,7 +163,7 @@ the SaaS product hell that brought us
 [Our Incredible Journey](https://ourincrediblejourney.tumblr.com/)
 and
 [killedbygoogle.com](https://killedbygoogle.com/).
-Even though central control of a product builds a better product, it can't be trusted to maintain that product indefinitely.
+Even though central control builds a better product, it paradoxically can't be trusted to maintain that product indefinitely.
 We need to hedge our bets.
 
 ## Local-First
@@ -175,9 +175,9 @@ Yes, software must be beautiful and efficient and respect your privacy.
 But it should also keep working even when the manufacturer goes out of business.
 
 This isn't to say that all third wave open source must be local-first.
-But if your software actively violates these principles -- because it doesn't work without a network connection, or because it relies entirely on a service the user doesn't control (whether free or paid), or because it makes data opaque to users, or because doesn't allow users to control their data, or because it violates privacy, or because it makes data ephemeral -- the less likely it is to qualify for the title of third wave open source.
+But if your software actively violates these principles --- because it doesn't work without a network connection, or because it relies entirely on a service the user doesn't control (whether free or paid), or because it makes data opaque to users, or because doesn't allow users to control their data, or because it violates privacy, or because it makes data ephemeral --- the less likely it is to qualify for the title of Third Wave Open Source.
 
-Third wave open source is future-focused, and local-first software isn't just a prescient idea -- it's an inevitability.
+Third wave open source is future-focused, and local-first software isn't just a prescient idea --- it's an inevitability.
 
 ## Examples
 
@@ -187,7 +187,7 @@ Framework Computer and Oxide Computer are perhaps the more confusing entries, be
 However, Framework makes running Linux (an open source product from the beginning of the era) effortless and embodies the principles of third wave open source: it gives power and control to the user by enabling the Right To Repair.
 Oxide releases all their software as open source, as far as I'm aware.
 
-Some third wave open source companies produce copycat products: cal.com, Bitwarden, Typesense, Neon, Minio, Plausible, Nextcloud, Element (Matrix), and Proton all fit under this label.
+Some third wave open source companies produce copycat products: cal.com, Bitwarden, Typesense, Neon, Minio, Plausible, Nextcloud, Element (Matrix), Supabase, and Proton all fit under this label.
 This isn't an accusation.
 Being open source is a perfectly valid differentiator.
 
@@ -196,7 +196,7 @@ Excalidraw and other login-less web apps embrace instant startup.
 Atuin bridges a hardcore command line utility and a SaaS business.
 A parade of Mastodon clients have replaced the charm of Twitter clients from yesteryear.
 
-Whatever the model, these tools are giving power back to users and embracing the original intent of open source, in contrast to companies that slap a GitHub logo on their website which links to a few clients or drivers they've open-sourced for their otherwise closed data, product, or platform.
+Whatever the model, these tools are giving power back to users and embracing the original intent of open source, in contrast to companies that slap a GitHub logo on their website, linking to a few clients or drivers they've open-sourced for their otherwise closed data, product, or platform.
 
 ## The Future
 
@@ -214,16 +214,18 @@ Still, there are a wide range of applications that don't have competitive open s
 * recipes
 * photo sharing (Instagram)
 * classifieds (Facebook Marketplace, Craigslist, Kijiji)
-* vector/CAD
+* CAD
 * video editing
 * audio editing
 * phones
+* exercise trackers
+* workout equipment
 * newspapers
 * desktop publishing
 * music
 * TV, movies
 
 The list could go on forever.
-I look forward to replacing my day-to-day apps as companies put out new open source products in each category.
+I look forward to replacing my day-to-day apps as companies put out new open source products in all these categories.
 
 ***
