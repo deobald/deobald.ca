@@ -25,3 +25,6 @@ tags: ["design", "free software", "open source"]
     * 1 minute boot-to-kill
     * commercially viable without producing another new billionaire
     * software can be "Done"
+    * open protocols (nokia phone: tel, text ... fax, email)
+    * federation (email, imap - gmail=>fastmail)
+    * interop / open formats / a way out / exit strategy
