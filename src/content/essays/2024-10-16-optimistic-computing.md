@@ -15,9 +15,15 @@ tags: ["design", "free software", "open source"]
     * local-first
 * convergence of ideas:
     * local-first
+    * longevity
+    * sovereign computing
+    * bare metal
+    * zero deps
     * open source
+    * right to repair
     * good design
     * simplicity
+    * no login
     * less, not more
     * ease of use
     * reliability
