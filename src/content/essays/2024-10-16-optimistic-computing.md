@@ -17,6 +17,7 @@ tags: ["design", "free software", "open source"]
     * local-first
     * longevity
     * sovereign computing
+    * self-hosting
     * bare metal
     * zero deps
     * open source
