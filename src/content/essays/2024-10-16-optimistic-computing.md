@@ -36,6 +36,8 @@ tags: ["design", "free software", "open source"]
     * federation (email, imap - gmail=>fastmail)
     * interop / open formats / a way out / exit strategy
     * Right To Repair
+    * retro computing
+    * demoscene
 * a different kind of "optimism":
     * https://www.youtube.com/watch?v=fgm5uZaS3-E&t=840s - "like button" swizzles
     * "optimism" at 17:00-ish
@@ -46,3 +48,4 @@ tags: ["design", "free software", "open source"]
     * share source code AND design
     * facilitate observation (visualization)
     * avoid centralization
+    * disagree on https://permacomputing.net/retro/
