@@ -35,3 +35,14 @@ tags: ["design", "free software", "open source"]
     * open protocols (nokia phone: tel, text ... fax, email)
     * federation (email, imap - gmail=>fastmail)
     * interop / open formats / a way out / exit strategy
+    * Right To Repair
+* a different kind of "optimism":
+    * https://www.youtube.com/watch?v=fgm5uZaS3-E&t=840s - "like button" swizzles
+    * "optimism" at 17:00-ish
+* https://permacomputing.net/
+    * "it's like permaculture, but for computing" isn't a very good description
+    * https://permacomputing.net/design_for_descent/ - enables ubiquitous computing, lower-powered devices, etc.
+    * Build on Solid Ground - low deps, stable deps, Boring Technology
+    * share source code AND design
+    * facilitate observation (visualization)
+    * avoid centralization
