@@ -3,7 +3,7 @@ draft: true
 title: "Optimistic Computing"
 date: 2024-12-09T00:00:00
 categories: ["open source"]
-tags: ["design", "free software", "open source"]
+tags: ["design", "local-first", "open source", "federation"]
 ---
 
 I recently made two new friends:
@@ -329,12 +329,16 @@ Computing is a melting pot of ideas, good and bad.
 When we build anything with computers, we stir the pot.
 The thing about ideas which espouse resilience and longevity is that they're more likely to survive themselves.
 I really have no idea when we'll live in such a world --- but I do know it's inevitable.
+
+Most of these ideas are pretty old.
+This isn't an optimism born of fairy tales because, truth be told, most of the software we have today is actually... fine? ... but applying these ideas would make it so much better.
+A Google that doesn't spy on me, beautiful products that will make Tim Apple cry tears of penitence, a cloud computer my company really owns top to bottom, immutable systems that comprehensively obliterate the problem of mutation, open protocols out the wazoo, software I can pass down to my niece and goddaughter, tools that always work and work anywhere, businesses that actually _sell something_ ... the list goes on and on.
 Every little glimpse we get is exciting to me.
 There's a lot of fun stuff happening in computers right now.
 
-Of course, no one product or company or indie project will ever catch hold of _all_ these ideas.
+Of course, no one product, company, or indie project will ever catch hold of _all_ these ideas.
 Some of them even contradict others, so it's impossible to tick every box.
 But the greater the number of good ideas any one company or product chooses to keep in its basket, the more capable staff it can hire (good hackers love to work on good products) and the more savvy customers it will attract.
-And, slowly but surely, everyone else will follow.
+Slowly but surely, everyone else will follow.
 
 ***
