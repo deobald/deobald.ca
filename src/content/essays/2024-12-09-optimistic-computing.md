@@ -1,7 +1,7 @@
 ---
 title: "Optimistic Computing"
 date: 2024-12-09T00:00:00
-categories: ["open source"]
+categories: ["technology"]
 tags: ["design", "local-first", "open source", "federation"]
 draft: false
 ---

@@ -20,9 +20,6 @@
     <loc>https://www.deobald.ca/tags/open-source/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/open-source/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,7 +29,13 @@
     <loc>https://www.deobald.ca/tags/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.deobald.ca/categories/technology/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.deobald.ca/tags/free-software/</loc>
+    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/categories/open-source/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</loc>
@@ -147,9 +150,6 @@
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/categories/technology/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</loc>
