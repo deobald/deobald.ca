@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    
+    <link rel="canonical" href="http://localhost:1313/essays/2024-12-09-optimistic-computing/">
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.123.7">
+
+    
+    
+    
+
+<title>Optimistic Computing • Steven Deobald</title>
+
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Optimistic Computing"/>
+<meta name="twitter:description" content="I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&rsquo;m an optimist and I should write about it. Dawn said I shouldn&rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&rsquo;s recommendation &mdash; and credits Dawn, in the very likely event I should have followed her advice instead.
+I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering."/>
+<meta name="twitter:site" content="@deobald"/>
+
+<meta property="og:title" content="Optimistic Computing" />
+<meta property="og:description" content="I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&rsquo;m an optimist and I should write about it. Dawn said I shouldn&rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&rsquo;s recommendation &mdash; and credits Dawn, in the very likely event I should have followed her advice instead.
+I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/essays/2024-12-09-optimistic-computing/" /><meta property="article:section" content="essays" />
+<meta property="article:published_time" content="2024-12-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-12-09T00:00:00+00:00" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.3081c4981fb69a2783dd36ecfdd0e6ba7a158d4cbfdd290ebce8f78ba0469fc6.css" integrity="sha256-MIHEmB&#43;2mieD3Tbs/dDmunoVjUy/3SkOvOj3i6BGn8Y=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+<link rel="stylesheet" href="/css/deobald.css">
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="http://localhost:1313/">Steven Deobald</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/03e8994ec9679667eb7eabe1138e168e?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Steven Deobald</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/essays/">
+						<span>Essays</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/reading/">
+						<span>Readings</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/index.xml">
+						<span>RSS Feed</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/deobald" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	<a href="https://github.com/deobald" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://keybase.io/deobald" rel="me"><i class="fab fa-keybase fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	<a href="mailto:steven@deobald.ca" rel="me"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+</section>
+
+        <div style="padding:1em;">
+  
+  
+  <section class="social">
+    <iframe src="https://github.com/sponsors/deobald/button" title="Sponsor deobald" height="35" width="107" style="border: 0;"></iframe>
+  </section>
+
+</div>
+
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Optimistic Computing</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Dec 09, 2024
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/open-source">OPEN SOURCE</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/design">design</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/local-first">local-first</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/open-source">open source</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/federation">federation</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 18 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>I recently made two new friends:
+<a href="https://www.abhinavomprakash.com/">Abhinav Omprakash</a> and
+<a href="https://dcwalker.ca/">Dawn Walker</a>.
+Abhinav said I&rsquo;m an optimist and I should write about it.
+Dawn said I
+<a href="https://www.wussu.com/laotzu/laotzu32.html">shouldn&rsquo;t</a>
+try to coin any new terms.
+I should know better, but this essay follows Abhinav&rsquo;s recommendation
+&mdash; and credits Dawn, in the very likely event I should have followed her advice instead.</p>
+<p>I have been alive for approximately four decades.
+Each of those decades was witness to its own fun brand of computering.
+(And the 2020s, as a bonus.)</p>
+<ul>
+<li>1980s: Computers! You can have one.</li>
+<li>1990s: Your computer can talk to <em>every other computer.</em></li>
+<li>2000s: Computers can be mainstream. Even fashionable.</li>
+<li>2010s: The computer&rsquo;s in your pocket. It yanks programs from the ether.</li>
+<li>2020s: Ubiquitous Computing happened and I&rsquo;m not sure anyone even bothered to let Adam Greenfield know.</li>
+</ul>
+<p>The big corporations always had access before we, the proletariat.
+Workstations before PCs, LANs before the Internet, BlackBerry before iPhone.
+But we always get our grubby little paws on the toys eventually, so there
+isn&rsquo;t a meaningful divide between B2B and B2C.
+Just a minor temporal gap.</p>
+<p>Entire libraries have been written on the anticompetitive nature of large tech Microsofts, an Apple&rsquo;s shoddy hardware designed for obsolescence, some Amazon&rsquo;s ruthless business practices and exploitation of the open source ecosystem, The Google&rsquo;s 20-year privacy decay and its utter lack of respect of even its paying customers, Facebook and/or Meta&rsquo;s direct role in genocide, and the general deterioration of computing products.</p>
+<p>It&rsquo;s been said before.
+We don&rsquo;t need to go over all that here.</p>
+<p>Let&rsquo;s instead focus on the valuable output of these companies (and others), what we can take from them, and how it might converge with indie tech in a fun cornucopia of colourful goop.</p>
+<hr>
+<h2 id="the-two-things-i-dont-mean">The Two Things I Don&rsquo;t Mean</h2>
+<p>People confuse the things I say a lot.
+<em>A lot.</em>
+Somehow, when I started an employee-owned software company back in 2012, people in Bangalore would often confuse it with some sort of arbitrary idealism (<em>&ldquo;well, that&rsquo;s a cute idea but I can&rsquo;t see how it would ever work&rdquo;</em>) and people in Canada &mdash; people who buy their gasoline and groceries from a store named, I shit you not, &ldquo;The Co-op&rdquo; &mdash; thought I was starting an NGO.</p>
+<p>People tend to get equally confused when I talk about open source, the merits of e2ee, the merits of federation and protocols, Right To Repair, democratic corporations, and so on.
+Perhaps I&rsquo;m just a poor communicator.</p>
+<p>But this confusion might just be the natural tendency we all have to prefer simple binaries, extremes, and ideals.
+It&rsquo;s easier to waggle our heads at someone we perceive as an idealist or to point an accusing finger at someone&rsquo;s extremism than it is to treeshake the nuance.</p>
+<p>When it comes to <em>optimism</em>, there are are two extremes I will ask you to put in a box and bury in a deep, dark hole.</p>
+<p>First, I do not mean <em>techno-optimism</em>, of any kind.
+Good god do I not mean this.
+Not that sort of dystopian extremism advocated by Mr. Ben Andreessen (that sure is a hard name to type&hellip; I wonder if it was Andre Essen at one point in his family tree) and certainly not the sort that could be captured in manifestos written in the most exhausting grammar imaginable.
+(Did you read that thing? Doesn&rsquo;t Ben Andreessen have $5 <em>billion</em> dollars?
+You&rsquo;d think he would have hired a ghostwriter.)
+But also not
+<a href="https://www.youtube.com/watch?v=fgm5uZaS3-E&amp;t=1050s">whatever Mr. MKBHD Esq. is referring to</a>
+when he describes a Tesla event populated with pretend humanoid robots as &ldquo;optimistic&rdquo;.</p>
+<p>This is not the optimism of the technology elite.
+Whatever I&rsquo;m talking about, it&rsquo;s probably not even very sexy.</p>
+<p>Second, I do not mean Permacomputing, Solidarity Economy, System Thinking, Systemic Design, Sustainable Computing, Computing Within Limits, or&hellip; any of that stuff.
+Those things are cool and nice and fine but they have a certain taste I&rsquo;m trying to avoid here.
+I think that taste is the aftertaste of hard tack and hummus washed down with a Twenty Winds Chai Tea Latte.</p>
+<p>This is not the optimism of the hippies or artists.
+Whatever I&rsquo;m talking about, it still makes money.</p>
+<p>Both of these extremes <em>crave</em> something.
+It might be another trillion dollars thanks to the latest business gadgetry.
+It might be a technological answer to society&rsquo;s fundamentally social problems.
+It might be an idolized 1980s that never really was.
+It might be nothing more than a masturbatory and self-indulgent performance.</p>
+<p>Real optimism doesn&rsquo;t really want anything.
+Rather, it just anticipates a specific inevitability based on the confluence of a bunch of darn great ideas.</p>
+<hr>
+<h2 id="boot-to-kill">Boot To Kill</h2>
+<p>The first of these great ideas is easily misattributed to the Apple of the mid-2000s: simplicity and ease of use.
+Sure, they tried their best, too.
+The 4th generation iPod is still a work of art.
+But as we all know, the true herald was 1997&rsquo;s <em>Diablo</em> by Blizzard North.
+David Brevik describes the key design decision this way:</p>
+<blockquote>
+<p>&ldquo;Time from boot up to kill was, like &hellip; it&rsquo;s gotta be under a minute.&rdquo;</p>
+</blockquote>
+<p>I <a href="https://www.youtube.com/watch?v=huPF3Gid7DE&amp;t=390s">love this quote</a>
+the moment I heard it and I&rsquo;ve abused it on every product I&rsquo;ve built since.</p>
+<p>So much is bundled into this idea.
+<em>It Just Works</em> is at home here; you don&rsquo;t get to give your users a manual or a How-To or a README or a Quickstart.
+There can&rsquo;t be a cluster to stand up with 15 lines of boilerplate or <em>just a little glue code</em> or a YAML file to edit if you only have one minute.
+Setup for systems like this is &ldquo;push the power button to turn it on.&rdquo;
+Bam. You&rsquo;re there.
+There&rsquo;s a ton of social and technical complexity that one must eliminate to do this correctly.
+Complexity can be limited, I suppose, by squeezing the blubber through a tiny hole
+like the App Store (which is not a true
+<a href="https://www.oilshell.org/blog/2022/02/diagrams.html">narrow waist</a>),
+but it&rsquo;s always more satisfying when someone treats this idea as fundamental to their product.</p>
+<p>There are a bunch of other ideas that come for free with &ldquo;boot to kill in under a minute&rdquo;:
+Limiting (or eliminating) dependencies, simplicity, raw ease of use, less-is-more, and No Login.
+That last one stands for &ldquo;Now Optional Login&rdquo; in the same way NoSQL stands for &ldquo;Not Only SQL&rdquo;, I think.</p>
+<p>As developers, we all appreciate small, simple, composable things with zero dependencies.
+But as users?
+One of the most annoying points of friction in software these days is the seemingly-ubiquitous requirement to <em>Create A New Account To Get Started!</em> for all sorts of software that shouldn&rsquo;t need one.
+Taking my email or phone number and sending me an OTP is equivalent to creating an account.
+You&rsquo;ve got me now.
+I don&rsquo;t want to get got.</p>
+<p>There are notable exceptions: <a href="https://www.gather.town/">Gather Town</a> and
+the ever-delightful <a href="https://excalidraw.com/">Excalidraw</a>.
+Gather Town is exclusively social and Excalidraw is only as social as you want it to be, suggesting that many of the apps and team tools we use today don&rsquo;t <em>really</em> require a login.
+I sometimes open Excalidraw only to be greeted by my last doodle from <em>months or years prior.</em>
+I can&rsquo;t say the same for Microsoft 365, even though it makes me log in 173 times a day.
+As I scroll through my password manager, only my email provider, bank, and government immigration websites stand out as apps that require some form of identity with the very first use.
+And maybe <a href="https://cms.furcadia.com/">Furcadia</a>.</p>
+<p>Identity or not, there&rsquo;s been a great deal of marketing nonsense spewed (spewn? I think spewn.) across our industry claiming one thing or another &ldquo;delights users.&rdquo;
+But delightful products rarely get to bask in the radiance of the user&rsquo;s euphoria.
+An excellent product is one we take for granted almost instantly:
+Install it with one click.
+It works.
+It works every time.
+We quickly start to forget it&rsquo;s even there.</p>
+<p>Most people aren&rsquo;t delighted when they pour themselves a cup of clean water from the tap.
+Nor should they be.
+This should be the default.
+Good software is a utility &mdash; we only notice it when it breaks.
+And a good utility never breaks.</p>
+<hr>
+<h2 id="less-less-less">Less, less, less.</h2>
+<p>Diablo may have defined the best user experiences of our generation but I will credit Apple with pushing one idea throughout the Intel era: <em>less.</em>
+Obviously Apple doesn&rsquo;t want us to buy fewer phones.
+But MacOS took what was essential in BSDs and gave it to you with fewer options, in the name of fashion.
+(If you really needed the options, you could dig.)
+The iPod had few, if any, options.
+The iPhone limited screen real estate and click precision in a way that forced UI and UX that was just&hellip; less.</p>
+<p>Giving someone <em>less</em> is also often described as giving them a product which is <em>opinionated</em>, <em>fashionable</em>, or <em>constrained</em>.
+Maybe that product is an immutable data structure.
+Maybe that product is Rust or Rails or Flutter.
+Maybe that product is their entire computer.</p>
+<p>What does immutability have in common with NES cartridges?
+Immutability, whether at the PL level like Rust, at the primary memory level like Clojure, or at the disk level like Kafka
+(and my own little experiment, <a href="https://www.endatabas.com">Endatabas</a>),
+eliminates an entire category of complexity by removing power and transparency from the user.
+NES cartridges, likewise.
+It&rsquo;s hard to break a NES game by overwriting a critical file or by upgrading a dependency in a way that isn&rsquo;t backward-compatible.
+Power has been taken away from the user and an opinionated experience is provided in return.</p>
+<p>I feel your tension.
+<em>Most of these things are the antithesis of hacker culture!</em> you say.
+Indeed, the tension isn&rsquo;t yours alone.
+The tension is real.
+It&rsquo;s very difficult to create a product which encourages your customers to repair it, to tinker with it, or even just to use it in a way they particularly want aaaand provide an opinionated user experience &mdash; but it can be done.
+Of course, most companies will choose one side of this tension or the other.
+Framework emphasizes RTR.
+Oxide emphasizes OOTB.
+But the out-of-the-box Framework experience is still very good and an Oxide computer is still repairable.</p>
+<p>Many modern software products attempt to give us less-is-more UX, fashion, and sleek, sexy UIs.
+Some succeed, some don&rsquo;t.
+That list includes software from every corner&hellip; those smooth operators like Notion, Figma, Things, Signal, Tailscale, Warp Terminal, GNOME 47, Bluesky, and &mdash; for some reason I&rsquo;ll never quite understand &mdash; every JavaScript framework on the planet.</p>
+<p>There will never be a perfect answer with which to resolve this tension.
+Instead, product owners get to use this tension as a playground.
+How powerful and hackable can a product be while still providing an opinionated user experience with less to worry about?
+How much do I even care about either of those things?
+It&rsquo;s up to you to decide! Yay!</p>
+<hr>
+<h2 id="done">Done.</h2>
+<p>Speaking of NES cartridges, you may have noticed the resurgence of retrocomputing these days.
+Everywhere I look, there are folks building for 16-bit platforms, creating pixel art, revisiting the demoscene, writing all sorts of emulators, and digging around for various ancient hardware at estate sales.
+Powering up an old Amiga or Beeb, popping a floppy, and watching the old beast spring to life is a very specific kind of joy appreciated by a very specific kind of nerd.</p>
+<p>But I take issue with an idea I see bandied about as though it were the natural and inevitable coda to that experience:
+<em>&ldquo;But, of course, you couldn&rsquo;t do that TODAY.&rdquo;</em>
+(The Permacomputing folks have
+<a href="https://permacomputing.net/retro/">a different beef</a>
+with retrocomputing. That&rsquo;s their beef, not mine.)</p>
+<p>Rarely does it take on a medium so concrete as an NES cartridge, but software that is &ldquo;Done&rdquo; still exists today.
+It can still be created today.
+For many chunky lumps of enterprise software, software must be &ldquo;Done.&rdquo;
+Companies do not have infinite money to spend on Continuous Improvements, ad infinitum.
+If your bank and your health insurance can run on 40-year-old COBOL, surely a service, built on open standards with well-defined boundaries, could also survive 40 years?</p>
+<p>The execuse, of course, is always that a modern program must interact with the Internet, which is big and bad, and that security is hard.
+So of course software can&rsquo;t be &ldquo;Done.&rdquo;</p>
+<p>But this is a cop-out.
+It is true that network-connected hardware is harder to, uh, harden.
+It is not true that it cannot be done.
+And in many cases, software can be stable with only security updates.
+Entire BSD and Linux distros exist in this middle ground.
+At worst, a consumer-grade application that was &ldquo;Done&rdquo; but stands on top of some library or protocol with a fatal security flaw will simply have to run offline forever.</p>
+<p>All your software is offline-capable if need be, right?</p>
+<hr>
+<h2 id="local-first">Local-First</h2>
+<p>Even non-programmers are discovering the strange truth that the entire software industry was <a href="https://www.youtube.com/watch?v=9TJuOwy4aGA">&ldquo;tricked into going back to time-sharing&rdquo;</a>.
+Thankfully, Martin Kleppmann recently
+<a href="https://www.youtube.com/watch?v=NMq0vncHJvU">took a crack</a>
+at distilling &ldquo;local-first&rdquo; down from the original 7 Ideals to the far more concise:</p>
+<blockquote>
+<p>The availability of another computer should never prevent you from working.</p>
+</blockquote>
+<p>This rule is just so lovely, in so many ways.
+First, it actually captures <em>more</em> than the original 7 Ideals, in fewer words.
+The original 7 Ideals were synonyms of: snappy, multi-device, works offline, collaboration, long now, security and privacy by default, user ownership and control.
+The difficulty with this list, of course, is that each of these items is subject to interpretation &mdash; and a system which adheres to, say, 5 of 7 ideals may still try to stamp itelf with that sweet &ldquo;LoFi Inside&rdquo; logo.
+(<a href="https://linear.app/">Linear</a>, a snappy SaaS kanban board which may not exist by the time you read this and which, in my mind, has nothing to do with lo-fi, is a great example.)</p>
+<p>If other computers aren&rsquo;t allowed to get in my way, then the services those computers represent (or provide, by way of execution) also cannot get in my way.
+Reliability is baked into this ideal.
+<em>It Just Works</em> is baked into this ideal.
+I mean, if It &mdash; whatever It happens to be &mdash; is not working, presumably you&rsquo;re prevented from working, too.
+And that&rsquo;s the rule we&rsquo;re not allowed to break in the lo-fi world.
+Thus, <em>It Works Forever</em> is baked into this ideal.
+The company that makes your software might deteriorate, change its business model, or disappear entirely&hellip; but (any given release of) your software should not.
+Right To Repair is implied, and so, as a consequence, open source is also implied. (Though neither is a hard requirement.)
+Longevity is baked in.
+If aitch tee tee pee linear dot app goes offline, my bloody kanban board todo list thingy better keep working.
+Forever.</p>
+<p>If someone else&rsquo;s computer isn&rsquo;t allowed to stop me from working, it&rsquo;s no longer required to declare that I (or my business) own and control the software I (or my business) run and the data we create &mdash; it&rsquo;s self-evident.
+As a consequence, sovereignty is strongly implied.
+I mean, it would still be <em>technically</em> possible for Slack Inc. to siphon off all my company&rsquo;s data to feed their hungry data mining partner companies if Slack-The-App were local-first by Martin&rsquo;s definition.
+It would just be very weird.
+It feels more <em>obviously wrong</em> for Slack to steal my company&rsquo;s data if there isn&rsquo;t even a reason for their product to talk to slack dot com.</p>
+<p>It&rsquo;s strange to think of all the many happy downstream consequences of this one punchy little requirement.
+It&rsquo;s exciting to think about an entirely new breed of software that treats their customers &mdash; individuals and corporations, both &mdash; with this kind of respect.</p>
+<hr>
+<h2 id="every-user-is-a-power-user">Every User is a Power User</h2>
+<p>There&rsquo;s some strange froth on the horizon of the internet.
+White caps, even.
+It&rsquo;s not nearly as easy to see as the dominance of retrocomputing but that&rsquo;s because retrocomputing is <em>right here in the boat</em> and the froth is, like, dozens of nautical miles away.
+I&rsquo;m not a sailor so I&rsquo;m not sure if that&rsquo;s actually far.
+And I&rsquo;m quite blind in one eye.</p>
+<p>There&rsquo;s a small contingent of ex-colleagues of mine, including
+<a href="https://github.com/malcolmsparks">Malcolm Sparks</a> and
+<a href="https://github.com/jasim">Jasim Basheer</a>,
+who are huge proponents of the idea that the user and the developer are artificial categories, that we should and could actively blur the boundary between them.
+They love old systems like HyperCard and Visual Basic, without the nostalgia that normally accompanies those memories.
+I don&rsquo;t think many people can rediscover the magic of VB3, but Maggie Appleton&rsquo;s
+<a href="https://www.youtube.com/watch?v=qo5m92-9_QI">&ldquo;barefoot developers&rdquo;</a>
+might bring these old ideas to life in the text editor (or prompt box) first, rather than by drawing a button onto an empty window and double-clicking it to attach an event handler.
+Say what you might about recent developments in LLMs, even I can write a bash script in 2024.
+Combining that idea with local-first and putting those tools in more hands will give the average user a leg up.
+These older ideas of empowering users with programmatic tools have resurfaced any number of times over the years, but however proprietary your VBX objects might have been, your Salesforce Data Model Objects are objectively worse.</p>
+<p>Meanwhile, all sorts of cute 1990s ideas have found a home in the minds of 2020s humans.
+It feels a bit like the GeoCities era.
+You&rsquo;ll hear Google employees unironically discuss the Open Web.
+You&rsquo;ll hear SaaS salesmen like DHH pitching bare metal and software ownership.
+It&rsquo;s getting harder and harder to step into a living room that isn&rsquo;t running a little homelab or self-hosting an invite-only Mastodon server.</p>
+<p>After a heavy decade, filled with this looming feeling like the large cloud vendors might slurp all the juice out of that sweet, sweet LAMP stack fruit with their slippery proboscides, it feels as though perhaps things are turning a corner?
+These products only live by way of open source, open protocols, open formats, open interop, and (in the case of email) federation.
+Every goofy little homelab is a tiny defense against your favourite database product <a href="https://www.youtube.com/watch?v=XZ3w_jec1v8">getting jeff&rsquo;d</a>.</p>
+<p>There&rsquo;s a gap between these two.
+Someone asking ChatGPT to write them a Python script that will download all their YouTube videos from an API and turn it into an Excel workbook probably has very different interests than someone running Navidrome at home so she can listen to her own MP3s instead of paying for Spotify forever.
+But not <em>so</em> different?
+It&rsquo;s easy to see how one day soon, both of these budding hackers could be the same person and she might not label herself a &ldquo;hacker&rdquo; at all.</p>
+<p>This is one space where consumers get the toys first.
+I&rsquo;m not sure how many offices let you run a fileserver or Kafka cluster under your desk&hellip; but maybe that time is coming.</p>
+<hr>
+<h2 id="boring-tech-boring-businesses">Boring Tech, Boring Businesses</h2>
+<p>We all respect <a href="https://boringtechnology.club/">Boring Technology</a>.
+But what about the boring businesses?
+If you weren&rsquo;t paying attention, you might have read all the above points with some sort of lens that implies they&rsquo;re idealistic, futuristic, and dreamy.
+I told you they weren&rsquo;t from the very beginning, though, remember?
+This stuff isn&rsquo;t just for homelabos (which, by the way, I cannot read any other way than &ldquo;Homelab-O&rsquo;s&rdquo;, like the kind of O-shaped breakfast cereal that tastes of chocolate-covered homelab) and developers at Signal Messenger.
+Or&hellip; what&rsquo;s nerdier than Signal? &hellip; SecureScuttleButt?
+No, that goes too far.
+But you get the idea.</p>
+<p><img src="/img/2024-12-09-chocolate-frosted-homelabos.jpg" alt="image"></p>
+<p>Okay, so what does any of this have to do with writing software for an insurance company or a real estate company?
+Well, if the world is tilting toward better behaviour &mdash; a world in which companies respect our (and one another&rsquo;s) privacy and security, a world in which software works even if the manufacturer skips town, a world in which you&rsquo;re probably paying for services and not the raw, unwashed software itself &mdash; then it&rsquo;s a lot less likely that the insurance company you work for is going to ask you to scrape up all the customer PII and sell it to their partners via an API.</p>
+<p>This may seem like a minor thing, but it could be profound!
+If enshittification (I really don&rsquo;t like that word, for what it&rsquo;s worth, but we all know what it means so it carries a certain utility) is one tine of this particular fork in the road then the other isn&rsquo;t subject to the same kind of decay.
+The second tine, the better tine, is a mountain of good technology and good ideas, all piled on top of one other.
+It&rsquo;s hard to disassemble or degrade the mountain if it&rsquo;s just too big and heavy to bother with.
+And the insurance company won&rsquo;t bother.
+They&rsquo;d rather sell insurance.</p>
+<hr>
+<h2 id="the-great-convergence">The Great Convergence</h2>
+<p>It seems we are on the cusp of a new wave of computing.
+It will be hard to hype because there isn&rsquo;t really any value in hyping it&hellip; it&rsquo;s just happening.
+And it&rsquo;s not happening at breakneck speed.
+A world filled with this Really Good Software might happen in the 2030s or it might happen in your grandchildren&rsquo;s lifetime.
+Computing is a melting pot of ideas, good and bad.
+When we build anything with computers, we stir the pot.
+The thing about ideas which espouse resilience and longevity is that they&rsquo;re more likely to survive themselves.
+I really have no idea when we&rsquo;ll live in such a world &mdash; but I do know it&rsquo;s inevitable.</p>
+<p>Most of these ideas are pretty old.
+This isn&rsquo;t an optimism born of fairy tales because, truth be told, most of the software we have today is actually&hellip; fine? &hellip; but applying these ideas would make it so much better.
+A Google that doesn&rsquo;t spy on me, beautiful products that will make Tim Apple cry tears of penitence, a cloud computer my company really owns top to bottom, immutable systems that comprehensively obliterate the problem of mutation, open protocols out the wazoo, software I can pass down to my niece and goddaughter, tools that always work and work anywhere, businesses that actually <em>sell something</em> &hellip; the list goes on and on.
+Every little glimpse we get is exciting to me.
+There&rsquo;s a lot of fun stuff happening in computers right now.</p>
+<p>Of course, no one product, company, or indie project will ever catch hold of <em>all</em> these ideas.
+Some of them even contradict others, so it&rsquo;s impossible to tick every box.
+But the greater the number of good ideas any one company or product chooses to keep in its basket, the more capable staff it can hire (good hackers love to work on good products) and the more savvy customers it will attract.
+Slowly but surely, everyone else will follow.</p>
+<hr>
+
+  </div>
+  
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-155302034-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.12.1/js/all.js" integrity="sha384-ZbbbT1gw3joYkKRqh0kWyRp32UAvdqkpbLedQJSlnI8iLQcFVxaGyrOgOJiDQTTR" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

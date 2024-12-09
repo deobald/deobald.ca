@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>health on Steven Deobald</title>
+    <title>Health on Steven Deobald</title>
     <link>https://www.deobald.ca/categories/health/</link>
-    <description>Recent content in health on Steven Deobald</description>
+    <description>Recent content in Health on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0530</lastBuildDate><atom:link href="https://www.deobald.ca/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://www.deobald.ca/categories/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menstrual Leave: &#39;I Have Cramps&#39;</title>
       <link>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</guid>
       <description>PMS. I still can&amp;rsquo;t remember first learning about Pre-Menstrual Symptoms as a child. I don&amp;rsquo;t remember the specific event, but the understanding conveyed. I imagine it went something like this: &amp;ldquo;My Mom was really grouchy this morning.&amp;rdquo; - &amp;ldquo;Oh, she probably has PMS.&amp;rdquo; - &amp;ldquo;Is that a disease?&amp;rdquo; - &amp;ldquo;Nah, it&amp;rsquo;s something that happens to Moms once a month. They get really grouchy and you should just leave them alone.&amp;rdquo;</description>
     </item>
-    
     <item>
       <title>Patient Charts</title>
       <link>https://www.deobald.ca/essays/2015-06-02-patient-charts/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/essays/2015-06-02-patient-charts/</guid>
       <description>This is a brief idea I remembered while cleaning up some old files. It initially occurred to me while discussing the status of my eyes with the surgeon after I had a vitrectomy and scleral buckle. Our conversations were terrible. He would stare at the back of my eye with his lenses and probes, ask what I saw, I would give a lengthy description (forgetting a few things) and he would inevitably only write down one or two things I said.</description>
     </item>
-    
     <item>
       <title>Why Ayurveda? Because Science!</title>
       <link>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</guid>
       <description>He squinted through a pair of wrap-around sunglasses, the kind one often expects to see on the crowning end of a wheelchair with wings of lenses spread wide and soaring across a sea of wrinkles &amp;ndash; or drool, if the sea had previously suffered a stroke. Or at home in makeshift bingo halls constructed of a dusty old Lions Club because all the Lions and Lionesses were dead and even the Rotary Club (Rotors?</description>
     </item>
-    
   </channel>
 </rss>

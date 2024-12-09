@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local-First on Steven Deobald</title>
+    <link>http://localhost:1313/tags/local-first/</link>
+    <description>Recent content in Local-First on Steven Deobald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/local-first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimistic Computing</title>
+      <link>http://localhost:1313/essays/2024-12-09-optimistic-computing/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2024-12-09-optimistic-computing/</guid>
+      <description>I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&amp;rsquo;m an optimist and I should write about it. Dawn said I shouldn&amp;rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&amp;rsquo;s recommendation &amp;mdash; and credits Dawn, in the very likely event I should have followed her advice instead.&#xA;I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering.</description>
+    </item>
+  </channel>
+</rss>

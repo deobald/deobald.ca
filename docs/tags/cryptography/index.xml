@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cryptography on Steven Deobald</title>
+    <title>Cryptography on Steven Deobald</title>
     <link>https://www.deobald.ca/tags/cryptography/</link>
-    <description>Recent content in cryptography on Steven Deobald</description>
+    <description>Recent content in Cryptography on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate><atom:link href="https://www.deobald.ca/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://www.deobald.ca/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steve Yegge, You Are Half Right (Part Two: Software Ethics)</title>
       <link>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
-      <description>In 21 Lessons for the 21st Century, Yuval Noah Harari repeatedly emphasizes the need for society to apply critical thinking to the future of software, algorithms, and artificial intelligence. Harari is one of the more forward-thinking philosophers when it comes to disruptive technology and 21 Lessons lucidly collects the requirements for our species&#39; future: our new tools must sustainably respect future arcs of aggregate data use and they must do so globally.</description>
+      <description>In 21 Lessons for the 21st Century, Yuval Noah Harari repeatedly emphasizes the need for society to apply critical thinking to the future of software, algorithms, and artificial intelligence. Harari is one of the more forward-thinking philosophers when it comes to disruptive technology and 21 Lessons lucidly collects the requirements for our species&amp;rsquo; future: our new tools must sustainably respect future arcs of aggregate data use and they must do so globally.</description>
     </item>
-    
   </channel>
 </rss>

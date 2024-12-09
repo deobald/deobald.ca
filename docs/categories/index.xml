@@ -6,105 +6,84 @@
     <description>Recent content in Categories on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.deobald.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.deobald.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>open source</title>
+      <title>Open Source</title>
       <link>https://www.deobald.ca/categories/open-source/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.deobald.ca/categories/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reading</title>
+      <title>Reading</title>
       <link>https://www.deobald.ca/categories/reading/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/reading/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ethics</title>
+      <title>Ethics</title>
       <link>https://www.deobald.ca/categories/ethics/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/ethics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>infrastructure</title>
+      <title>Infrastructure</title>
       <link>https://www.deobald.ca/categories/infrastructure/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/infrastructure/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>meditation</title>
+      <title>Meditation</title>
       <link>https://www.deobald.ca/categories/meditation/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/meditation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>garbage</title>
+      <title>Garbage</title>
       <link>https://www.deobald.ca/categories/garbage/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/garbage/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>technology</title>
+      <title>Technology</title>
       <link>https://www.deobald.ca/categories/technology/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/technology/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cooperatives</title>
+      <title>Cooperatives</title>
       <link>https://www.deobald.ca/categories/cooperatives/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/cooperatives/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>health</title>
+      <title>Health</title>
       <link>https://www.deobald.ca/categories/health/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/health/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>off-grid</title>
+      <title>Off-Grid</title>
       <link>https://www.deobald.ca/categories/off-grid/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/off-grid/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>politics</title>
+      <title>Politics</title>
       <link>https://www.deobald.ca/categories/politics/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/categories/politics/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

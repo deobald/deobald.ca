@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>waste on Steven Deobald</title>
+    <title>Waste on Steven Deobald</title>
     <link>https://www.deobald.ca/tags/waste/</link>
-    <description>Recent content in waste on Steven Deobald</description>
+    <description>Recent content in Waste on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0530</lastBuildDate><atom:link href="https://www.deobald.ca/tags/waste/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://www.deobald.ca/tags/waste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangalore 2030</title>
       <link>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      
       <guid>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</guid>
       <description>This past week, nilenso interviewed a German fellow for a software development position. As part of the routine of meeting a new stranger in this city, a variation of &amp;ldquo;Why do you live in Bangalore?&amp;rdquo; passed between us. My answer to this question is complex and usually varies based on the tone and implied subtext with which the question is asked. My immediate reasons are somewhat boring. My job is here and I like my job.</description>
     </item>
-    
   </channel>
 </rss>
