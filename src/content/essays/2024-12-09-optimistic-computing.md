@@ -23,7 +23,7 @@ Each of those decades was witness to its own fun brand of computering.
 * 1980s: Computers! You can have one.
 * 1990s: Your computer can talk to _every other computer._
 * 2000s: Computers can be mainstream. Even fashionable.
-* 2010s: You can keep a computer in your pocket and yank programs from the ether.
+* 2010s: The computer's in your pocket. It yanks programs from the ether.
 * 2020s: Ubiquitous Computing happened and I'm not sure anyone even bothered to let Adam Greenfield know.
 
 The big corporations always had access before we, the proletariat.
@@ -99,7 +99,7 @@ I [love this quote](https://www.youtube.com/watch?v=huPF3Gid7DE&t=390s)
 the moment I heard it and I've abused it on every product I've built since.
 
 So much is bundled into this idea.
-_It Just Works_ is home here; you don't get to give your users a manual or a How-To or a README or a Quickstart.
+_It Just Works_ is at home here; you don't get to give your users a manual or a How-To or a README or a Quickstart.
 There can't be a cluster to stand up with 15 lines of boilerplate or _just a little glue code_ or a YAML file to edit if you only have one minute.
 Setup for systems like this is "push the power button to turn it on."
 Bam. You're there.
@@ -112,8 +112,8 @@ but it's always more satisfying when someone treats this idea as fundamental to 
 There are a bunch of other ideas that come for free with "boot to kill in under a minute":
 Limiting (or eliminating) dependencies, simplicity, raw ease of use, less-is-more, and No Login.
 That last one stands for "Now Optional Login" in the same way NoSQL stands for "Not Only SQL", I think.
-As developers, we all appreciate small, simple, composable things with zero dependencies.
 
+As developers, we all appreciate small, simple, composable things with zero dependencies.
 But as users?
 One of the most annoying points of friction in software these days is the seemingly-ubiquitous requirement to _Create A New Account To Get Started!_ for all sorts of software that shouldn't need one.
 Taking my email or phone number and sending me an OTP is equivalent to creating an account.
@@ -148,12 +148,12 @@ And a good utility never breaks.
 
 Diablo may have defined the best user experiences of our generation but I will credit Apple with pushing one idea throughout the Intel era: _less._
 Obviously Apple doesn't want us to buy fewer phones.
-But MacOS took what was essential in BSDs and gave it to you with fewer options.
+But MacOS took what was essential in BSDs and gave it to you with fewer options, in the name of fashion.
 (If you really needed the options, you could dig.)
 The iPod had few, if any, options.
 The iPhone limited screen real estate and click precision in a way that forced UI and UX that was just... less.
 
-Giving someone _less_ is also often described as giving them a product which is _opinionated._
+Giving someone _less_ is also often described as giving them a product which is _opinionated_, _fashionable_, or _constrained_.
 Maybe that product is an immutable data structure.
 Maybe that product is Rust or Rails or Flutter.
 Maybe that product is their entire computer.
@@ -176,6 +176,10 @@ Framework emphasizes RTR.
 Oxide emphasizes OOTB.
 But the out-of-the-box Framework experience is still very good and an Oxide computer is still repairable.
 
+Many modern software products attempt to give us less-is-more UX, fashion, and sleek, sexy UIs.
+Some succeed, some don't.
+That list includes software from every corner... those smooth operators like Notion, Figma, Things, Signal, Tailscale, Warp Terminal, GNOME 47, Bluesky, and --- for some reason I'll never quite understand --- every JavaScript framework on the planet.
+
 There will never be a perfect answer with which to resolve this tension.
 Instead, product owners get to use this tension as a playground.
 How powerful and hackable can a product be while still providing an opinionated user experience with less to worry about?
@@ -191,7 +195,7 @@ Everywhere I look, there are folks building for 16-bit platforms, creating pixel
 Powering up an old Amiga or Beeb, popping a floppy, and watching the old beast spring to life is a very specific kind of joy appreciated by a very specific kind of nerd.
 
 But I take issue with an idea I see bandied about as though it were the natural and inevitable coda to that experience:
-_"But, of course, you couldn't do that NOW."_
+_"But, of course, you couldn't do that TODAY."_
 (The Permacomputing folks have
 [a different beef](https://permacomputing.net/retro/)
 with retrocomputing. That's their beef, not mine.)
@@ -311,7 +315,7 @@ Okay, so what does any of this have to do with writing software for an insurance
 Well, if the world is tilting toward better behaviour --- a world in which companies respect our (and one another's) privacy and security, a world in which software works even if the manufacturer skips town, a world in which you're probably paying for services and not the raw, unwashed software itself --- then it's a lot less likely that the insurance company you work for is going to ask you to scrape up all the customer PII and sell it to their partners via an API.
 
 This may seem like a minor thing, but it could be profound!
-If enshittification (I really don't like that word, for what it's worth, but we all know what it means) is one tine of this particular fork in the road then the other isn't subject to the same kind of decay.
+If enshittification (I really don't like that word, for what it's worth, but we all know what it means so it carries a certain utility) is one tine of this particular fork in the road then the other isn't subject to the same kind of decay.
 The second tine, the better tine, is a mountain of good technology and good ideas, all piled on top of one other.
 It's hard to disassemble or degrade the mountain if it's just too big and heavy to bother with.
 And the insurance company won't bother.
