@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.deobald.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design</title>
       <link>https://www.deobald.ca/tags/design/</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.deobald.ca/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Federation</title>
+      <link>https://www.deobald.ca/tags/federation/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/tags/federation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local-First</title>
+      <link>https://www.deobald.ca/tags/local-first/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/tags/local-first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>https://www.deobald.ca/tags/open-source/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +41,6 @@
       <link>https://www.deobald.ca/tags/free-software/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.deobald.ca/tags/free-software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>https://www.deobald.ca/tags/open-source/</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +76,6 @@
       <link>https://www.deobald.ca/tags/encryption/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
       <guid>https://www.deobald.ca/tags/encryption/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Federation</title>
-      <link>https://www.deobald.ca/tags/federation/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/tags/federation/</guid>
       <description></description>
     </item>
     <item>

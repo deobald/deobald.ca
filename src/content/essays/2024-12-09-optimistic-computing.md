@@ -1,9 +1,9 @@
 ---
-draft: true
 title: "Optimistic Computing"
 date: 2024-12-09T00:00:00
 categories: ["open source"]
 tags: ["design", "local-first", "open source", "federation"]
+draft: false
 ---
 
 I recently made two new friends:

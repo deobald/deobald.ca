@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.deobald.ca/categories/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/tags/design/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.deobald.ca/essays/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/tags/federation/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/tags/local-first/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/tags/open-source/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/categories/open-source/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/tags/design/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
+    <loc>https://www.deobald.ca/tags/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/tags/free-software/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/tags/open-source/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/categories/open-source/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/tags/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</loc>
@@ -66,9 +75,6 @@
     <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/categories/ethics/</loc>
-    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/tags/federation/</loc>
     <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/essays/2019-11-20-hacker-villages/</loc>
