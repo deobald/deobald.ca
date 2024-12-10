@@ -17,7 +17,7 @@ Halifax has 5+ working hours overlap with any timezone in Europe or North Americ
 I've been writing code for 30 years, but I will always
 [sweep the floor](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch04.html#sweep_the_floor).
 
-[See my work experience](https://www.linkedin.com/in/steven-deobald/details/experience/)
+Browse my work history on [LinkedIn](https://www.linkedin.com/in/steven-deobald/details/experience/)
 or [hire me](mailto:steven@deobald.ca).
 
 ***
