@@ -12,7 +12,7 @@ I grow teams and ensure that we build the right product.
 Lately, I also build, evolve, and maintain backend Rails codebases for companies and non-profits.
 
 🇨🇦🇮🇳🇺🇸🇪🇺
-I lived in India for 10 years and I will happily travel there.
+I lived in India for 10 years and I will happily travel there for work.
 Halifax has 5+ working hours overlap with any timezone in Europe or North America.
 I've been writing code for 30 years, but I will always
 [sweep the floor](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch04.html#sweep_the_floor).
