@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Steven Deobald</title>
-    <link>https://www.deobald.ca/categories/open-source/</link>
+    <link>http://localhost:1313/categories/open-source/</link>
     <description>Recent content in Open Source on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third Wave (Commercial) Open Source</title>
-      <link>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</link>
+      <link>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</guid>
+      <guid>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</guid>
       <description>Commercial Open Source Softare (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products. COSS has seen two significant waves pass, with a third now emerging. The head of each wave lasts approximately a decade. The tail of each wave extends into the future indefinitely. Each wave subsumes all previous waves.&#xA;The first wave was characterized by shrinkwrapping and commercial support. Peaking in the mid-1990s, Red Hat was the poster-child of selling support for software written by other people.</description>
+    </item>
+    <item>
+      <title>The AIGPL</title>
+      <link>http://localhost:1313/essays/2023-07-14-aigpl/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2023-07-14-aigpl/</guid>
+      <description> RAIL &amp;ldquo;we have no moat&amp;rdquo; open source happens anyway layers:&#xA;training data model code ??? </description>
     </item>
   </channel>
 </rss>

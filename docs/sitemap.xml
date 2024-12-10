@@ -2,289 +2,298 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.deobald.ca/essays/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/</loc>
+    <loc>http://localhost:1313/essays/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/</loc>
+    <loc>http://localhost:1313/essays/2024-12-10-i-am-looking-for-work/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/design/</loc>
+    <loc>http://localhost:1313/tags/federation/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/federation/</loc>
+    <loc>http://localhost:1313/tags/local-first/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/local-first/</loc>
+    <loc>http://localhost:1313/tags/open-source/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/open-source/</loc>
+    <loc>http://localhost:1313/essays/2024-12-09-optimistic-computing/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/categories/technology/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/tags/free-software/</loc>
+    <loc>http://localhost:1313/tags/free-software/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/open-source/</loc>
+    <loc>http://localhost:1313/categories/open-source/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</loc>
+    <loc>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/concepts/</loc>
+    <loc>http://localhost:1313/tags/ethics/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ethics/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2023-07-19-production-consumption/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2023-07-14-aigpl/</loc>
+    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/concepts/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/</loc>
+    <loc>http://localhost:1313/essays/2022-06-21-trucks-tubes-truth/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/blockchain/</loc>
+    <loc>http://localhost:1313/tags/blockchain/</loc>
     <lastmod>2021-11-11T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/</loc>
+    <loc>http://localhost:1313/essays/2021-11-11-blockchain-without-crypto/</loc>
     <lastmod>2021-11-11T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</loc>
+    <loc>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</loc>
     <lastmod>2021-03-28T20:48:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/reading/2020-01-28-reading-list/</loc>
+    <loc>http://localhost:1313/reading/2020-01-28-reading-list/</loc>
     <lastmod>2020-01-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/books/</loc>
+    <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2020-01-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/libraries/</loc>
+    <loc>http://localhost:1313/tags/libraries/</loc>
     <lastmod>2020-01-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/reading/</loc>
+    <loc>http://localhost:1313/categories/reading/</loc>
     <lastmod>2020-01-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/reading/</loc>
+    <loc>http://localhost:1313/reading/</loc>
     <lastmod>2020-01-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/encryption/</loc>
+    <loc>http://localhost:1313/tags/encryption/</loc>
     <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</loc>
+    <loc>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</loc>
     <lastmod>2019-11-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/ethics/</loc>
-    <lastmod>2019-11-28T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/essays/2019-11-20-hacker-villages/</loc>
+    <loc>http://localhost:1313/essays/2019-11-20-hacker-villages/</loc>
     <lastmod>2019-11-20T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/infrastructure/</loc>
+    <loc>http://localhost:1313/categories/infrastructure/</loc>
     <lastmod>2019-11-20T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/meditation/</loc>
+    <loc>http://localhost:1313/tags/meditation/</loc>
     <lastmod>2019-11-20T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/off-grid/</loc>
+    <loc>http://localhost:1313/tags/off-grid/</loc>
     <lastmod>2019-11-20T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/vipassana/</loc>
+    <loc>http://localhost:1313/tags/vipassana/</loc>
     <lastmod>2019-11-20T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/anapana/</loc>
+    <loc>http://localhost:1313/tags/anapana/</loc>
     <lastmod>2019-08-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</loc>
+    <loc>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</loc>
     <lastmod>2019-08-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/meditation/</loc>
+    <loc>http://localhost:1313/categories/meditation/</loc>
     <lastmod>2019-08-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/mental-health/</loc>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
     <lastmod>2019-08-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/social-media/</loc>
+    <loc>http://localhost:1313/tags/social-media/</loc>
     <lastmod>2019-08-28T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</loc>
+    <loc>http://localhost:1313/essays/2019-08-21-i-started-meditating-now-what/</loc>
     <lastmod>2019-08-21T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/infrastructure/</loc>
+    <loc>http://localhost:1313/tags/infrastructure/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-03-01-silent-spaces/</loc>
+    <loc>http://localhost:1313/essays/2019-03-01-silent-spaces/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/urban-planning/</loc>
+    <loc>http://localhost:1313/tags/urban-planning/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-02-05-universal-spaces/</loc>
+    <loc>http://localhost:1313/essays/2019-02-05-universal-spaces/</loc>
     <lastmod>2019-02-05T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/garbage/</loc>
+    <loc>http://localhost:1313/categories/garbage/</loc>
     <lastmod>2019-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</loc>
+    <loc>http://localhost:1313/essays/2019-02-01-india-has-a-three-body-problem/</loc>
     <lastmod>2019-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</loc>
+    <loc>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</loc>
     <lastmod>2019-01-16T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/life-hacks/</loc>
+    <loc>http://localhost:1313/tags/life-hacks/</loc>
     <lastmod>2019-01-16T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</loc>
+    <loc>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</loc>
     <lastmod>2019-01-11T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/drugs/</loc>
+    <loc>http://localhost:1313/tags/drugs/</loc>
     <lastmod>2019-01-11T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/cryptography/</loc>
+    <loc>http://localhost:1313/tags/cryptography/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/ethics/</loc>
+    <loc>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</loc>
+    <loc>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</loc>
     <lastmod>2018-12-25T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</loc>
+    <loc>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</loc>
     <lastmod>2018-12-23T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/travel/</loc>
+    <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2018-12-21T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2018-12-21-what-is-siggu-org/</loc>
+    <loc>http://localhost:1313/essays/2018-12-21-what-is-siggu-org/</loc>
     <lastmod>2018-12-21T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/cooperatives/</loc>
+    <loc>http://localhost:1313/categories/cooperatives/</loc>
     <lastmod>2018-05-23T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</loc>
+    <loc>http://localhost:1313/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</loc>
     <lastmod>2018-05-23T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/nilenso/</loc>
+    <loc>http://localhost:1313/tags/nilenso/</loc>
     <lastmod>2018-05-23T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/feminism/</loc>
+    <loc>http://localhost:1313/tags/feminism/</loc>
     <lastmod>2016-05-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/health/</loc>
+    <loc>http://localhost:1313/categories/health/</loc>
     <lastmod>2016-05-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</loc>
+    <loc>http://localhost:1313/essays/2016-05-01-menstrual-leave-i-have-cramps/</loc>
     <lastmod>2016-05-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/bicycles/</loc>
+    <loc>http://localhost:1313/tags/bicycles/</loc>
     <lastmod>2016-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</loc>
+    <loc>http://localhost:1313/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</loc>
     <lastmod>2016-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/off-grid/</loc>
+    <loc>http://localhost:1313/categories/off-grid/</loc>
     <lastmod>2016-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/transportation/</loc>
+    <loc>http://localhost:1313/tags/transportation/</loc>
     <lastmod>2016-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</loc>
+    <loc>http://localhost:1313/essays/2015-12-01-bangalore-2030/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/electric-vehicles/</loc>
+    <loc>http://localhost:1313/tags/electric-vehicles/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/schools/</loc>
+    <loc>http://localhost:1313/tags/schools/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/solar/</loc>
+    <loc>http://localhost:1313/tags/solar/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/tiny-houses/</loc>
+    <loc>http://localhost:1313/tags/tiny-houses/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/toilets/</loc>
+    <loc>http://localhost:1313/tags/toilets/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/trees/</loc>
+    <loc>http://localhost:1313/tags/trees/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/waste/</loc>
+    <loc>http://localhost:1313/tags/waste/</loc>
     <lastmod>2015-12-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</loc>
+    <loc>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</loc>
     <lastmod>2015-06-03T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2015-06-02-patient-charts/</loc>
+    <loc>http://localhost:1313/essays/2015-06-02-patient-charts/</loc>
     <lastmod>2015-06-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</loc>
+    <loc>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</loc>
     <lastmod>2015-06-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/ayurveda/</loc>
+    <loc>http://localhost:1313/tags/ayurveda/</loc>
     <lastmod>2015-04-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</loc>
+    <loc>http://localhost:1313/essays/2015-04-01-why-ayurveda-because-science/</loc>
     <lastmod>2015-04-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2015-01-01-drugs-meditation-warnings/</loc>
+    <loc>http://localhost:1313/essays/2015-01-01-drugs-meditation-warnings/</loc>
     <lastmod>2015-01-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2014-11-02-what-is-a-software-cooperative/</loc>
+    <loc>http://localhost:1313/essays/2014-11-02-what-is-a-software-cooperative/</loc>
     <lastmod>2014-11-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/cooperatives/</loc>
+    <loc>http://localhost:1313/tags/cooperatives/</loc>
     <lastmod>2014-11-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2014-11-01-welcome-gratitude/</loc>
+    <loc>http://localhost:1313/essays/2014-11-01-welcome-gratitude/</loc>
     <lastmod>2014-11-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</loc>
+    <loc>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</loc>
     <lastmod>2013-03-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/categories/politics/</loc>
+    <loc>http://localhost:1313/categories/politics/</loc>
     <lastmod>2013-03-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</loc>
+    <loc>http://localhost:1313/essays/2013-02-01-an-atheists-glimpse-of-god/</loc>
     <lastmod>2013-02-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</loc>
+    <loc>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</loc>
     <lastmod>2008-05-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/media/</loc>
+    <loc>http://localhost:1313/tags/media/</loc>
     <lastmod>2008-05-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/tags/racism/</loc>
+    <loc>http://localhost:1313/tags/racism/</loc>
     <lastmod>2008-05-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2008-05-01-we-need-more-onomy/</loc>
+    <loc>http://localhost:1313/essays/2008-05-01-we-need-more-onomy/</loc>
     <lastmod>2008-05-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2008-01-02-dupies-dollar-rupees/</loc>
+    <loc>http://localhost:1313/essays/2008-01-02-dupies-dollar-rupees/</loc>
     <lastmod>2008-01-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2008-01-01-not-getting-things-done/</loc>
+    <loc>http://localhost:1313/essays/2008-01-01-not-getting-things-done/</loc>
     <lastmod>2008-01-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2007-09-02-the-gap/</loc>
+    <loc>http://localhost:1313/essays/2007-09-02-the-gap/</loc>
     <lastmod>2007-09-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2007-09-01-fidget-weights/</loc>
+    <loc>http://localhost:1313/essays/2007-09-01-fidget-weights/</loc>
     <lastmod>2007-09-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2007-08-02-google-is-my-new-microsoft/</loc>
+    <loc>http://localhost:1313/essays/2007-08-02-google-is-my-new-microsoft/</loc>
     <lastmod>2007-08-02T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2007-08-01-a-walk/</loc>
+    <loc>http://localhost:1313/essays/2007-08-01-a-walk/</loc>
     <lastmod>2007-08-01T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/2007-04-01-making-it-look-easy/</loc>
+    <loc>http://localhost:1313/essays/2007-04-01-making-it-look-easy/</loc>
     <lastmod>2007-04-01T00:00:00+05:30</lastmod>
   </url>
 </urlset>

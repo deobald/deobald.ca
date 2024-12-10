@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racism on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/racism/</link>
+    <link>http://localhost:1313/tags/racism/</link>
     <description>Recent content in Racism on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 May 2008 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/racism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/racism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cartoons and Comic Books</title>
-      <link>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</link>
+      <link>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</link>
       <pubDate>Fri, 02 May 2008 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</guid>
+      <guid>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</guid>
       <description>The curiosity of my coworkers at ThoughtWorks often leads to a number of healthy and interesting debates, which often occur in the pub, on internal mailing lists, and anywhere in-between. One such discussion, of the mailing list variety, revolved around the topic Chinese economics and politics. Inevitably, the recent Angry Red Dragon issue of The Economist was mentioned in passing as participants shuffled over the topic of general Western opinions on China.</description>
     </item>
   </channel>

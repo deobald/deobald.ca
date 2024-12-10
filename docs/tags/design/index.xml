@@ -2,115 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/design/</link>
+    <link>http://localhost:1313/tags/design/</link>
     <description>Recent content in Design on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimistic Computing</title>
-      <link>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</link>
+      <link>http://localhost:1313/essays/2024-12-09-optimistic-computing/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</guid>
+      <guid>http://localhost:1313/essays/2024-12-09-optimistic-computing/</guid>
       <description>I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&amp;rsquo;m an optimist and I should write about it. Dawn said I shouldn&amp;rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&amp;rsquo;s recommendation &amp;mdash; and credits Dawn, in the very likely event I should have followed her advice instead.&#xA;I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering.</description>
     </item>
     <item>
       <title>Third Wave (Commercial) Open Source</title>
-      <link>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</link>
+      <link>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</guid>
+      <guid>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</guid>
       <description>Commercial Open Source Softare (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products. COSS has seen two significant waves pass, with a third now emerging. The head of each wave lasts approximately a decade. The tail of each wave extends into the future indefinitely. Each wave subsumes all previous waves.&#xA;The first wave was characterized by shrinkwrapping and commercial support. Peaking in the mid-1990s, Red Hat was the poster-child of selling support for software written by other people.</description>
     </item>
     <item>
+      <title>Production Outranks Consumption</title>
+      <link>http://localhost:1313/essays/2023-07-19-production-consumption/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2023-07-19-production-consumption/</guid>
+      <description>Production is your life. Consumption is your fashion.</description>
+    </item>
+    <item>
+      <title>The AIGPL</title>
+      <link>http://localhost:1313/essays/2023-07-14-aigpl/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2023-07-14-aigpl/</guid>
+      <description> RAIL &amp;ldquo;we have no moat&amp;rdquo; open source happens anyway layers:&#xA;training data model code ??? </description>
+    </item>
+    <item>
       <title>The Strength of the Record</title>
-      <link>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</link>
+      <link>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</link>
       <pubDate>Sun, 28 Mar 2021 20:48:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</guid>
+      <guid>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</guid>
       <description>The computer is a curious gadget. It is one of few human inventions which can exist purely – yet accurately – in the imagination. Prior to the existence of a real computing machine, mathematicians could hypothesize how it might behave. They even understood the unbounded, fractal potential of computers: If human beings have machines for computation we also have the atom of computation and we can recombine these atoms to great effect.</description>
     </item>
     <item>
       <title>Ethical Software For Everyone</title>
-      <link>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</link>
+      <link>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</guid>
+      <guid>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</guid>
       <description>Can I interest you in a nutrition label?&#xA;Ethics! We all have a few. Every day, my personal ethics evolve in varying degrees. It seemed harmless to speak loudly and abrasively in my early twenties &amp;mdash; a speech full of arbitrary and contrary words. Who was I hurting? Now I know. The increments of personal ethics evolution are slow and sometimes the work takes decades. Crossing the bridge of intoxicants, for example.</description>
     </item>
     <item>
       <title>Silent Spaces</title>
-      <link>https://www.deobald.ca/essays/2019-03-01-silent-spaces/</link>
+      <link>http://localhost:1313/essays/2019-03-01-silent-spaces/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-03-01-silent-spaces/</guid>
+      <guid>http://localhost:1313/essays/2019-03-01-silent-spaces/</guid>
       <description>How often do we experience real silence?&#xA;Universal Spaces was written out of necessity. There is nothing profound about the idea of universal spaces &amp;mdash; spaces without any form of exceptional availability &amp;mdash; but no preexisting terminology satisfies the requirement of defining spaces only in terms of that quality. Universal spaces require an identity, something we can point to when we presuppose them as a superset of Silent Spaces.</description>
     </item>
     <item>
       <title>Universal Spaces</title>
-      <link>https://www.deobald.ca/essays/2019-02-05-universal-spaces/</link>
+      <link>http://localhost:1313/essays/2019-02-05-universal-spaces/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-02-05-universal-spaces/</guid>
+      <guid>http://localhost:1313/essays/2019-02-05-universal-spaces/</guid>
       <description>Yesterday we visited Chennai&amp;rsquo;s Theosophical Society. Prior to this visit I knew little of Theosophy and nothing about the space. The Society is staggering in size. Bountiful gardens spread across 260 acres. Although it is dwarfed by large city parks like Central Park (850 acres) in New York and Stanley Park (1000 acres) in Vancouver, the Theosophical Society Gardens have an even more surprising quality: they are privately owned.&#xA;Think what we might about the Society&amp;rsquo;s belief systems, what became clear on our journey back home from an hour of meditation in the gardens was that they constitute an example of an idea Siggu has tossed around for a while: Universal Spaces.</description>
     </item>
     <item>
       <title>India Has A Three-Body Problem</title>
-      <link>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</link>
+      <link>http://localhost:1313/essays/2019-02-01-india-has-a-three-body-problem/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</guid>
+      <guid>http://localhost:1313/essays/2019-02-01-india-has-a-three-body-problem/</guid>
       <description>When I moved to Bangalore six years ago, I had no interest in India&amp;rsquo;s garbage management problem. I moved here to build a software company, not to muck about with garbage bins. But every time I would fly between the subcontinent and the Americas, I would find relief on my home continent and exhaustion on my continent of immigration. Living in a giant garbage heap is mentally taxing. Every moment spent outdoors is either an angsty mental rundown of how I might help, complete with acute feelings of powerlessness, or searching for someone to blame (my brain&amp;rsquo;s lazy personal favourite is a generic and completely unhelpful &amp;ldquo;the middle class&amp;rdquo;).</description>
     </item>
     <item>
       <title>How To Disconnect</title>
-      <link>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</link>
+      <link>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</guid>
+      <guid>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</guid>
       <description>For those of us who grew up in the 1990s (Gen-Y-ers? Pre-Millennials?), the sound of connecting was&#xA;Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcchdingding*ding&#xA;and there was a certain romance to the ritual of Getting On The Internet. At least, there is a certain romance now, looking back. Now that we live in the era which precedes the era of ubiquitous computing, with all our nerdy fantasies fulfilled, the internet is everywhere and the ritual is our lives.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part Two: Software Ethics)</title>
-      <link>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
+      <link>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
+      <guid>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
       <description>In 21 Lessons for the 21st Century, Yuval Noah Harari repeatedly emphasizes the need for society to apply critical thinking to the future of software, algorithms, and artificial intelligence. Harari is one of the more forward-thinking philosophers when it comes to disruptive technology and 21 Lessons lucidly collects the requirements for our species&amp;rsquo; future: our new tools must sustainably respect future arcs of aggregate data use and they must do so globally.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part One: An Ethical Void)</title>
-      <link>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</link>
+      <link>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</link>
       <pubDate>Tue, 25 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</guid>
+      <guid>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</guid>
       <description>Disclaimer and Full Disclosure: I began writing this article in July, during my last week at nilenso. Go-Jek is a client of nilenso&amp;rsquo;s. My views represent neither company.&#xA;I just re-read Steve Yegge&amp;rsquo;s &amp;ldquo;Why I left Google to join Grab&amp;rdquo; article. My heart is pumping. I&amp;rsquo;m excited. Just not in the way he intended.&#xA;You may have forgotten about Yegge&amp;rsquo;s article between the beginning and end of 2018 so feel free to go back and refresh your memory.</description>
     </item>
     <item>
       <title>The Toxic Notification Bubble</title>
-      <link>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</link>
+      <link>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</guid>
+      <guid>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</guid>
       <description>&amp;ldquo;I only have two goals for my kids,&amp;rdquo; Paige announced calmly as she set her chai down. &amp;ldquo;One, I don&amp;rsquo;t want them to be assholes; they shouldn&amp;rsquo;t mistreat anybody; they should be nice people. And two, I don&amp;rsquo;t want them to become substance abusers.&amp;rdquo;&#xA;It is natural for people our age to worry about drug addiction in the upcoming generation. During the 80s, our impressionable childhood years we were filled with a multitude of tax-funded warnings.</description>
     </item>
     <item>
       <title>Bangalore 2030</title>
-      <link>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</link>
+      <link>http://localhost:1313/essays/2015-12-01-bangalore-2030/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</guid>
+      <guid>http://localhost:1313/essays/2015-12-01-bangalore-2030/</guid>
       <description>This past week, nilenso interviewed a German fellow for a software development position. As part of the routine of meeting a new stranger in this city, a variation of &amp;ldquo;Why do you live in Bangalore?&amp;rdquo; passed between us. My answer to this question is complex and usually varies based on the tone and implied subtext with which the question is asked. My immediate reasons are somewhat boring. My job is here and I like my job.</description>
     </item>
     <item>
       <title>Salaries in a Cooperative</title>
-      <link>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</link>
+      <link>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</guid>
+      <guid>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</guid>
       <description>Tom Hall asked me once how nilenso decided salaries when we have no bonuses. This is a question we get often.&#xA;Our first stab at this was a model we&amp;rsquo;d inherited from other companies we&amp;rsquo;d worked at: have salary bands which match up to the skill and experience of the current staff, match that to the available cash, and set salaries accordingly. At first, we actually started off with an approach that was even more naive &amp;ndash; rather than salary bands, we had &amp;ldquo;levels&amp;rdquo;.</description>
     </item>
     <item>
       <title>Patient Charts</title>
-      <link>https://www.deobald.ca/essays/2015-06-02-patient-charts/</link>
+      <link>http://localhost:1313/essays/2015-06-02-patient-charts/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-06-02-patient-charts/</guid>
+      <guid>http://localhost:1313/essays/2015-06-02-patient-charts/</guid>
       <description>This is a brief idea I remembered while cleaning up some old files. It initially occurred to me while discussing the status of my eyes with the surgeon after I had a vitrectomy and scleral buckle. Our conversations were terrible. He would stare at the back of my eye with his lenses and probes, ask what I saw, I would give a lengthy description (forgetting a few things) and he would inevitably only write down one or two things I said.</description>
     </item>
     <item>
       <title>Emergent Continuous Design</title>
-      <link>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</link>
+      <link>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</guid>
+      <guid>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</guid>
       <description>I&amp;rsquo;ve recently returned to Canada for a month to visit family. While here, I&amp;rsquo;ve run into some old friends (and friends of friends) whom I haven&amp;rsquo;t been in contact with since moving to Bangalore three years ago. &amp;ldquo;Oh! You live in India? What&amp;rsquo;s that like?&amp;rdquo; is one common conversation piece. Or the frequent line of questioning which positions the entire subcontinent as though it were a chic new restaurant: &amp;ldquo;India? You must like it.</description>
     </item>
   </channel>

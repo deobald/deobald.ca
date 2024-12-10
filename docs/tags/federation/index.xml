@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Federation on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/federation/</link>
+    <link>http://localhost:1313/tags/federation/</link>
     <description>Recent content in Federation on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/federation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/federation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimistic Computing</title>
-      <link>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</link>
+      <link>http://localhost:1313/essays/2024-12-09-optimistic-computing/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</guid>
+      <guid>http://localhost:1313/essays/2024-12-09-optimistic-computing/</guid>
       <description>I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&amp;rsquo;m an optimist and I should write about it. Dawn said I shouldn&amp;rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&amp;rsquo;s recommendation &amp;mdash; and credits Dawn, in the very likely event I should have followed her advice instead.&#xA;I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering.</description>
     </item>
     <item>
       <title>Ethical Software For Everyone</title>
-      <link>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</link>
+      <link>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</guid>
+      <guid>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</guid>
       <description>Can I interest you in a nutrition label?&#xA;Ethics! We all have a few. Every day, my personal ethics evolve in varying degrees. It seemed harmless to speak loudly and abrasively in my early twenties &amp;mdash; a speech full of arbitrary and contrary words. Who was I hurting? Now I know. The increments of personal ethics evolution are slow and sometimes the work takes decades. Crossing the bridge of intoxicants, for example.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part Two: Software Ethics)</title>
-      <link>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
+      <link>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
+      <guid>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
       <description>In 21 Lessons for the 21st Century, Yuval Noah Harari repeatedly emphasizes the need for society to apply critical thinking to the future of software, algorithms, and artificial intelligence. Harari is one of the more forward-thinking philosophers when it comes to disruptive technology and 21 Lessons lucidly collects the requirements for our species&amp;rsquo; future: our new tools must sustainably respect future arcs of aggregate data use and they must do so globally.</description>
     </item>
   </channel>

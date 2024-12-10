@@ -15,9 +15,9 @@ sectionPagesMenu = "main"
 
 [params.social]
   gravatar = "steven@deobald.ca"
-  twitter = "deobald"
+  mastodon = "@deobald"
+  bluesky = "deobald.bsky.social"
   github = "deobald"
-  keybase = "deobald"
   email = "steven@deobald.ca"
 
 [[menu.main]]
@@ -43,4 +43,3 @@ sectionPagesMenu = "main"
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
-
