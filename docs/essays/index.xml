@@ -2,311 +2,290 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essays on Steven Deobald</title>
-    <link>http://localhost:1313/essays/</link>
+    <link>https://www.deobald.ca/essays/</link>
     <description>Recent content in Essays on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/essays/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I am looking for work</title>
-      <link>http://localhost:1313/essays/2024-12-10-i-am-looking-for-work/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2024-12-10-i-am-looking-for-work/</guid>
-      <description>Hello, I&amp;rsquo;m Steven! I&amp;rsquo;m a project manager and developer from Halifax. I grow teams and ensure that we build the right product. Lately, I also build, evolve, and maintain backend Rails codebases for companies and non-profits.&#xA;🇨🇦🇮🇳🇺🇸🇪🇺 I lived in India for 10 years and I will happily travel there. Halifax has 5+ working hours overlap with any timezone in Europe or North America. I&amp;rsquo;ve been writing code for 30 years, but I will always sweep the floor.</description>
-    </item>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.deobald.ca/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimistic Computing</title>
-      <link>http://localhost:1313/essays/2024-12-09-optimistic-computing/</link>
+      <link>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2024-12-09-optimistic-computing/</guid>
+      <guid>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</guid>
       <description>I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&amp;rsquo;m an optimist and I should write about it. Dawn said I shouldn&amp;rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&amp;rsquo;s recommendation &amp;mdash; and credits Dawn, in the very likely event I should have followed her advice instead.&#xA;I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering.</description>
     </item>
     <item>
       <title>Third Wave (Commercial) Open Source</title>
-      <link>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</link>
+      <link>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</guid>
+      <guid>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</guid>
       <description>Commercial Open Source Softare (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products. COSS has seen two significant waves pass, with a third now emerging. The head of each wave lasts approximately a decade. The tail of each wave extends into the future indefinitely. Each wave subsumes all previous waves.&#xA;The first wave was characterized by shrinkwrapping and commercial support. Peaking in the mid-1990s, Red Hat was the poster-child of selling support for software written by other people.</description>
     </item>
     <item>
-      <title>Production Outranks Consumption</title>
-      <link>http://localhost:1313/essays/2023-07-19-production-consumption/</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2023-07-19-production-consumption/</guid>
-      <description>Production is your life. Consumption is your fashion.</description>
-    </item>
-    <item>
-      <title>The AIGPL</title>
-      <link>http://localhost:1313/essays/2023-07-14-aigpl/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2023-07-14-aigpl/</guid>
-      <description> RAIL &amp;ldquo;we have no moat&amp;rdquo; open source happens anyway layers:&#xA;training data model code ??? </description>
-    </item>
-    <item>
       <title>Trucks, Tubes, and Truth</title>
-      <link>http://localhost:1313/essays/2022-06-21-trucks-tubes-truth/</link>
+      <link>https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2022-06-21-trucks-tubes-truth/</guid>
+      <guid>https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/</guid>
       <description>I am carrying a bucket of human waste. Two buckets, actually. I’m visiting an off-grid cabin in an Acadian forest where the vegetable garden is nourished by a humanure composting system. It’s my turn to take out the, uh, compost. Every visit to this forest is an opportunity to get away from Twitter, away from the noise of the city, and enjoy a simpler life as a temporary monastic hobo.</description>
     </item>
     <item>
       <title>Blockchain Without the Crypto</title>
-      <link>http://localhost:1313/essays/2021-11-11-blockchain-without-crypto/</link>
+      <link>https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/</link>
       <pubDate>Thu, 11 Nov 2021 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2021-11-11-blockchain-without-crypto/</guid>
+      <guid>https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/</guid>
       <description>Driving down the #9 highway in Southeast Saskatchewan yesterday, I giggled in surprise when I noticed a small piece of Internet lodged in a canola field. I saw the unmistakeable orange logo as we approached the unincorporated hamlet of Görlitz (population unknown) from the north. Amid the other billboards for bulk fertilizer and local honey was a painted plywood sign: Bitcoin ATM now available!&#xA;Just what Görlitz needs. I’m not sure if humanity has reached peak cryptocurrency yet but we are definitely on our way.</description>
     </item>
     <item>
       <title>The Strength of the Record</title>
-      <link>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</link>
+      <link>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</link>
       <pubDate>Sun, 28 Mar 2021 20:48:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</guid>
+      <guid>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</guid>
       <description>The computer is a curious gadget. It is one of few human inventions which can exist purely – yet accurately – in the imagination. Prior to the existence of a real computing machine, mathematicians could hypothesize how it might behave. They even understood the unbounded, fractal potential of computers: If human beings have machines for computation we also have the atom of computation and we can recombine these atoms to great effect.</description>
     </item>
     <item>
       <title>Ethical Software For Everyone</title>
-      <link>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</link>
+      <link>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</guid>
+      <guid>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</guid>
       <description>Can I interest you in a nutrition label?&#xA;Ethics! We all have a few. Every day, my personal ethics evolve in varying degrees. It seemed harmless to speak loudly and abrasively in my early twenties &amp;mdash; a speech full of arbitrary and contrary words. Who was I hurting? Now I know. The increments of personal ethics evolution are slow and sometimes the work takes decades. Crossing the bridge of intoxicants, for example.</description>
     </item>
     <item>
       <title>Hacker Villages</title>
-      <link>http://localhost:1313/essays/2019-11-20-hacker-villages/</link>
+      <link>https://www.deobald.ca/essays/2019-11-20-hacker-villages/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-11-20-hacker-villages/</guid>
+      <guid>https://www.deobald.ca/essays/2019-11-20-hacker-villages/</guid>
       <description>The inevitable advent of जादूगरों का गाँव.&#xA;&amp;ldquo;Land in Canada costs how much?&amp;rdquo; Ragul queries me a second time. His eyes are wide and I can tell he&amp;rsquo;s asking me to confirm the cost of property in Eastern Canada because half of him doesn&amp;rsquo;t believe it.&#xA;&amp;ldquo;Yeah, I know,&amp;rdquo; I say, &amp;ldquo;$23,000 CAD for 20–30 acres is&amp;hellip;&amp;rdquo; I pull out my phone and start punching the forex conversion into the search box but he gives me the answer off the top of his head before I can finish.</description>
     </item>
     <item>
       <title>Compassion For Donald</title>
-      <link>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</link>
+      <link>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</guid>
+      <guid>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</guid>
       <description>The 2019 Canadian federal election is over. I doubt anyone feels very good about it. Not because a minority government threatens to immobilize the Canadian government. I mean, there is that. But the suffocating air of this election was far less tangible, far less quantifiable, than counted ballots. The outmoded left-right political spectrum is gasping for breath through a death rattle and, for those of us who plan to be here on the far side, it&amp;rsquo;s disgusting to watch.</description>
     </item>
     <item>
       <title>I started meditating... now what?</title>
-      <link>http://localhost:1313/essays/2019-08-21-i-started-meditating-now-what/</link>
+      <link>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-08-21-i-started-meditating-now-what/</guid>
+      <guid>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</guid>
       <description>Two weeks ago, a friend struck up a conversation with me about his meditation practice. His query was:&#xA;Hi Steve, I started meditating like a month ago. Nothing fancy, just sitting down and observing my breath. I did it because my anxiety was really, really bad and I couldn&amp;rsquo;t sleep at all most nights. It was horrible. At first the meditation made no difference. But then things started improving. Now after a month, I can get reasonable sleep on most days, and really good sleep once in a while And even on days I don&amp;rsquo;t sleep, my anxiety is not as bad as it used to be.</description>
     </item>
     <item>
       <title>Silent Spaces</title>
-      <link>http://localhost:1313/essays/2019-03-01-silent-spaces/</link>
+      <link>https://www.deobald.ca/essays/2019-03-01-silent-spaces/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-03-01-silent-spaces/</guid>
+      <guid>https://www.deobald.ca/essays/2019-03-01-silent-spaces/</guid>
       <description>How often do we experience real silence?&#xA;Universal Spaces was written out of necessity. There is nothing profound about the idea of universal spaces &amp;mdash; spaces without any form of exceptional availability &amp;mdash; but no preexisting terminology satisfies the requirement of defining spaces only in terms of that quality. Universal spaces require an identity, something we can point to when we presuppose them as a superset of Silent Spaces.</description>
     </item>
     <item>
       <title>Universal Spaces</title>
-      <link>http://localhost:1313/essays/2019-02-05-universal-spaces/</link>
+      <link>https://www.deobald.ca/essays/2019-02-05-universal-spaces/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-02-05-universal-spaces/</guid>
+      <guid>https://www.deobald.ca/essays/2019-02-05-universal-spaces/</guid>
       <description>Yesterday we visited Chennai&amp;rsquo;s Theosophical Society. Prior to this visit I knew little of Theosophy and nothing about the space. The Society is staggering in size. Bountiful gardens spread across 260 acres. Although it is dwarfed by large city parks like Central Park (850 acres) in New York and Stanley Park (1000 acres) in Vancouver, the Theosophical Society Gardens have an even more surprising quality: they are privately owned.&#xA;Think what we might about the Society&amp;rsquo;s belief systems, what became clear on our journey back home from an hour of meditation in the gardens was that they constitute an example of an idea Siggu has tossed around for a while: Universal Spaces.</description>
     </item>
     <item>
       <title>India Has A Three-Body Problem</title>
-      <link>http://localhost:1313/essays/2019-02-01-india-has-a-three-body-problem/</link>
+      <link>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-02-01-india-has-a-three-body-problem/</guid>
+      <guid>https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/</guid>
       <description>When I moved to Bangalore six years ago, I had no interest in India&amp;rsquo;s garbage management problem. I moved here to build a software company, not to muck about with garbage bins. But every time I would fly between the subcontinent and the Americas, I would find relief on my home continent and exhaustion on my continent of immigration. Living in a giant garbage heap is mentally taxing. Every moment spent outdoors is either an angsty mental rundown of how I might help, complete with acute feelings of powerlessness, or searching for someone to blame (my brain&amp;rsquo;s lazy personal favourite is a generic and completely unhelpful &amp;ldquo;the middle class&amp;rdquo;).</description>
     </item>
     <item>
       <title>How To Disconnect</title>
-      <link>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</link>
+      <link>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</guid>
+      <guid>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</guid>
       <description>For those of us who grew up in the 1990s (Gen-Y-ers? Pre-Millennials?), the sound of connecting was&#xA;Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcchdingding*ding&#xA;and there was a certain romance to the ritual of Getting On The Internet. At least, there is a certain romance now, looking back. Now that we live in the era which precedes the era of ubiquitous computing, with all our nerdy fantasies fulfilled, the internet is everywhere and the ritual is our lives.</description>
     </item>
     <item>
       <title>Does Smoking Marijuana Harm Your Meditation Practice?</title>
-      <link>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</link>
+      <link>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</guid>
+      <guid>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</guid>
       <description>tl;dr: Yes, it does.&#xA;A friend with very little drug experience recently asked me if smoking (or eating) marijuana would harm her nascent meditation practice. She had a few follow-up questions, one of which was &amp;ldquo;have you ever written about this?&amp;rdquo; which caused me to turn our conversation into this essay.&#xA;First off, on the broad topic of drugs and meditation, I have written about my experiences and categorized the options once before in Drugs, Meditation, Warnings.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part Two: Software Ethics)</title>
-      <link>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
+      <link>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
+      <guid>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
       <description>In 21 Lessons for the 21st Century, Yuval Noah Harari repeatedly emphasizes the need for society to apply critical thinking to the future of software, algorithms, and artificial intelligence. Harari is one of the more forward-thinking philosophers when it comes to disruptive technology and 21 Lessons lucidly collects the requirements for our species&amp;rsquo; future: our new tools must sustainably respect future arcs of aggregate data use and they must do so globally.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part One: An Ethical Void)</title>
-      <link>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</link>
+      <link>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</link>
       <pubDate>Tue, 25 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</guid>
+      <guid>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</guid>
       <description>Disclaimer and Full Disclosure: I began writing this article in July, during my last week at nilenso. Go-Jek is a client of nilenso&amp;rsquo;s. My views represent neither company.&#xA;I just re-read Steve Yegge&amp;rsquo;s &amp;ldquo;Why I left Google to join Grab&amp;rdquo; article. My heart is pumping. I&amp;rsquo;m excited. Just not in the way he intended.&#xA;You may have forgotten about Yegge&amp;rsquo;s article between the beginning and end of 2018 so feel free to go back and refresh your memory.</description>
     </item>
     <item>
       <title>The Toxic Notification Bubble</title>
-      <link>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</link>
+      <link>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</guid>
+      <guid>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</guid>
       <description>&amp;ldquo;I only have two goals for my kids,&amp;rdquo; Paige announced calmly as she set her chai down. &amp;ldquo;One, I don&amp;rsquo;t want them to be assholes; they shouldn&amp;rsquo;t mistreat anybody; they should be nice people. And two, I don&amp;rsquo;t want them to become substance abusers.&amp;rdquo;&#xA;It is natural for people our age to worry about drug addiction in the upcoming generation. During the 80s, our impressionable childhood years we were filled with a multitude of tax-funded warnings.</description>
     </item>
     <item>
       <title>What is Siggu.org?</title>
-      <link>http://localhost:1313/essays/2018-12-21-what-is-siggu-org/</link>
+      <link>https://www.deobald.ca/essays/2018-12-21-what-is-siggu-org/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2018-12-21-what-is-siggu-org/</guid>
+      <guid>https://www.deobald.ca/essays/2018-12-21-what-is-siggu-org/</guid>
       <description>We started siggu.org with the very rough intention of answering one question: Why meditate? We have multiple axes across which we will write in an attempt to answer this question: neuroscience, infrastructure, policy, and health &amp;mdash; among others.&#xA;Siggu itself is a Pali word. It means horseradish. There is nothing particularly special about a horseradish. It is a strong taste, one that most people grow into with time. The taste changes with the age of the horseradish and planting it demands multiple growing seasons before the first harvest.</description>
     </item>
     <item>
       <title>Finances in an Employee-Owned Technology Co-operative</title>
-      <link>http://localhost:1313/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</link>
+      <link>https://www.deobald.ca/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</guid>
+      <guid>https://www.deobald.ca/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</guid>
       <description>If you are not already familiar with nilenso, I apologize. This article may not make any sense to you. Requested as an opinion piece in reply to an internal email on salaries, it hinges on a lot of context.&#xA;You may find that context interesting.&#xA;YourStory: India&amp;rsquo;s first software co-operative Huh? A Software Cooperative? &amp;mdash; an introduction How to Co-op: Salaries and Reviews &amp;ldquo;I have cramps.&amp;rdquo; &amp;mdash; introducing our menstrual leave policy nilenso policies &amp;mdash; democratic corporate benefits nilenso reviews &amp;mdash; how do we evaluate one another?</description>
     </item>
     <item>
       <title>Menstrual Leave: &#39;I Have Cramps&#39;</title>
-      <link>http://localhost:1313/essays/2016-05-01-menstrual-leave-i-have-cramps/</link>
+      <link>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2016-05-01-menstrual-leave-i-have-cramps/</guid>
+      <guid>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</guid>
       <description>PMS. I still can&amp;rsquo;t remember first learning about Pre-Menstrual Symptoms as a child. I don&amp;rsquo;t remember the specific event, but the understanding conveyed. I imagine it went something like this: &amp;ldquo;My Mom was really grouchy this morning.&amp;rdquo; - &amp;ldquo;Oh, she probably has PMS.&amp;rdquo; - &amp;ldquo;Is that a disease?&amp;rdquo; - &amp;ldquo;Nah, it&amp;rsquo;s something that happens to Moms once a month. They get really grouchy and you should just leave them alone.&amp;rdquo;</description>
     </item>
     <item>
       <title>How To Bicycle Commute in Bangalore</title>
-      <link>http://localhost:1313/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</link>
+      <link>https://www.deobald.ca/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</guid>
+      <guid>https://www.deobald.ca/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</guid>
       <description>Riding a bicycle in Bangalore is surprisingly easy. Bicycles are nimble and the traffic is slow. The roads are&amp;hellip; good enough. The weather is perfect. The pollution is an issue but not riding a bicycle only exacerbates that situation. Here are my recommendations for making riding a bike in Bangalore something between tolerable and enjoyable.&#xA;Required: Good Brakes Traffic in Bangalore isn&amp;rsquo;t just slow &amp;mdash; it&amp;rsquo;s choppy. Millions of people driving cars on roads that can&amp;rsquo;t support them mean traffic is as stop-and-go as a choked suburban freeway parking lot in America.</description>
     </item>
     <item>
       <title>Bangalore 2030</title>
-      <link>http://localhost:1313/essays/2015-12-01-bangalore-2030/</link>
+      <link>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-12-01-bangalore-2030/</guid>
+      <guid>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</guid>
       <description>This past week, nilenso interviewed a German fellow for a software development position. As part of the routine of meeting a new stranger in this city, a variation of &amp;ldquo;Why do you live in Bangalore?&amp;rdquo; passed between us. My answer to this question is complex and usually varies based on the tone and implied subtext with which the question is asked. My immediate reasons are somewhat boring. My job is here and I like my job.</description>
     </item>
     <item>
       <title>Salaries in a Cooperative</title>
-      <link>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</link>
+      <link>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</guid>
+      <guid>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</guid>
       <description>Tom Hall asked me once how nilenso decided salaries when we have no bonuses. This is a question we get often.&#xA;Our first stab at this was a model we&amp;rsquo;d inherited from other companies we&amp;rsquo;d worked at: have salary bands which match up to the skill and experience of the current staff, match that to the available cash, and set salaries accordingly. At first, we actually started off with an approach that was even more naive &amp;ndash; rather than salary bands, we had &amp;ldquo;levels&amp;rdquo;.</description>
     </item>
     <item>
       <title>Patient Charts</title>
-      <link>http://localhost:1313/essays/2015-06-02-patient-charts/</link>
+      <link>https://www.deobald.ca/essays/2015-06-02-patient-charts/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-06-02-patient-charts/</guid>
+      <guid>https://www.deobald.ca/essays/2015-06-02-patient-charts/</guid>
       <description>This is a brief idea I remembered while cleaning up some old files. It initially occurred to me while discussing the status of my eyes with the surgeon after I had a vitrectomy and scleral buckle. Our conversations were terrible. He would stare at the back of my eye with his lenses and probes, ask what I saw, I would give a lengthy description (forgetting a few things) and he would inevitably only write down one or two things I said.</description>
     </item>
     <item>
       <title>Emergent Continuous Design</title>
-      <link>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</link>
+      <link>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</guid>
+      <guid>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</guid>
       <description>I&amp;rsquo;ve recently returned to Canada for a month to visit family. While here, I&amp;rsquo;ve run into some old friends (and friends of friends) whom I haven&amp;rsquo;t been in contact with since moving to Bangalore three years ago. &amp;ldquo;Oh! You live in India? What&amp;rsquo;s that like?&amp;rdquo; is one common conversation piece. Or the frequent line of questioning which positions the entire subcontinent as though it were a chic new restaurant: &amp;ldquo;India? You must like it.</description>
     </item>
     <item>
       <title>Why Ayurveda? Because Science!</title>
-      <link>http://localhost:1313/essays/2015-04-01-why-ayurveda-because-science/</link>
+      <link>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-04-01-why-ayurveda-because-science/</guid>
+      <guid>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</guid>
       <description>He squinted through a pair of wrap-around sunglasses, the kind one often expects to see on the crowning end of a wheelchair with wings of lenses spread wide and soaring across a sea of wrinkles &amp;ndash; or drool, if the sea had previously suffered a stroke. Or at home in makeshift bingo halls constructed of a dusty old Lions Club because all the Lions and Lionesses were dead and even the Rotary Club (Rotors?</description>
     </item>
     <item>
       <title>Drugs, Meditation, Warnings</title>
-      <link>http://localhost:1313/essays/2015-01-01-drugs-meditation-warnings/</link>
+      <link>https://www.deobald.ca/essays/2015-01-01-drugs-meditation-warnings/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-01-01-drugs-meditation-warnings/</guid>
+      <guid>https://www.deobald.ca/essays/2015-01-01-drugs-meditation-warnings/</guid>
       <description>I recently returned to work from my second 10-day Vipassana course. After such a course, friends are always curious about the experience. Because Vipassana meditation courses are largely indescribable, the conversation often drifts to one&amp;rsquo;s journey toward Vipassana, and the journey toward meditation in general. For me, this journey has been a mixture of friendships, literature, and drugs. Drugs can be seen as a stepping-stone to my current meditation practice because a few drugs have similar insightful (informational) qualities.</description>
     </item>
     <item>
       <title>What is a Software Cooperative?</title>
-      <link>http://localhost:1313/essays/2014-11-02-what-is-a-software-cooperative/</link>
+      <link>https://www.deobald.ca/essays/2014-11-02-what-is-a-software-cooperative/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2014-11-02-what-is-a-software-cooperative/</guid>
+      <guid>https://www.deobald.ca/essays/2014-11-02-what-is-a-software-cooperative/</guid>
       <description>I recently wrote about how thankful I am, after a decade in software, to work for an employer which inherently understands my values and the values of all my colleagues. That employer is me. That employer is also all of my colleagues. That employer is nilenso: a software cooperative owned and operated by its employees here in Bangalore.&#xA;What is a coop? According to Wikipedia: &amp;ldquo;A cooperative (&amp;ldquo;coop&amp;rdquo;) or co-operative (&amp;ldquo;co-op&amp;rdquo;) is an autonomous association of persons who voluntarily cooperate for their mutual social, economic, and cultural benefit.</description>
     </item>
     <item>
       <title>Welcome, Gratitude</title>
-      <link>http://localhost:1313/essays/2014-11-01-welcome-gratitude/</link>
+      <link>https://www.deobald.ca/essays/2014-11-01-welcome-gratitude/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2014-11-01-welcome-gratitude/</guid>
+      <guid>https://www.deobald.ca/essays/2014-11-01-welcome-gratitude/</guid>
       <description>I recently suffered the most severe injuries of my life &amp;mdash; I experienced a retinal tear and detachment which led to multiple surgeries. Those surgeries themselves have permanently damaged my vision and physically deformed my right eye. While I was recovering, I was unable to read, use a computer, or watch video. Oh. And I was in California, on business. The surgeries prevented me from flying so I was unable to go home to India or home-home to Canada.</description>
     </item>
     <item>
       <title>Ceci n&#39;est pas une pipe</title>
-      <link>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
+      <link>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
+      <guid>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
       <description>A description of a doctrine without words is not a doctrine without words.&#xA;Over the last few days, the internet saw a layered explosion of conversation regarding Adria Richards, and a conversation which happened near her at PyCon 2013. To me, it looked like this:&#xA;The first circle represents the initial event. The second circle represents Adria&amp;rsquo;s public reaction. The third circle represents the reactions of HackerNews, Twitter, Playhaven, SendGrid, Anonymous, 4chan, and the internet at large to Adria&amp;rsquo;s reaction.</description>
     </item>
     <item>
       <title>An Atheist&#39;s Glimpse of God</title>
-      <link>http://localhost:1313/essays/2013-02-01-an-atheists-glimpse-of-god/</link>
+      <link>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2013-02-01-an-atheists-glimpse-of-god/</guid>
+      <guid>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</guid>
       <description>One of the benefits of working for a startup like C42 Engineering (where I help build rubymonk.com &amp;mdash; the name is a coincidence) is the broad range of experiences available, both in and out of the office. Thanks to our flexible work environment, I was able to travel to Himachal Pradesh for a couple weeks of experimenting on myself as a break from experimenting with software. I know not everyone enjoys such benefits, so let me start by saying this: I am thankful.</description>
     </item>
     <item>
       <title>Cartoons and Comic Books</title>
-      <link>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</link>
+      <link>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</link>
       <pubDate>Fri, 02 May 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</guid>
+      <guid>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</guid>
       <description>The curiosity of my coworkers at ThoughtWorks often leads to a number of healthy and interesting debates, which often occur in the pub, on internal mailing lists, and anywhere in-between. One such discussion, of the mailing list variety, revolved around the topic Chinese economics and politics. Inevitably, the recent Angry Red Dragon issue of The Economist was mentioned in passing as participants shuffled over the topic of general Western opinions on China.</description>
     </item>
     <item>
       <title>We Need More -onomy</title>
-      <link>http://localhost:1313/essays/2008-05-01-we-need-more-onomy/</link>
+      <link>https://www.deobald.ca/essays/2008-05-01-we-need-more-onomy/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2008-05-01-we-need-more-onomy/</guid>
+      <guid>https://www.deobald.ca/essays/2008-05-01-we-need-more-onomy/</guid>
       <description>The other day I was listening to assorted tracks in my reading room while enjoying a glass of scotch and puttering away in the codebase of my current project. I was feeling chipper, the sun was shining. On Saturdays I&amp;rsquo;m willing to play the music loud enough to feel engrossed and I was looking for a bit of a beat in most of what I was listening to.&#xA;I own an iPod Video, and if we discount the fact that Winamp seems to be the only reliable way of getting data on and off the device, it does a satisfactory job of playing music.</description>
     </item>
     <item>
       <title>Dupies (Dollar-Rupees)</title>
-      <link>http://localhost:1313/essays/2008-01-02-dupies-dollar-rupees/</link>
+      <link>https://www.deobald.ca/essays/2008-01-02-dupies-dollar-rupees/</link>
       <pubDate>Wed, 02 Jan 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2008-01-02-dupies-dollar-rupees/</guid>
+      <guid>https://www.deobald.ca/essays/2008-01-02-dupies-dollar-rupees/</guid>
       <description>The Theory Moving to a new country often involves adjusting to a new currency. As much as my mind can&amp;rsquo;t intuitively wrap itself around miles, I have a hard time with the feeling of Rupees here in India. Thankfully, the current economic situation provides us with some easy answers.&#xA;The present economy helpfully provides us North Americans with a nearly-round conversion rate:&#xA;$1 CAD / USD : Rs. 39.1 We can exploit this fact by rounding up to Rs.</description>
     </item>
     <item>
       <title>Not Getting Things Done</title>
-      <link>http://localhost:1313/essays/2008-01-01-not-getting-things-done/</link>
+      <link>https://www.deobald.ca/essays/2008-01-01-not-getting-things-done/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2008-01-01-not-getting-things-done/</guid>
+      <guid>https://www.deobald.ca/essays/2008-01-01-not-getting-things-done/</guid>
       <description>Some lessons I learned before reading this article Rohan showed me today (ironically filed under GTD):&#xA;Get rid of your car. Own less. And less. And less. If you have to own something, own something good. Don&amp;rsquo;t watch TV. Ever. Do things you love with other people. Do things you hate with other people. The article, unfortunately, suggests moderation. If you, like me, are incapable of moderation, you almost certainly consume food, alcohol, sleep, and friendship with reckless abandon.</description>
     </item>
     <item>
       <title>The Gap</title>
-      <link>http://localhost:1313/essays/2007-09-02-the-gap/</link>
+      <link>https://www.deobald.ca/essays/2007-09-02-the-gap/</link>
       <pubDate>Sun, 02 Sep 2007 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2007-09-02-the-gap/</guid>
+      <guid>https://www.deobald.ca/essays/2007-09-02-the-gap/</guid>
       <description>One of the roadblocks to the Tightpinkproduct is The Gap. My friend installs Ubuntu and complains about the difficulty of installing Flash or forcing WMV files to play inside of Firefox. He shouldn&amp;rsquo;t have any reason to complain. All these things work. More often than not, they will work with packages living inside repositories. I, too, would complain but I&amp;rsquo;ve become too used to the routine of installing such packages on top of a default Linux installation (much in the same way I&amp;rsquo;ve become accustomed to fixing a default Windows installation or patching up OS X).</description>
     </item>
     <item>
       <title>Fidget Weights</title>
-      <link>http://localhost:1313/essays/2007-09-01-fidget-weights/</link>
+      <link>https://www.deobald.ca/essays/2007-09-01-fidget-weights/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2007-09-01-fidget-weights/</guid>
+      <guid>https://www.deobald.ca/essays/2007-09-01-fidget-weights/</guid>
       <description>I saw Thoughtless Acts a while back and it immediately reminded me of an idea Drew and I came up with years ago. It came to the attention of people who frequented my basement office that if one became engaged in conversation, he or she would inevitably stand on top of some octagonal free weights I had lying around:&#xA;Perching oneself on these long enough would lead to fidgeting. The participant would roll them over and gradually get more aggressive by lifting and rotating the weights in various directions.</description>
     </item>
     <item>
       <title>Google is My New Microsoft</title>
-      <link>http://localhost:1313/essays/2007-08-02-google-is-my-new-microsoft/</link>
+      <link>https://www.deobald.ca/essays/2007-08-02-google-is-my-new-microsoft/</link>
       <pubDate>Thu, 02 Aug 2007 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2007-08-02-google-is-my-new-microsoft/</guid>
+      <guid>https://www.deobald.ca/essays/2007-08-02-google-is-my-new-microsoft/</guid>
       <description>Mike (seen here fondling beef) had a blog post about accidentally formatting the wrong partition and losing all his data. Then he went crazy and formatted his entire blog on purpose. What a guy.&#xA;In response to his non-existent post, I will engage in a tirade describing where computing has taken me.&#xA;First, there was my PC. My first real computer of my very own. At the time I was a poor teenager in secondary school and my options were limited.</description>
     </item>
     <item>
       <title>A Walk</title>
-      <link>http://localhost:1313/essays/2007-08-01-a-walk/</link>
+      <link>https://www.deobald.ca/essays/2007-08-01-a-walk/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2007-08-01-a-walk/</guid>
+      <guid>https://www.deobald.ca/essays/2007-08-01-a-walk/</guid>
       <description>I went for a long walk in the rain. Gosh was it muddy.&#xA;I saw a little girl whipping herself and begging for change. A sick, touristy part of me wanted to take a picture of her. An even sicker part of me wanted to borrow the whip to see if the sound it produced was representative of the pain it inflicted. She tugged at my arm as I walked by; I shrugged her off as politely as I could and continued.</description>
     </item>
     <item>
       <title>Making It Look Easy</title>
-      <link>http://localhost:1313/essays/2007-04-01-making-it-look-easy/</link>
+      <link>https://www.deobald.ca/essays/2007-04-01-making-it-look-easy/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2007-04-01-making-it-look-easy/</guid>
+      <guid>https://www.deobald.ca/essays/2007-04-01-making-it-look-easy/</guid>
       <description>Do you remember the last time you were in the physical presence of an expert? Do you remember how it felt to watch her perform her art? Perhaps hands dancing through the strings of a guitar or over a keyboard. Perhaps instinctual movements producing new material at needlepoint or temporal painting through dance. Perhaps the gentle swing of a chain-saw sliding through the groves of an unfinished ice sculpture. Perhaps it was nothing more than a delicate, natural conversation with your mentor over coffee.</description>
     </item>
   </channel>

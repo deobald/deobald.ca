@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encryption on Steven Deobald</title>
-    <link>http://localhost:1313/tags/encryption/</link>
+    <link>https://www.deobald.ca/tags/encryption/</link>
     <description>Recent content in Encryption on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ethical Software For Everyone</title>
-      <link>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</link>
+      <link>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</guid>
+      <guid>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</guid>
       <description>Can I interest you in a nutrition label?&#xA;Ethics! We all have a few. Every day, my personal ethics evolve in varying degrees. It seemed harmless to speak loudly and abrasively in my early twenties &amp;mdash; a speech full of arbitrary and contrary words. Who was I hurting? Now I know. The increments of personal ethics evolution are slow and sometimes the work takes decades. Crossing the bridge of intoxicants, for example.</description>
     </item>
   </channel>

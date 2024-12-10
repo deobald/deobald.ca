@@ -2,66 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Steven Deobald</title>
-    <link>http://localhost:1313/tags/open-source/</link>
+    <link>https://www.deobald.ca/tags/open-source/</link>
     <description>Recent content in Open Source on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimistic Computing</title>
-      <link>http://localhost:1313/essays/2024-12-09-optimistic-computing/</link>
+      <link>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2024-12-09-optimistic-computing/</guid>
+      <guid>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</guid>
       <description>I recently made two new friends: Abhinav Omprakash and Dawn Walker. Abhinav said I&amp;rsquo;m an optimist and I should write about it. Dawn said I shouldn&amp;rsquo;t try to coin any new terms. I should know better, but this essay follows Abhinav&amp;rsquo;s recommendation &amp;mdash; and credits Dawn, in the very likely event I should have followed her advice instead.&#xA;I have been alive for approximately four decades. Each of those decades was witness to its own fun brand of computering.</description>
     </item>
     <item>
       <title>Third Wave (Commercial) Open Source</title>
-      <link>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</link>
+      <link>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2024-08-13-third-wave-commercial-open-source/</guid>
+      <guid>https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/</guid>
       <description>Commercial Open Source Softare (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products. COSS has seen two significant waves pass, with a third now emerging. The head of each wave lasts approximately a decade. The tail of each wave extends into the future indefinitely. Each wave subsumes all previous waves.&#xA;The first wave was characterized by shrinkwrapping and commercial support. Peaking in the mid-1990s, Red Hat was the poster-child of selling support for software written by other people.</description>
     </item>
     <item>
-      <title>Production Outranks Consumption</title>
-      <link>http://localhost:1313/essays/2023-07-19-production-consumption/</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2023-07-19-production-consumption/</guid>
-      <description>Production is your life. Consumption is your fashion.</description>
-    </item>
-    <item>
-      <title>The AIGPL</title>
-      <link>http://localhost:1313/essays/2023-07-14-aigpl/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2023-07-14-aigpl/</guid>
-      <description> RAIL &amp;ldquo;we have no moat&amp;rdquo; open source happens anyway layers:&#xA;training data model code ??? </description>
-    </item>
-    <item>
       <title>Blockchain Without the Crypto</title>
-      <link>http://localhost:1313/essays/2021-11-11-blockchain-without-crypto/</link>
+      <link>https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/</link>
       <pubDate>Thu, 11 Nov 2021 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2021-11-11-blockchain-without-crypto/</guid>
+      <guid>https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/</guid>
       <description>Driving down the #9 highway in Southeast Saskatchewan yesterday, I giggled in surprise when I noticed a small piece of Internet lodged in a canola field. I saw the unmistakeable orange logo as we approached the unincorporated hamlet of Görlitz (population unknown) from the north. Amid the other billboards for bulk fertilizer and local honey was a painted plywood sign: Bitcoin ATM now available!&#xA;Just what Görlitz needs. I’m not sure if humanity has reached peak cryptocurrency yet but we are definitely on our way.</description>
     </item>
     <item>
       <title>The Strength of the Record</title>
-      <link>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</link>
+      <link>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</link>
       <pubDate>Sun, 28 Mar 2021 20:48:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2021-03-28-strength-of-the-record/</guid>
+      <guid>https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/</guid>
       <description>The computer is a curious gadget. It is one of few human inventions which can exist purely – yet accurately – in the imagination. Prior to the existence of a real computing machine, mathematicians could hypothesize how it might behave. They even understood the unbounded, fractal potential of computers: If human beings have machines for computation we also have the atom of computation and we can recombine these atoms to great effect.</description>
     </item>
     <item>
       <title>Ethical Software For Everyone</title>
-      <link>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</link>
+      <link>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-11-28-ethical-software-for-everyone/</guid>
+      <guid>https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/</guid>
       <description>Can I interest you in a nutrition label?&#xA;Ethics! We all have a few. Every day, my personal ethics evolve in varying degrees. It seemed harmless to speak loudly and abrasively in my early twenties &amp;mdash; a speech full of arbitrary and contrary words. Who was I hurting? Now I know. The increments of personal ethics evolution are slow and sometimes the work takes decades. Crossing the bridge of intoxicants, for example.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part Two: Software Ethics)</title>
-      <link>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
+      <link>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
+      <guid>https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/</guid>
       <description>In 21 Lessons for the 21st Century, Yuval Noah Harari repeatedly emphasizes the need for society to apply critical thinking to the future of software, algorithms, and artificial intelligence. Harari is one of the more forward-thinking philosophers when it comes to disruptive technology and 21 Lessons lucidly collects the requirements for our species&amp;rsquo; future: our new tools must sustainably respect future arcs of aggregate data use and they must do so globally.</description>
     </item>
   </channel>
