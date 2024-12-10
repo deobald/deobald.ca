@@ -1,9 +1,9 @@
 ---
-draft: true
 title: "I am looking for work."
 date: 2024-12-10T00:00:00
 categories: ["technology"]
 tags: []
+draft: false
 ---
 
 Hello, I'm Steven!
