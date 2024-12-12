@@ -17,7 +17,7 @@ I've been writing code for 30 years, but I will always
 I lived in India for 10 years and I will happily travel there for work.
 Halifax has 5+ working hours overlap with any timezone in Europe or America.
 
-Browse my work history on [LinkedIn](https://www.linkedin.com/in/steven-deobald/details/experience/)
+Browse my work history on [LinkedIn](https://www.linkedin.com/in/steven-deobald/)
 or [hire me](mailto:steven@deobald.ca).
 
 ***
