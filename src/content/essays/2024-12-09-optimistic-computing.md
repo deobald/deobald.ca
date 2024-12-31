@@ -95,8 +95,8 @@ David Brevik describes the key design decision this way:
 
 > "Time from boot up to kill was, like ... it's gotta be under a minute."
 
-I [love this quote](https://www.youtube.com/watch?v=huPF3Gid7DE&t=390s)
-the moment I heard it and I've abused it on every product I've built since.
+I [love this quote](https://www.youtube.com/watch?v=huPF3Gid7DE&t=390s).
+From the moment I heard it, I've abused it on every product I've built since.
 
 So much is bundled into this idea.
 _It Just Works_ is at home here; you don't get to give your users a manual or a How-To or a README or a Quickstart.
