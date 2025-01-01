@@ -14,15 +14,15 @@ running businesses like
 (India's first worker-owned tech company)
 and
 [Endatabas](https://www.endatabas.com/)
-(earth's first immutable HTAP SQL database),
+(earth's first immutable SQL database),
 I'm looking for full-time employment.
 I've enjoyed starting unique companies from scratch and taking them as far as I can, but now I want to help grow something larger than I could build myself.
 
 If you don't know me: I'm Steven, an
-[engineering manager](https://bsky.app/profile/deobald.bsky.social/post/3lenghfxe6227)
+engineering manager
 and developer from Canada.
 I have 15+ years of experience building and growing technology teams, while ensuring they build the right product.
-Lately, I've also been in the repo.
+Over those years, I've spent more time in management roles, but lately I've also been writing code again.
 I build, evolve, and maintain backend Ruby on Rails codebases for non-profits.
 I've been writing code for 30 years, but I will always
 [sweep the floor](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch04.html#sweep_the_floor).
