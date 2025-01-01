@@ -6,7 +6,7 @@ tags: ["design", "free software", "open source"]
 draft: false
 ---
 
-Commercial Open Source Softare (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products.
+Commercial Open Source Software (COSS) is an only-loosely-agreed-upon term for businesses built upon selling open source products.
 COSS has seen two significant waves pass, with a third now emerging.
 The head of each wave lasts approximately a decade.
 The tail of each wave extends into the future indefinitely.
