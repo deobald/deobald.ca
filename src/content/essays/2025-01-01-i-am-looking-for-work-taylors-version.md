@@ -63,3 +63,6 @@ your company builds
 [third wave open source](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/),
 or if you run a
 [software cooperative](https://www.deobald.ca/essays/2014-11-02-what-is-a-software-cooperative/).
+
+I have a [list of organizations](https://github.com/deobald/notes/blob/master/Places%20I%20Would%20Like%20To%20Work.md)
+for whom I would particularly like to work.
