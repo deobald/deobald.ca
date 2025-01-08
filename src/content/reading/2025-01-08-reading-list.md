@@ -1,9 +1,9 @@
 ---
-draft: true
 title: "2025 Reading List"
 date: 2025-01-08T00:00:00
 categories: ["reading"]
 tags: ["books", "libraries"]
+draft: false
 ---
 
 It's been half a decade since I updated my personal reading list.

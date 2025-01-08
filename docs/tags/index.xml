@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Steven Deobald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.deobald.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://www.deobald.ca/tags/books/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Libraries</title>
+      <link>https://www.deobald.ca/tags/libraries/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/tags/libraries/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Design</title>
       <link>https://www.deobald.ca/tags/design/</link>
@@ -55,20 +69,6 @@
       <link>https://www.deobald.ca/tags/blockchain/</link>
       <pubDate>Thu, 11 Nov 2021 15:00:00 +0000</pubDate>
       <guid>https://www.deobald.ca/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>https://www.deobald.ca/tags/books/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/tags/books/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Libraries</title>
-      <link>https://www.deobald.ca/tags/libraries/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/tags/libraries/</guid>
       <description></description>
     </item>
     <item>
