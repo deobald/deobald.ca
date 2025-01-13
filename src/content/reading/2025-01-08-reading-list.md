@@ -40,7 +40,7 @@ I'm missing a bunch, but these are recent books that were either good enough, ba
 * _Journey of Insight Meditation: A Personal Experience of the Buddha's Way_, Lerner: This is a pretty darn good first-hand account of someone's earnest attempt to learn meditation. Probably the only book of its kind but it won't be for everyone.
 * _The Amazing Adventures of Kavalier and Clay_, Chabon: EXCELLENT. I find I rarely enjoy fiction these days, but this was a delight in every _single_ sentence.
 * _Prophet Song_, Lynch: 2 stars, do not recommend
-* _Lesons in Chemistry_, Garmus: 1 star. Rape your main character on page 15, get zero respect from me. Designed to be a TV show. Surprise! It's on Apple TV.
+* _Lessons in Chemistry_, Garmus: 1 star. Rape your main character on page 15, get zero respect from me. Designed to be a TV show. Surprise! It's on Apple TV.
 * _Butter Honey Pig Bread_, Ekwuyasi: Entire chunks of the storyline didn't line up. The writing is amateur. I didn't enjoy this.
 * _Tomorrow and Tomorrow and Tomorrow_, Zevin: 4 stars, pokes my every nostalgia button. Also excellent writing. A great read after _Hackers_.
 * _Hackers_, Levy: Every developer should read this.
@@ -54,6 +54,6 @@ I'm missing a bunch, but these are recent books that were either good enough, ba
 * _Clear and Simple As the Truth_, Turner/Thomas: 4 stars, this is some arrogant hand-waving but these fellows are incredibly talented hand-wavers. Gets very repetitive about 60% of the way through.
 * _Working in Public: The Making and Maintenance of Open Source Software_, Eghbal: 0 stars. I fear if Eghbal ever reads my review, it will make her sad. I don't want to do that. But no book has ever made me quite so angry as this one. It is very poorly researched and very badly written.
 * _On Writing Well_, Zinsser: Meh.
-* _Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book_, Ingram: 0 stars, I was forced to re-read this for research purposes
+* _Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book_, Ingram: 0 stars, I was forced to re-read this for research purposes.
 * _Conversations Regarding the Fatalistic Outlook of the Common Man_, Manickavel: 4 stars, you should read Kuzhali if you can find her books.
 * _Ada, or Ardor_, Nabokov: 4 stars, extremely pretentious but maybe Nabokov's writing deserves it. Revisited, not re-read.
