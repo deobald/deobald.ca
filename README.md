@@ -4,7 +4,7 @@ My personal home page on the world wide web.
 
 # Development
 
-## Ubuntu:
+## Debian / Ubuntu:
 
 ```
 sudo apt install hugo
@@ -29,17 +29,6 @@ git submodule update --rebase --remote
 If you don't do this, you will see:
 
 `WARN 2024/08/13 21:27:52 found no layout file for "HTML" for kind "home": ...`
-
-## Arch
-
-You can install AsciiDoctor via `yay`,
-including the `asciidoctor-html5s` extension:
-
-```
-yay -S hugo
-yay -S ruby-asciidoctor
-yay -S ruby-asciidoctor-html5s
-```
 
 Relevant files:
 
