@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    
+    <link rel="canonical" href="https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/">
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.131.0">
+
+    
+    
+    
+
+<title>LocalFirst: You Keep Using That Word • Steven Deobald</title>
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="LocalFirst: You Keep Using That Word">
+  <meta name="twitter:description" content="From the original local-first essay (or its pdf version) to Martin Kleppmann’s much-simplified inversion of Leslie Lamport’s definition of a distributed system:
+In local-first software, the availability of another computer should never prevent you from working.
+…it’s been difficult to get a handle on a good definition for “local-first”. Personally, I’ve decided the reason for this is because “local-first” isn’t a binary label we can cleanly apply to something. It’s more of a spectrum.">
+
+<meta property="og:url" content="https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/">
+  <meta property="og:site_name" content="Steven Deobald">
+  <meta property="og:title" content="LocalFirst: You Keep Using That Word">
+  <meta property="og:description" content="From the original local-first essay (or its pdf version) to Martin Kleppmann’s much-simplified inversion of Leslie Lamport’s definition of a distributed system:
+In local-first software, the availability of another computer should never prevent you from working.
+…it’s been difficult to get a handle on a good definition for “local-first”. Personally, I’ve decided the reason for this is because “local-first” isn’t a binary label we can cleanly apply to something. It’s more of a spectrum.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="essays">
+    <meta property="article:published_time" content="2026-01-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-01-01T00:00:00+00:00">
+    <meta property="article:tag" content="Local-First">
+    <meta property="article:tag" content="Design">
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.3081c4981fb69a2783dd36ecfdd0e6ba7a158d4cbfdd290ebce8f78ba0469fc6.css" integrity="sha256-MIHEmB&#43;2mieD3Tbs/dDmunoVjUy/3SkOvOj3i6BGn8Y=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+<link rel="stylesheet" href="/css/deobald.css">
+<script defer data-domain="deobald.ca" src="https://stati.stic.earth/js/script.js"></script>
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://www.deobald.ca/">Steven Deobald</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/03e8994ec9679667eb7eabe1138e168e?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Steven Deobald</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/essays/">
+						<span>Essays</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/reading/">
+						<span>Readings</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/index.xml">
+						<span>RSS Feed</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+  
+	<a href="https://fantastic.earth/@deobald" rel="me"><i class="fab fa-mastodon fa-lg" aria-hidden="true"></i></a>
+	
+  
+	<a href="https://bsky.app/profile/deobald.bsky.social" rel="me"><i class="fab fa-bluesky fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	<a href="https://github.com/deobald" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<a href="mailto:steven@deobald.ca" rel="me"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>LocalFirst: You Keep Using That Word</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Jan 01, 2026
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/open-source">OPEN SOURCE</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/technology">TECHNOLOGY</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/local-first">local-first</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/design">design</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 8 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>From <a href="https://www.inkandswitch.com/essay/local-first/">the original local-first essay</a>
+(or its <a href="https://martin.kleppmann.com/papers/local-first.pdf">pdf version</a>)
+to Martin Kleppmann&rsquo;s
+<a href="https://martin.kleppmann.com/2024/05/30/local-first-conference.html">much-simplified inversion of Leslie Lamport&rsquo;s definition of a distributed system</a>:</p>
+<blockquote>
+<p>In local-first software, the availability of another computer should <em>never prevent you from working.</em></p>
+</blockquote>
+<p>&hellip;it&rsquo;s been difficult to get a handle on a good definition for &ldquo;local-first&rdquo;. Personally, I&rsquo;ve decided the reason for this is because &ldquo;local-first&rdquo; isn&rsquo;t a binary label we can cleanly apply to something. It&rsquo;s more of a spectrum.</p>
+<h2 id="the-problem-scenarios">The Problem Scenarios</h2>
+<p>Kleppmann&rsquo;s micro redefinition, of course, assumes we&rsquo;re in a distributed context to begin with. The very next slide in his 2024 talk, above, states that &ldquo;local-first implies &hellip; multi-device.&rdquo; But the snappy one-liner on the preceding slide does miss this fact and many people still conflate &ldquo;offline-first&rdquo; with &ldquo;local-first&rdquo;. A VisiCalc spreadsheet on an Apple II is not a local-first document. There are plenty of other points of confusion, though.</p>
+<h3 id="servers-are-okay">Servers Are Okay</h3>
+<p>Recently, I had someone on Mastodon proclaim that local-first implies that servers aren&rsquo;t allowed. While I prefer the peer-to-peer <em>friendly</em> future we might enable with local-first, I don&rsquo;t like the fantasy of doing away with servers completely. This person&rsquo;s example scenario was migrating an entire GNOME environment from one computer to another. In many cases, I&rsquo;d like an iCloud-style service for that. I&rsquo;d probably even pay for it, if it existed.</p>
+<p>But a more acute example occurred just this week. Some friends and I created a shared storywriting experience using <a href="https://modal.cx/blog/reflection-winter-update/">Reflection</a>:
+a local-first GNOME multiplayer Markdown editor. Those friends shared the doc via the Modal Collective with #39c3: <a href="https://modal.cx/39c3/">https://modal.cx/39c3/</a></p>
+<p>Our little collaborative writing exercise ended on December 31st, 2025 but one day this past week, my laptop lid must have been in a weird position and it went to sleep overnight. It felt a bit weird to keep my laptop awake every night just to ensure a p2panda node was available for new users. I would have really loved to run Reflection as a headless service on one of my servers.</p>
+<p>In this scenario, a &ldquo;server&rdquo; isn&rsquo;t a special piece of software. It&rsquo;s just a regular p2p node like anyone might run on their phone or laptop. But it&rsquo;s guaranteed to stay up 24/7 and it might be beefier, geographically distributed to reduce latency, or any of the umpteen other reasons we created The All-Powerful Cloud.</p>
+<h3 id="no-spinners">No Spinners</h3>
+<p>One of the original ideals of local-first was &ldquo;no spinners.&rdquo;
+(<a href="https://www.youtube.com/watch?v=YxwfgDu0m1I">Ridin spinners</a>
+hasn&rsquo;t been cool for a quarter-century.)
+While this was a visual aid to describe what was meant by &ldquo;fast&rdquo;, I wish more product managers would take this literally. Bitwarden clients, for example, will eventually let you see your passwords even if they can&rsquo;t reach your Bitwarden/Vaultwarden server&hellip; but they&rsquo;ll spin for a while first, trying to phone home.</p>
+<p>How many mobile apps do you have installed that work without an internet connection? On my phone, at least, they are few.</p>
+<p>How about desktop apps? Slack? Fractal? Every version of persistent IRC will be bound to a client/server architecture for years to come &hellip; but why can&rsquo;t I scroll back and search through every message these apps have seen, even without an internet connection?</p>
+<h3 id="foss-is-implied">F/OSS is Implied</h3>
+<p>Under local-first ideals, owning your data is essential. If someone else can rug-pull your data out from under you, that software is objectively not local-first.</p>
+<p>I put <a href="https://linear.app/">Linear</a> in this category. When (not if) Linear Orbit, Inc. finally dies, you can&rsquo;t keep your data. Your not going to manage your software project with a CSV export. I have other problems with Linear, but I&rsquo;ll get to those later.</p>
+<p>However, the old Ideal #7
+(<a href="https://www.inkandswitch.com/essay/local-first/#7-you-retain-ultimate-ownership-and-control">&ldquo;you retain ultimate ownership and control&rdquo;</a>)
+is&hellip; pretty specific. And it&rsquo;s specific in useful ways. That original doc says &ldquo;no company should restrict what you are allowed to do.&rdquo; Proprietary software, even if it operates on a widely-understood data format (looking at you, Obsidian) has restricted you based on the fact that you can&rsquo;t keep working the way you once did when their company finally dies.</p>
+<p>Kleppmann&rsquo;s new definition is actually useful here: <em>In local-first software, the availability of another computer should never prevent you from working.</em> When the Obsidian servers go down, either because of a massive outage or because Dynalist Inc. has gone out of business, your sync stops working. Sure, you can keep editing your notes on a single machine&hellip; but I&rsquo;d argue sync is a core feature of Obsidian. And many other products these days.</p>
+<p>And, thus, a company that sells you proprietary apps is restricting what you are allowed to do, and determining the availability of features based on the availability of their machines.</p>
+<p>Servers are allowed. But servers should be optional. For most local-first apps, that will mean that at least the app itself is Free and open source, even if the service isn&rsquo;t.</p>
+<h3 id="the-web-is-weird">The Web is Weird</h3>
+<p>While I can understand why so much development effort has gone into web technologies (they do some neat things!), it&rsquo;s very peculiar to build local-first apps on the web.</p>
+<p>A webapp has a URL, first of all. The very first thing it <em>does</em> is phone home. &ldquo;Phoning home&rdquo; is the defining characteristic of a webapp. A couple years ago, some friends of mine were building a local-first CRM. They were web developers and so the app was a webapp. I was excited to beta test it for them, but living inside a browser just forced me through a bunch of extra hoops: cookies, JavaScript, local storage, bouncing my cache, etc. Everything about running their beta software was a pain in the ass.</p>
+<p>The convenience of webapps, once upon a time, was precisely that they were hosted&hellip; and remote. We rented stable machines someone else upgraded for us. For 20 years, from 2005 to 2025, we were back to mainframes and time-share architectures. That&rsquo;s a bad design for an app you want to take with you to the moon, though.</p>
+<p>This is my second beef with apps like Linear. Just because Linear is snappy doesn&rsquo;t make it &ldquo;local-first&rdquo;. They rent out mainframe time-shares, just like any other 2005 SaaS product.</p>
+<h3 id="were-not-always-multiplayer">We&rsquo;re Not Always Multiplayer</h3>
+<p><a href="https://fantastic.earth/@deobald/115313381526877943">Sebastian Wick</a> and I had a back-and-forth thread about this a few months ago. While &ldquo;multi-device&rdquo;
+(<a href="https://www.inkandswitch.com/essay/local-first/#2-your-work-is-not-trapped-on-one-device">Ideal #2</a>)
+is essential to local-first, &ldquo;seamless collaboration&rdquo;
+(<a href="https://www.inkandswitch.com/essay/local-first/#4-seamless-collaboration-with-your-colleagues">Ideal #4</a>)
+is not. It&rsquo;s worth reflecting on what this means.</p>
+<p>There are plenty of apps where multiplayer doesn&rsquo;t make any sense. By both domain and technical choice, if an app developer can avoid programming conflict resolution, she&rsquo;s got a lot less testing, debugging, and thinking to do.</p>
+<p>An immutable record of personal health record documents is one domain/tech combo in this category, for example. You might want this on all your devices, but you&rsquo;re unlikely to want multiplayer features. SyncThing is a &ldquo;pure&rdquo; tech example that&rsquo;s almost always guaranteed to work for a single user but requires multiple users to make choices about conflict resolution.</p>
+<p>Granted, one day multiplayer may be &ldquo;free&rdquo; everywhere thanks to slick tooling and a smorgasbord of CRDTs. But we&rsquo;re not there yet.</p>
+<h2 id="solutions-on-a-spectrum">Solutions On A Spectrum</h2>
+<p>To multiplayer or not to multiplayer is really up to the app in question. But when it&rsquo;s not required, I&rsquo;m inclined to believe app developers would save themselves a lot of grief by avoiding it.</p>
+<p>The solution to the weirdness of local-first webapps is to build native apps. They don&rsquo;t need to be built in GTK or SwiftUI. Build them with Flutter or React Native or Electron, if you have to. But wean yourself off the web&rsquo;s technologies.</p>
+<p>The solution to the f/oss problem is to build Free and open source apps. You can charge for a service, if you want, but ideally that service is just a fancied up version of the f/oss app your customers are running.</p>
+<p>Spinners can be avoided in any software, not just local-first. Always let the user see (at least in read-only mode) what data the app has seen.</p>
+<p>Depending on how you design your data model, servers can either come first in your product&rsquo;s development process or they can be a headless app, as an afterthought. For example, if your documents/states are immutable, or derived from immutable events, you can sleepwalk your way into a local-first app even if you build it as a boring old client/server architecture first. Once you have a service that behaves nicely, you can always slosh the immutable data around using the simplest constructs from peer-to-peer frameworks.</p>
+<p>You can absolutely build a single-player proprietary webapp that checks for a network connection before allowing offline usage. But, to me, this feels deeply antithetical. Instead, an app is <em>more</em> &ldquo;local-first&rdquo; the <em>more</em> it ticks these boxes:</p>
+<ul>
+<li>free and open source</li>
+<li>native app</li>
+<li>local-first, <em>first</em></li>
+<li>seamlessly multi-player</li>
+<li>server-friendly, even if just a headless p2p app node</li>
+<li>prefer immutability over fancy CRDTs</li>
+</ul>
+<h2 id="next-decades-problems">Next Decade&rsquo;s Problems</h2>
+<p>There are, of course, all sorts of messages, documents, protocols, and formats that we&rsquo;ll struggle to shoehorn into a local-first model. Email, chat (Slack, Matrix, Signal, Telegram, etc.), calendaring, video sharing, podcasting, social media&hellip; all of these things are a bit of a challenge to execute in a truly local-first way.</p>
+<p>The folks behind <a href="https://tryquiet.org/">Quiet</a> are making an honest attempt at a local-first Slack alternative. But it&rsquo;s tough. I expect to see the old file-sharing p2p networks of the 1990s resurface as universal methods for sharing podcasts (which earn most of their revenue from sponsors anyway) before messaging systems like Mastodon, email, and Slack are supplanted by local-first alternatives.</p>
+<p>One can dream, of course. In the meantime, I believe there is room for free and open source cloud services&hellip; but that&rsquo;s a conversation for another day.</p>
+
+  </div>
+  
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+<script defer src="https://use.fontawesome.com/releases/v6.7.1/js/all.js" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

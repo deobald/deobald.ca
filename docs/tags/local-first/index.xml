@@ -4,10 +4,17 @@
     <title>Local-First on Steven Deobald</title>
     <link>https://www.deobald.ca/tags/local-first/</link>
     <description>Recent content in Local-First on Steven Deobald</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.deobald.ca/tags/local-first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LocalFirst: You Keep Using That Word</title>
+      <link>https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/</guid>
+      <description>From the original local-first essay (or its pdf version) to Martin Kleppmann&amp;rsquo;s much-simplified inversion of Leslie Lamport&amp;rsquo;s definition of a distributed system:&#xA;In local-first software, the availability of another computer should never prevent you from working.&#xA;&amp;hellip;it&amp;rsquo;s been difficult to get a handle on a good definition for &amp;ldquo;local-first&amp;rdquo;. Personally, I&amp;rsquo;ve decided the reason for this is because &amp;ldquo;local-first&amp;rdquo; isn&amp;rsquo;t a binary label we can cleanly apply to something. It&amp;rsquo;s more of a spectrum.</description>
+    </item>
     <item>
       <title>Optimistic Computing</title>
       <link>https://www.deobald.ca/essays/2024-12-09-optimistic-computing/</link>
