@@ -71,7 +71,7 @@ Servers are allowed. But servers should be optional. For most local-first apps, 
 
 ### The Web is Weird
 
-While I can understand why so much development effort has gone into web technologies (they do some neat things!), it's very peculiar to build local-first apps on the web.
+While I can understand why so much development effort has gone into web technologies (they do some neat things!), it's very peculiar to build local-first apps on the web. You can do it, of course. But... why?
 
 A webapp has a URL, first of all. The very first thing it _does_ is phone home. "Phoning home" is the defining characteristic of a webapp. A couple years ago, some friends of mine were building a local-first CRM. They were web developers and so the app was a webapp. Okay, fine. I was excited to beta test it for them, but living inside a browser just forced me through a bunch of extra hoops: cookies, JavaScript, local storage, bouncing my cache, etc. Everything about running their beta software was a pain in the ass.
 
