@@ -62,6 +62,10 @@ I still have no idea what happened in August. I'm beginning to believe I never w
   * banking has been moved into the treasury function (pres, treasurer), non-banking tools should move into infra: Stripe, Wise.com, etc.
   * automate
 
+* accountability, feedback, open honest comm
+  * private chan in matrix
+  * private area in discourse?
+
 
 ## Diversity
 

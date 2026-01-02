@@ -25,16 +25,14 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="LocalFirst: You Keep Using That Word">
-  <meta name="twitter:description" content="From the original local-first essay (or its pdf version) to Martin Kleppmann’s much-simplified inversion of Leslie Lamport’s definition of a distributed system:
-In local-first software, the availability of another computer should never prevent you from working.
-…it’s been difficult to get a handle on a good definition for “local-first”. Personally, I’ve decided the reason for this is because “local-first” isn’t a binary label we can cleanly apply to something. It’s more of a spectrum.">
+  <meta name="twitter:description" content="If you’ve been following the local-first scene over the past few years, you already know a good definition for the term “local-first” is hard to pin down.
+Part of the reason is that most people write software for money … and true local-first software is harder to capitalize. “Local-first” is a direct attack on vendor lock-in of all forms: data, formats, protocols, apps, services, and even environments. But the fact your employer can’t exploit this technology with a new revenue model (yet) is a minor problem.">
 
 <meta property="og:url" content="https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/">
   <meta property="og:site_name" content="Steven Deobald">
   <meta property="og:title" content="LocalFirst: You Keep Using That Word">
-  <meta property="og:description" content="From the original local-first essay (or its pdf version) to Martin Kleppmann’s much-simplified inversion of Leslie Lamport’s definition of a distributed system:
-In local-first software, the availability of another computer should never prevent you from working.
-…it’s been difficult to get a handle on a good definition for “local-first”. Personally, I’ve decided the reason for this is because “local-first” isn’t a binary label we can cleanly apply to something. It’s more of a spectrum.">
+  <meta property="og:description" content="If you’ve been following the local-first scene over the past few years, you already know a good definition for the term “local-first” is hard to pin down.
+Part of the reason is that most people write software for money … and true local-first software is harder to capitalize. “Local-first” is a direct attack on vendor lock-in of all forms: data, formats, protocols, apps, services, and even environments. But the fact your employer can’t exploit this technology with a new revenue model (yet) is a minor problem.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="essays">
@@ -214,7 +212,7 @@ In local-first software, the availability of another computer should never preve
     
     
     <br/>
-    <i class="fas fa-clock"></i> 8 min read
+    <i class="fas fa-clock"></i> 9 min read
 </div>
 
 
@@ -222,45 +220,50 @@ In local-first software, the availability of another computer should never preve
   
   
   <div class="post">
-    <p>From <a href="https://www.inkandswitch.com/essay/local-first/">the original local-first essay</a>
-(or its <a href="https://martin.kleppmann.com/papers/local-first.pdf">pdf version</a>)
-to Martin Kleppmann&rsquo;s
-<a href="https://martin.kleppmann.com/2024/05/30/local-first-conference.html">much-simplified inversion of Leslie Lamport&rsquo;s definition of a distributed system</a>:</p>
+    <p>If you&rsquo;ve been following the local-first scene over the past few years, you already know a good definition for the term &ldquo;local-first&rdquo; is hard to pin down.</p>
+<p>Part of the reason is that most people write software for money &hellip; and true local-first software is harder to capitalize. &ldquo;Local-first&rdquo; is a direct attack on vendor lock-in of all forms: data, formats, protocols, apps, services, and even environments. But the fact your employer can&rsquo;t exploit this technology with a new revenue model (yet) is a minor problem. The crux is that not all local-first systems are created equal.</p>
+<p>The term was coined in <a href="https://www.inkandswitch.com/essay/local-first/">the original local-first essay</a>
+(or its <a href="https://martin.kleppmann.com/papers/local-first.pdf">pdf version</a>) and if you haven&rsquo;t read that, you should. This essay isn&rsquo;t going to make much sense if you haven&rsquo;t.</p>
+<p>I would also recommend Martin Kleppmann&rsquo;s
+<a href="https://martin.kleppmann.com/2024/05/30/local-first-conference.html">much-simplified definition</a>, based on an inversion of Leslie Lamport&rsquo;s definition of a distributed system:</p>
 <blockquote>
 <p>In local-first software, the availability of another computer should <em>never prevent you from working.</em></p>
 </blockquote>
-<p>&hellip;it&rsquo;s been difficult to get a handle on a good definition for &ldquo;local-first&rdquo;. Personally, I&rsquo;ve decided the reason for this is because &ldquo;local-first&rdquo; isn&rsquo;t a binary label we can cleanly apply to something. It&rsquo;s more of a spectrum.</p>
+<p>But none of these get us to a clean definition of &ldquo;local-first&rdquo;. Personally, I&rsquo;ve decided the reason for this is because &ldquo;local-first&rdquo; isn&rsquo;t a binary label we can cleanly apply to something. It&rsquo;s more of a spectrum.</p>
 <h2 id="the-problem-scenarios">The Problem Scenarios</h2>
-<p>Kleppmann&rsquo;s micro redefinition, of course, assumes we&rsquo;re in a distributed context to begin with. The very next slide in his 2024 talk, above, states that &ldquo;local-first implies &hellip; multi-device.&rdquo; But the snappy one-liner on the preceding slide does miss this fact and many people still conflate &ldquo;offline-first&rdquo; with &ldquo;local-first&rdquo;. A VisiCalc spreadsheet on an Apple II is not a local-first document. There are plenty of other points of confusion, though.</p>
+<p>Kleppmann&rsquo;s micro redefinition, of course, assumes we&rsquo;re in a distributed context to begin with. The very next slide in his 2024 talk, above, states that &ldquo;local-first implies &hellip; multi-device.&rdquo; But the snappy one-liner on the preceding slide does miss this fact and many people still conflate &ldquo;offline-first&rdquo; with &ldquo;local-first&rdquo;. A VisiCalc spreadsheet on an Apple IIe is not a local-first document. There are plenty of other points of confusion, though.</p>
 <h3 id="servers-are-okay">Servers Are Okay</h3>
-<p>Recently, I had someone on Mastodon proclaim that local-first implies that servers aren&rsquo;t allowed. While I prefer the peer-to-peer <em>friendly</em> future we might enable with local-first, I don&rsquo;t like the fantasy of doing away with servers completely. This person&rsquo;s example scenario was migrating an entire GNOME environment from one computer to another. In many cases, I&rsquo;d like an iCloud-style service for that. I&rsquo;d probably even pay for it, if it existed.</p>
+<p>Recently, I had someone on Mastodon proclaim that local-first implies that servers aren&rsquo;t allowed. While I prefer the peer-to-peer (p2p) <em>friendly</em> future we might enable with local-first, I don&rsquo;t like the fantasy of doing away with servers completely. This person&rsquo;s example scenario was migrating an entire GNOME environment from one computer to another. In many cases, I&rsquo;d like an iCloud-style service for that. I&rsquo;d probably even pay for it, if it existed.</p>
 <p>But a more acute example occurred just this week. Some friends and I created a shared storywriting experience using <a href="https://modal.cx/blog/reflection-winter-update/">Reflection</a>:
 a local-first GNOME multiplayer Markdown editor. Those friends shared the doc via the Modal Collective with #39c3: <a href="https://modal.cx/39c3/">https://modal.cx/39c3/</a></p>
 <p>Our little collaborative writing exercise ended on December 31st, 2025 but one day this past week, my laptop lid must have been in a weird position and it went to sleep overnight. It felt a bit weird to keep my laptop awake every night just to ensure a p2panda node was available for new users. I would have really loved to run Reflection as a headless service on one of my servers.</p>
-<p>In this scenario, a &ldquo;server&rdquo; isn&rsquo;t a special piece of software. It&rsquo;s just a regular p2p node like anyone might run on their phone or laptop. But it&rsquo;s guaranteed to stay up 24/7 and it might be beefier, geographically distributed to reduce latency, or any of the umpteen other reasons we created The All-Powerful Cloud.</p>
+<p>In this scenario, a &ldquo;service&rdquo; isn&rsquo;t a special piece of software. It&rsquo;s just a regular p2p node like anyone might run on their phone or laptop. But it&rsquo;s guaranteed to stay up 24/7 and it might be beefier, geographically distributed to reduce latency, or any of the umpteen other reasons we created The All-Powerful Cloud.</p>
+<p>On the flip side, it&rsquo;s worth noting that even though the local-first scene is rife with p2p tooling, &ldquo;local-first&rdquo; doesn&rsquo;t make p2p a <em>requirement.</em> Local-first apps can sync through a non-peer remote service. But client/server architectures need some way for users to run their own servers if p2p isn&rsquo;t an option. Which, as we&rsquo;ll see, heavily implies that those services must be open source.</p>
 <h3 id="no-spinners">No Spinners</h3>
 <p>One of the original ideals of local-first was &ldquo;no spinners.&rdquo;
-(<a href="https://www.youtube.com/watch?v=YxwfgDu0m1I">Ridin spinners</a>
+(<a href="https://www.youtube.com/watch?v=YxwfgDu0m1I">Ridin&rsquo; spinners</a>
 hasn&rsquo;t been cool for a quarter-century.)
 While this was a visual aid to describe what was meant by &ldquo;fast&rdquo;, I wish more product managers would take this literally. Bitwarden clients, for example, will eventually let you see your passwords even if they can&rsquo;t reach your Bitwarden/Vaultwarden server&hellip; but they&rsquo;ll spin for a while first, trying to phone home.</p>
 <p>How many mobile apps do you have installed that work without an internet connection? On my phone, at least, they are few.</p>
 <p>How about desktop apps? Slack? Fractal? Every version of persistent IRC will be bound to a client/server architecture for years to come &hellip; but why can&rsquo;t I scroll back and search through every message these apps have seen, even without an internet connection?</p>
 <h3 id="foss-is-implied">F/OSS is Implied</h3>
 <p>Under local-first ideals, owning your data is essential. If someone else can rug-pull your data out from under you, that software is objectively not local-first.</p>
-<p>I put <a href="https://linear.app/">Linear</a> in this category. When (not if) Linear Orbit, Inc. finally dies, you can&rsquo;t keep your data. You&rsquo;re not going to manage your software project with a CSV export. I have other problems with Linear, but I&rsquo;ll get to those later.</p>
+<p>I put <a href="https://linear.app/">Linear</a> in this category. When (not if) Linear Orbit, Inc. finally dies, you can&rsquo;t keep your data. You&rsquo;re not going to manage your software project with a CSV export and their software will be gone forever. I have other problems with Linear, but I&rsquo;ll get to those later.</p>
 <p>However, the old Ideal #7
 (<a href="https://www.inkandswitch.com/essay/local-first/#7-you-retain-ultimate-ownership-and-control">&ldquo;you retain ultimate ownership and control&rdquo;</a>)
-is&hellip; pretty specific. And it&rsquo;s specific in useful ways. That original doc says &ldquo;no company should restrict what you are allowed to do.&rdquo; Proprietary software, even if it operates on a widely-understood data format (looking at you, Obsidian) has restricted you based on the fact that you can&rsquo;t keep working the way you once did when their company finally dies.</p>
-<p>Kleppmann&rsquo;s new definition is actually useful here: <em>In local-first software, the availability of another computer should never prevent you from working.</em> When the Obsidian servers go down, either because of a massive outage or because Dynalist Inc. has gone out of business, your sync stops working. Sure, you can keep editing your notes on a single machine&hellip; but I&rsquo;d argue sync is a core feature of Obsidian. And many other products these days.</p>
+is&hellip; pretty specific. And it&rsquo;s specific in useful ways. That original doc says &ldquo;no company should restrict what you are allowed to do.&rdquo; Proprietary software, even if it operates on a widely-understood data format (looking at you, Obsidian) has restricted you based on the fact that you can&rsquo;t keep working the way you once did when their company finally dies. Add Ideal #5 (<a href="https://www.inkandswitch.com/essay/local-first/#5-the-long-now">&ldquo;The Long Now&rdquo;</a>) to the equation, and it&rsquo;s really the nail in the coffin of proprietary apps.</p>
+<p>Kleppmann&rsquo;s new definition is actually useful here: <em>In local-first software, the availability of another computer should never prevent you from working.</em> When the Obsidian servers go down, either because of a massive outage or because Dynalist Inc. has gone out of business, your sync stops working. Sure, you can keep editing your notes on a single machine&hellip; but I&rsquo;d argue sync is a core feature of Obsidian. (And many other products these days.) Without sync, we&rsquo;re back to the offline-first world of our Apple IIe.</p>
 <p>And, thus, a company that sells you proprietary apps is restricting what you are allowed to do, and determining the availability of features based on the availability of their machines.</p>
 <p>Servers are allowed. But servers should be optional. For most local-first apps, that will mean that at least the app itself is Free and open source, even if the service isn&rsquo;t.</p>
 <h3 id="the-web-is-weird">The Web is Weird</h3>
 <p>While I can understand why so much development effort has gone into web technologies (they do some neat things!), it&rsquo;s very peculiar to build local-first apps on the web.</p>
-<p>A webapp has a URL, first of all. The very first thing it <em>does</em> is phone home. &ldquo;Phoning home&rdquo; is the defining characteristic of a webapp. A couple years ago, some friends of mine were building a local-first CRM. They were web developers and so the app was a webapp. I was excited to beta test it for them, but living inside a browser just forced me through a bunch of extra hoops: cookies, JavaScript, local storage, bouncing my cache, etc. Everything about running their beta software was a pain in the ass.</p>
+<p>A webapp has a URL, first of all. The very first thing it <em>does</em> is phone home. &ldquo;Phoning home&rdquo; is the defining characteristic of a webapp. A couple years ago, some friends of mine were building a local-first CRM. They were web developers and so the app was a webapp. Okay, fine. I was excited to beta test it for them, but living inside a browser just forced me through a bunch of extra hoops: cookies, JavaScript, local storage, bouncing my cache, etc. Everything about running their beta software was a pain in the ass.</p>
 <p>The convenience of webapps, once upon a time, was precisely that they were hosted&hellip; and remote. We rented stable machines someone else upgraded for us. For 20 years, from 2005 to 2025, we were back to mainframes and time-share architectures. That&rsquo;s a bad design for an app you want to take with you to the moon, though.</p>
 <p>This is my second beef with apps like Linear. Just because Linear is snappy doesn&rsquo;t make it &ldquo;local-first&rdquo;. They rent out mainframe time-shares, just like any other 2005 SaaS product.</p>
 <h3 id="were-not-always-multiplayer">We&rsquo;re Not Always Multiplayer</h3>
-<p><a href="https://fantastic.earth/@deobald/115313381526877943">Sebastian Wick</a> and I had a back-and-forth thread about this a few months ago. While &ldquo;multi-device&rdquo;
+<p>Sebastian Wick and I had
+<a href="https://fantastic.earth/@deobald/115313381526877943">a back-and-forth thread about this</a>
+a few months ago. While &ldquo;multi-device&rdquo;
 (<a href="https://www.inkandswitch.com/essay/local-first/#2-your-work-is-not-trapped-on-one-device">Ideal #2</a>)
 is essential to local-first, &ldquo;seamless collaboration&rdquo;
 (<a href="https://www.inkandswitch.com/essay/local-first/#4-seamless-collaboration-with-your-colleagues">Ideal #4</a>)
@@ -271,9 +274,9 @@ is not. It&rsquo;s worth reflecting on what this means.</p>
 <h2 id="solutions-on-a-spectrum">Solutions On A Spectrum</h2>
 <p>To multiplayer or not to multiplayer is really up to the app in question. But when it&rsquo;s not required, I&rsquo;m inclined to believe app developers would save themselves a lot of grief by avoiding it.</p>
 <p>The solution to the weirdness of local-first webapps is to build native apps. They don&rsquo;t need to be built in GTK or SwiftUI. Build them with Flutter or React Native or Electron, if you have to. But wean yourself off the web&rsquo;s technologies.</p>
-<p>The solution to the f/oss problem is to build Free and open source apps. You can charge for a service, if you want, but ideally that service is just a fancied up version of the f/oss app your customers are running.</p>
-<p>Spinners can be avoided in any software, not just local-first. Always let the user see (at least in read-only mode) what data the app has seen.</p>
-<p>Depending on how you design your data model, servers can either come first in your product&rsquo;s development process or they can be a headless app, as an afterthought. For example, if your documents/states are immutable, or derived from immutable events, you can sleepwalk your way into a local-first app even if you build it as a boring old client/server architecture first. Once you have a service that behaves nicely, you can always slosh the immutable data around using the simplest constructs from peer-to-peer frameworks.</p>
+<p>The solution to the f/oss problem is to build Free and open source apps. You can charge for a service, if you want, but ideally that service is just a gussied up version of the f/oss app your customers are running.</p>
+<p>Spinners can be avoided in any software, not just local-first. Always let the user see (at least in read-only mode) what data the app has previously seen.</p>
+<p>Depending on how you design your data model, services can either come first in your product&rsquo;s development process or they can be a headless app, as an afterthought. For example, if your documents/states are immutable, or derived from immutable events, you can sleepwalk your way into a local-first app even if you build it as a boring old client/server architecture first. Once you have a service that behaves nicely, you can always slosh the immutable data around using the simplest constructs from peer-to-peer frameworks.</p>
 <p>You can absolutely build a single-player proprietary webapp that checks for a network connection before allowing offline usage. But, to me, this feels deeply antithetical. Instead, an app is <em>more</em> &ldquo;local-first&rdquo; the <em>more</em> it ticks these boxes:</p>
 <ul>
 <li>free and open source</li>
@@ -282,6 +285,7 @@ is not. It&rsquo;s worth reflecting on what this means.</p>
 <li>seamlessly multi-player</li>
 <li>server-friendly, even if just a headless p2p app node</li>
 <li>prefer immutability over fancy CRDTs</li>
+<li>magic: NAT holepunching and service discovery, in the case of p2p nodes</li>
 </ul>
 <h2 id="next-decades-problems">Next Decade&rsquo;s Problems</h2>
 <p>There are, of course, all sorts of messages, documents, protocols, and formats that we&rsquo;ll struggle to shoehorn into a local-first model. Email, chat (Slack, Matrix, Signal, Telegram, etc.), calendaring, video sharing, podcasting, social media&hellip; all of these things are a bit of a challenge to execute in a truly local-first way.</p>
