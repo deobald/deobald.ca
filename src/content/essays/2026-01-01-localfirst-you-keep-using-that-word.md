@@ -49,7 +49,7 @@ How about desktop apps? Slack? Fractal? Every version of persistent IRC will be 
 
 Under local-first ideals, owning your data is essential. If someone else can rug-pull your data out from under you, that software is objectively not local-first.
 
-I put [Linear](https://linear.app/) in this category. When (not if) Linear Orbit, Inc. finally dies, you can't keep your data. Your not going to manage your software project with a CSV export. I have other problems with Linear, but I'll get to those later.
+I put [Linear](https://linear.app/) in this category. When (not if) Linear Orbit, Inc. finally dies, you can't keep your data. You're not going to manage your software project with a CSV export. I have other problems with Linear, but I'll get to those later.
 
 However, the old Ideal #7
 (["you retain ultimate ownership and control"](https://www.inkandswitch.com/essay/local-first/#7-you-retain-ultimate-ownership-and-control))
