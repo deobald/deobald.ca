@@ -27,7 +27,12 @@ I still have no idea what happened in August. I'm beginning to believe I never w
 
 * "death" - david, aaron, 501c3 good governance
 * nurture the next generation: Design Team as good example
-
+  * committee rotation => CoCC rotation
+  * actually _slow_ board rotation
+* onboard app developers - Quickstart, demonstrate the attactiveness of the GNOME platform for building native apps, senior devs get bored easily, #lofi is coming
+* events = opportunity to communicate and collaborate, densely. opportunity for old-timers to provide history and help the next generation learn non-technical skills needed for an extended f/oss community.
+  * link rich's conj open? ("confer" = "give")
+* stop the slow bleed
 
 ## financial stability
 
@@ -65,6 +70,10 @@ I still have no idea what happened in August. I'm beginning to believe I never w
 * accountability, feedback, open honest comm
   * private chan in matrix
   * private area in discourse?
+
+* documents and documentation
+  * a component of succession planning
+  * archival policy, retention policy
 
 
 ## Diversity
