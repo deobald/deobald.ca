@@ -8,6 +8,8 @@ draft: true
 
 preface: As a requirement of receiving my last paycheque, I did sign the gag letter Robert McQueen sent me. However, I retained the right to be critical of the Foundation's directors, past and present. Some of the following may read as criticism.
 
+reference nick's video
+
 I still have no idea what happened in August. I'm beginning to believe I never will. The board's decision from August 12th was never discussed with me and I was never provided any reason for it. From my side of the table, that total lack of communication was a serious problem, unto itself. But I could see the writing on the wall during GUADEC, which is why my keynote was 90% easter eggs. Even so, it has a lot of my strategic thinking baked into it and I'd encourage you to revisit that talk if you're interested in the strategy I laid out for the Foundation while I was briefly ED.
 
 * focus on the mission
@@ -21,7 +23,8 @@ I still have no idea what happened in August. I'm beginning to believe I never w
   * financial stability
   * organizational excellence
   * diversity
-
+  * paradox: requires vision and benefits from a mascot
+  * in short: run a nonprofit like any other business
 
 ## succession planning
 
@@ -32,11 +35,14 @@ I still have no idea what happened in August. I'm beginning to believe I never w
 * onboard app developers - Quickstart, demonstrate the attactiveness of the GNOME platform for building native apps, senior devs get bored easily, #lofi is coming
 * events = opportunity to communicate and collaborate, densely. opportunity for old-timers to provide history and help the next generation learn non-technical skills needed for an extended f/oss community.
   * link rich's conj open? ("confer" = "give")
+* ad board = meeting ground, home for old-timers
 * stop the slow bleed
+* communicate heavily with members
 
 ## financial stability
 
 * fiscal policy
+  * fiscal controls = started
   * reduce costs
   * focus on MRR/ARR
   * aside: Ankur's shock at Foundation budgets
