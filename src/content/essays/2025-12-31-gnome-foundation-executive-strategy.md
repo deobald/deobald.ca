@@ -59,6 +59,11 @@ I still have no idea what happened in August. I'm beginning to believe I never w
 
 ## Organizational Excellence
 
+* feedback
+  * help board & community members
+  * build a healthier community with healthier communication
+  * avoid instantly going over someone's head
+
 * board
   * I had it backwards: hackers make good directors
   * where are our Canonical friends? -- they're on the Ad Board; get them memberships and get them on the board, too
