@@ -49,6 +49,6 @@ So make those things stupid, too. Utilize dumb pipes. Use open protocols. Save t
 
 Make the UI and UX as simple as possible. Drop the transparency and animations. Run your stuff on old hardware and make sure it still works without demanding your users have 256GB of RAM for your little web app. Remember the design constraints of the original iPhone leading to fewer visual elements? Each of them big and thumb-clickable? Try doing that, but don't stop it from being a joy to use. Don't prevent yourself from making it beautiful. Make sure IJW, every time. The less there is to it, there less there is to go wrong.
 
-"Stupidly simple" was once, for what feels like the briefest of moments in design history, the greatest compliment your product could receive. Let's bring that back. Fewer airport sinks, more Boring Technology.
+"Stupidly simple" was once, for what feels like the briefest of moments in design history, the greatest compliment your product could receive. Let's bring that back. Fewer airport sinks. More Artificial StupidIntelligence and Boring Technology, please.
 
 * * *
