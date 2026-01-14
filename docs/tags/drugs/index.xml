@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drugs on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/drugs/</link>
+    <link>http://localhost:1313/tags/drugs/</link>
     <description>Recent content in Drugs on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/drugs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/drugs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does Smoking Marijuana Harm Your Meditation Practice?</title>
-      <link>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</link>
+      <link>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</guid>
+      <guid>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</guid>
       <description>tl;dr: Yes, it does.&#xA;A friend with very little drug experience recently asked me if smoking (or eating) marijuana would harm her nascent meditation practice. She had a few follow-up questions, one of which was &amp;ldquo;have you ever written about this?&amp;rdquo; which caused me to turn our conversation into this essay.&#xA;First off, on the broad topic of drugs and meditation, I have written about my experiences and categorized the options once before in Drugs, Meditation, Warnings.</description>
     </item>
     <item>
       <title>Drugs, Meditation, Warnings</title>
-      <link>https://www.deobald.ca/essays/2015-01-01-drugs-meditation-warnings/</link>
+      <link>http://localhost:1313/essays/2015-01-01-drugs-meditation-warnings/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-01-01-drugs-meditation-warnings/</guid>
+      <guid>http://localhost:1313/essays/2015-01-01-drugs-meditation-warnings/</guid>
       <description>I recently returned to work from my second 10-day Vipassana course. After such a course, friends are always curious about the experience. Because Vipassana meditation courses are largely indescribable, the conversation often drifts to one&amp;rsquo;s journey toward Vipassana, and the journey toward meditation in general. For me, this journey has been a mixture of friendships, literature, and drugs. Drugs can be seen as a stepping-stone to my current meditation practice because a few drugs have similar insightful (informational) qualities.</description>
     </item>
   </channel>

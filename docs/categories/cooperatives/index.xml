@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cooperatives on Steven Deobald</title>
-    <link>https://www.deobald.ca/categories/cooperatives/</link>
+    <link>http://localhost:1313/categories/cooperatives/</link>
     <description>Recent content in Cooperatives on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 May 2018 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/categories/cooperatives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/cooperatives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finances in an Employee-Owned Technology Co-operative</title>
-      <link>https://www.deobald.ca/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</link>
+      <link>http://localhost:1313/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</guid>
+      <guid>http://localhost:1313/essays/2018-05-23-finances-in-an-employee-owned-technology-cooperative/</guid>
       <description>If you are not already familiar with nilenso, I apologize. This article may not make any sense to you. Requested as an opinion piece in reply to an internal email on salaries, it hinges on a lot of context.&#xA;You may find that context interesting.&#xA;YourStory: India&amp;rsquo;s first software co-operative Huh? A Software Cooperative? &amp;mdash; an introduction How to Co-op: Salaries and Reviews &amp;ldquo;I have cramps.&amp;rdquo; &amp;mdash; introducing our menstrual leave policy nilenso policies &amp;mdash; democratic corporate benefits nilenso reviews &amp;mdash; how do we evaluate one another?</description>
     </item>
     <item>
       <title>Salaries in a Cooperative</title>
-      <link>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</link>
+      <link>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-06-03-salaries-in-a-cooperative/</guid>
+      <guid>http://localhost:1313/essays/2015-06-03-salaries-in-a-cooperative/</guid>
       <description>Tom Hall asked me once how nilenso decided salaries when we have no bonuses. This is a question we get often.&#xA;Our first stab at this was a model we&amp;rsquo;d inherited from other companies we&amp;rsquo;d worked at: have salary bands which match up to the skill and experience of the current staff, match that to the available cash, and set salaries accordingly. At first, we actually started off with an approach that was even more naive &amp;ndash; rather than salary bands, we had &amp;ldquo;levels&amp;rdquo;.</description>
     </item>
     <item>
       <title>What is a Software Cooperative?</title>
-      <link>https://www.deobald.ca/essays/2014-11-02-what-is-a-software-cooperative/</link>
+      <link>http://localhost:1313/essays/2014-11-02-what-is-a-software-cooperative/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2014-11-02-what-is-a-software-cooperative/</guid>
+      <guid>http://localhost:1313/essays/2014-11-02-what-is-a-software-cooperative/</guid>
       <description>I recently wrote about how thankful I am, after a decade in software, to work for an employer which inherently understands my values and the values of all my colleagues. That employer is me. That employer is also all of my colleagues. That employer is nilenso: a software cooperative owned and operated by its employees here in Bangalore.&#xA;What is a coop? According to Wikipedia: &amp;ldquo;A cooperative (&amp;ldquo;coop&amp;rdquo;) or co-operative (&amp;ldquo;co-op&amp;rdquo;) is an autonomous association of persons who voluntarily cooperate for their mutual social, economic, and cultural benefit.</description>
     </item>
   </channel>

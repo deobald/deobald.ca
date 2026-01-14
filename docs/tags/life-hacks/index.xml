@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Hacks on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/life-hacks/</link>
+    <link>http://localhost:1313/tags/life-hacks/</link>
     <description>Recent content in Life Hacks on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/life-hacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/life-hacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Disconnect</title>
-      <link>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</link>
+      <link>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</guid>
+      <guid>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</guid>
       <description>For those of us who grew up in the 1990s (Gen-Y-ers? Pre-Millennials?), the sound of connecting was&#xA;Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcchdingding*ding&#xA;and there was a certain romance to the ritual of Getting On The Internet. At least, there is a certain romance now, looking back. Now that we live in the era which precedes the era of ubiquitous computing, with all our nerdy fantasies fulfilled, the internet is everywhere and the ritual is our lives.</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Off-Grid on Steven Deobald</title>
-    <link>https://www.deobald.ca/categories/off-grid/</link>
+    <link>http://localhost:1313/categories/off-grid/</link>
     <description>Recent content in Off-Grid on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/categories/off-grid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/off-grid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Bicycle Commute in Bangalore</title>
-      <link>https://www.deobald.ca/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</link>
+      <link>http://localhost:1313/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</guid>
+      <guid>http://localhost:1313/essays/2016-02-01-how-to-bicycle-commute-in-bangalore/</guid>
       <description>Riding a bicycle in Bangalore is surprisingly easy. Bicycles are nimble and the traffic is slow. The roads are&amp;hellip; good enough. The weather is perfect. The pollution is an issue but not riding a bicycle only exacerbates that situation. Here are my recommendations for making riding a bike in Bangalore something between tolerable and enjoyable.&#xA;Required: Good Brakes Traffic in Bangalore isn&amp;rsquo;t just slow &amp;mdash; it&amp;rsquo;s choppy. Millions of people driving cars on roads that can&amp;rsquo;t support them mean traffic is as stop-and-go as a choked suburban freeway parking lot in America.</description>
     </item>
     <item>
       <title>Bangalore 2030</title>
-      <link>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</link>
+      <link>http://localhost:1313/essays/2015-12-01-bangalore-2030/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</guid>
+      <guid>http://localhost:1313/essays/2015-12-01-bangalore-2030/</guid>
       <description>This past week, nilenso interviewed a German fellow for a software development position. As part of the routine of meeting a new stranger in this city, a variation of &amp;ldquo;Why do you live in Bangalore?&amp;rdquo; passed between us. My answer to this question is complex and usually varies based on the tone and implied subtext with which the question is asked. My immediate reasons are somewhat boring. My job is here and I like my job.</description>
     </item>
     <item>
       <title>Emergent Continuous Design</title>
-      <link>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</link>
+      <link>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-06-01-emergent-continuous-design/</guid>
+      <guid>http://localhost:1313/essays/2015-06-01-emergent-continuous-design/</guid>
       <description>I&amp;rsquo;ve recently returned to Canada for a month to visit family. While here, I&amp;rsquo;ve run into some old friends (and friends of friends) whom I haven&amp;rsquo;t been in contact with since moving to Bangalore three years ago. &amp;ldquo;Oh! You live in India? What&amp;rsquo;s that like?&amp;rdquo; is one common conversation piece. Or the frequent line of questioning which positions the entire subcontinent as though it were a chic new restaurant: &amp;ldquo;India? You must like it.</description>
     </item>
   </channel>

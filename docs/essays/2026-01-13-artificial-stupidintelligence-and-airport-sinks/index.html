@@ -4,10 +4,10 @@
     
 
 
-    <head>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <link href="https://gmpg.org/xfn/11" rel="profile">
     
-    <link rel="canonical" href="https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/">
+    <link rel="canonical" href="http://localhost:1313/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/">
     
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +29,7 @@
 I want to use that term everywhere.
 The same principles — that a tool need not be new, flashy, shiny, complicated, intricate, or the absolute perfect fit — apply everywhere. Liquid Glass is dragging my iPhone 11 SE into a deep dark pit of performance collapse, despite the fact it’s every bit the useful little pocket computer it was back in 2020.">
 
-<meta property="og:url" content="https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/">
+<meta property="og:url" content="http://localhost:1313/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/">
   <meta property="og:site_name" content="Steven Deobald">
   <meta property="og:title" content="Artificial StupidIntelligence and Airport Sinks">
   <meta property="og:description" content="I’m already a big fan of Boring Technology, but that term normally applies (and, within McKinley’s 2015 essay, certainly applies) only to tools for software development and not to apps and services.
@@ -79,7 +79,7 @@ The same principles — that a tool need not be new, flashy, shiny, complicated,
   <div class="container ">
     <div class="sidebar-about">
       <span class="site__title">
-        <a href="https://www.deobald.ca/">Steven Deobald</a>
+        <a href="http://localhost:1313/">Steven Deobald</a>
       </span>
       
       
@@ -229,7 +229,7 @@ The same principles — that a tool need not be new, flashy, shiny, complicated,
 <p>I want an explicit, atomic operation: Turn On Sink. I want the inverse operation: Turn Off Sink. I explicitly do not want the sink to try its best to guess whether I&rsquo;m washing my hands or not. These guesses frequently turn out to be wrong. The act of washing one&rsquo;s hands involves movement, which often turns off the sink. Little kids struggle with the angle, depending on the sensor. This is a bad design. The sink shouldn&rsquo;t be guessing what we want. We should tell it.</p>
 <p>Let me be the first to say: the airport sinks were the harbinger of an AI that will one day ruin human civilization.</p>
 <h2 id="asi-vs-software-thats-done">ASI vs. Software That&rsquo;s &ldquo;Done&rdquo;</h2>
-<p>Let me be clear from the start that I&rsquo;m not an AI doomer. It&rsquo;s early 2026 as I write this and LLMs are here to stay, even if the billions of dollars currently being burnt to keep up the pace of progress are not. However, I do believe it&rsquo;s notable that frustration with AI, and the fact companies are cramming it into everything from help desks to refrigerators, is almost as common in the average household as the word &ldquo;enshittification.&rdquo; What I wish would replace that frustration, as a household concept, is a more general-purpose frustration: that software can be <em>done</em> and that most companies simply refuse to let that happen. Cramming AI into every nook and cranny of Microsoft Office isn&rsquo;t a step toward <a href="https://en.wikipedia.org/wiki/Superintelligence#Feasibility_of_artificial_superintelligence">Artificial SuperIntelligence</a> &hellip; it&rsquo;s just the latest fashion hoodwink that allows Microsoft to pretend that Excel 2024 was somehow a noteworthy improvement over Excel 97 for the vast majority of its users. For most of us, Excel 2007 on Windows XP will probably feel very familiar, ribbon and all.</p>
+<p>Let me be clear from the start that I&rsquo;m not an AI doomer. It&rsquo;s early 2026 as I write this and LLMs are here to stay, even if the billions of dollars currently being burnt to keep up the pace of progress are not. (No matter how many needles you stab in your Sam Altman voodoo doll, I&rsquo;m not holding my breath for a <a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/">StackOverflow comeback</a>.) However, I do believe it&rsquo;s notable that frustration with AI, and the fact companies are cramming it into everything from help desks to refrigerators, is almost as common in the average household as the word &ldquo;enshittification.&rdquo; What I wish would replace that frustration, as a household concept, is a more general-purpose frustration: that software can be <em>done</em> and that most companies simply refuse to let that happen. Cramming AI into every nook and cranny of Microsoft Office isn&rsquo;t a step toward <a href="https://en.wikipedia.org/wiki/Superintelligence#Feasibility_of_artificial_superintelligence">Artificial SuperIntelligence</a> &hellip; it&rsquo;s just the latest fashion hoodwink that allows Microsoft to pretend that Excel 2024 was somehow a noteworthy improvement over Excel 97 for the vast majority of its users. For most of us, Excel 2007 on Windows XP will probably feel very familiar, ribbon and all.</p>
 <p>Excel is just a spreadsheet and AI &ldquo;features&rdquo; are the airport sinks of the software world. Even if they kind-of work, they&rsquo;re not really what we need.</p>
 <p>Of course, &ldquo;done&rdquo; doesn&rsquo;t mean software remains untouched, like an Amiga program from 1987. There is something beautiful about seeing systems from that era come back to life, with a clear purpose to the applications: paint programs for drawing without a subscription, word processors for writing your resume without Clippy, and games for pleasure without microtransactions. But we don&rsquo;t all need to become retro computing afficionados. We can learn from these examples, instead.</p>
 <h2 id="make-stupid-programs">Make Stupid Programs</h2>
@@ -238,7 +238,7 @@ The same principles — that a tool need not be new, flashy, shiny, complicated,
 <p>Of course, the word &ldquo;program&rdquo; has taken on new meaning in the 21st century. We&rsquo;re probably talking about an <em>app</em>, which may include many different devices and form factors as targets (watches, touch screens, TVs, and desktop computers). It&rsquo;s probably backed by a <em>service</em>, even if the purpose of that service is simply to provide backups, versioning on data, and interop. A &ldquo;program&rdquo; in 2026 is, more often than not, a distributed system of messaging, databases, and multiple distribution targets.</p>
 <p>So make those things stupid, too. Utilize dumb pipes. Use open protocols. Save things to files. Open source your service and make it a drop-in, single-file binary. Instead of having &ldquo;integrations,&rdquo; provide open APIs over open schemas and consume them in turn. Send your thing, whatever it may be, everywhere: phones, Linux, MacOS, Windows, the web. Let your customers run their own backend (and consequently realize they probably don&rsquo;t want to). Charge for your service as a utility instead of charging for this quarter&rsquo;s features.</p>
 <p>Make the UI and UX as simple as possible. Drop the transparency and animations. Run your stuff on old hardware and make sure it still works without demanding your users have 256GB of RAM for your little web app. Remember the design constraints of the original iPhone leading to fewer visual elements? Each of them big and thumb-clickable? Try doing that, but don&rsquo;t stop it from being a joy to use. Don&rsquo;t prevent yourself from making it beautiful. Make sure IJW, every time. The less there is to it, there less there is to go wrong.</p>
-<p>&ldquo;Stupidly simple&rdquo; was once, for what feels like the briefest of moments in design history, the greatest compliment your product could receive. Let&rsquo;s bring that back. Fewer airport sinks. More Artificial StupidIntelligence and Boring Technology, please.</p>
+<p>&ldquo;Stupidly simple&rdquo; was once, for what feels like the briefest of moments in design history, the greatest compliment your product could receive. Let&rsquo;s bring that back. Give your users agency. Fewer airport sinks. More Artificial StupidIntelligence and Boring Technology, please.</p>
 <hr>
 
   </div>

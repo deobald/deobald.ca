@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vipassana on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/vipassana/</link>
+    <link>http://localhost:1313/tags/vipassana/</link>
     <description>Recent content in Vipassana on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/vipassana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vipassana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hacker Villages</title>
-      <link>https://www.deobald.ca/essays/2019-11-20-hacker-villages/</link>
+      <link>http://localhost:1313/essays/2019-11-20-hacker-villages/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-11-20-hacker-villages/</guid>
+      <guid>http://localhost:1313/essays/2019-11-20-hacker-villages/</guid>
       <description>The inevitable advent of जादूगरों का गाँव.&#xA;&amp;ldquo;Land in Canada costs how much?&amp;rdquo; Ragul queries me a second time. His eyes are wide and I can tell he&amp;rsquo;s asking me to confirm the cost of property in Eastern Canada because half of him doesn&amp;rsquo;t believe it.&#xA;&amp;ldquo;Yeah, I know,&amp;rdquo; I say, &amp;ldquo;$23,000 CAD for 20–30 acres is&amp;hellip;&amp;rdquo; I pull out my phone and start punching the forex conversion into the search box but he gives me the answer off the top of his head before I can finish.</description>
     </item>
     <item>
       <title>Compassion For Donald</title>
-      <link>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</link>
+      <link>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</guid>
+      <guid>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</guid>
       <description>The 2019 Canadian federal election is over. I doubt anyone feels very good about it. Not because a minority government threatens to immobilize the Canadian government. I mean, there is that. But the suffocating air of this election was far less tangible, far less quantifiable, than counted ballots. The outmoded left-right political spectrum is gasping for breath through a death rattle and, for those of us who plan to be here on the far side, it&amp;rsquo;s disgusting to watch.</description>
     </item>
     <item>
       <title>I started meditating... now what?</title>
-      <link>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</link>
+      <link>http://localhost:1313/essays/2019-08-21-i-started-meditating-now-what/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/</guid>
+      <guid>http://localhost:1313/essays/2019-08-21-i-started-meditating-now-what/</guid>
       <description>Two weeks ago, a friend struck up a conversation with me about his meditation practice. His query was:&#xA;Hi Steve, I started meditating like a month ago. Nothing fancy, just sitting down and observing my breath. I did it because my anxiety was really, really bad and I couldn&amp;rsquo;t sleep at all most nights. It was horrible. At first the meditation made no difference. But then things started improving. Now after a month, I can get reasonable sleep on most days, and really good sleep once in a while And even on days I don&amp;rsquo;t sleep, my anxiety is not as bad as it used to be.</description>
     </item>
     <item>
       <title>How To Disconnect</title>
-      <link>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</link>
+      <link>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</guid>
+      <guid>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</guid>
       <description>For those of us who grew up in the 1990s (Gen-Y-ers? Pre-Millennials?), the sound of connecting was&#xA;Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcchdingding*ding&#xA;and there was a certain romance to the ritual of Getting On The Internet. At least, there is a certain romance now, looking back. Now that we live in the era which precedes the era of ubiquitous computing, with all our nerdy fantasies fulfilled, the internet is everywhere and the ritual is our lives.</description>
     </item>
     <item>
       <title>Does Smoking Marijuana Harm Your Meditation Practice?</title>
-      <link>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</link>
+      <link>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</guid>
+      <guid>http://localhost:1313/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/</guid>
       <description>tl;dr: Yes, it does.&#xA;A friend with very little drug experience recently asked me if smoking (or eating) marijuana would harm her nascent meditation practice. She had a few follow-up questions, one of which was &amp;ldquo;have you ever written about this?&amp;rdquo; which caused me to turn our conversation into this essay.&#xA;First off, on the broad topic of drugs and meditation, I have written about my experiences and categorized the options once before in Drugs, Meditation, Warnings.</description>
     </item>
     <item>
       <title>Steve Yegge, You Are Half Right (Part One: An Ethical Void)</title>
-      <link>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</link>
+      <link>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</link>
       <pubDate>Tue, 25 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</guid>
+      <guid>http://localhost:1313/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/</guid>
       <description>Disclaimer and Full Disclosure: I began writing this article in July, during my last week at nilenso. Go-Jek is a client of nilenso&amp;rsquo;s. My views represent neither company.&#xA;I just re-read Steve Yegge&amp;rsquo;s &amp;ldquo;Why I left Google to join Grab&amp;rdquo; article. My heart is pumping. I&amp;rsquo;m excited. Just not in the way he intended.&#xA;You may have forgotten about Yegge&amp;rsquo;s article between the beginning and end of 2018 so feel free to go back and refresh your memory.</description>
     </item>
     <item>
       <title>The Toxic Notification Bubble</title>
-      <link>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</link>
+      <link>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/</guid>
+      <guid>http://localhost:1313/essays/2018-12-23-the-toxic-notification-bubble/</guid>
       <description>&amp;ldquo;I only have two goals for my kids,&amp;rdquo; Paige announced calmly as she set her chai down. &amp;ldquo;One, I don&amp;rsquo;t want them to be assholes; they shouldn&amp;rsquo;t mistreat anybody; they should be nice people. And two, I don&amp;rsquo;t want them to become substance abusers.&amp;rdquo;&#xA;It is natural for people our age to worry about drug addiction in the upcoming generation. During the 80s, our impressionable childhood years we were filled with a multitude of tax-funded warnings.</description>
     </item>
     <item>
       <title>What is Siggu.org?</title>
-      <link>https://www.deobald.ca/essays/2018-12-21-what-is-siggu-org/</link>
+      <link>http://localhost:1313/essays/2018-12-21-what-is-siggu-org/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2018-12-21-what-is-siggu-org/</guid>
+      <guid>http://localhost:1313/essays/2018-12-21-what-is-siggu-org/</guid>
       <description>We started siggu.org with the very rough intention of answering one question: Why meditate? We have multiple axes across which we will write in an attempt to answer this question: neuroscience, infrastructure, policy, and health &amp;mdash; among others.&#xA;Siggu itself is a Pali word. It means horseradish. There is nothing particularly special about a horseradish. It is a strong taste, one that most people grow into with time. The taste changes with the age of the horseradish and planting it demands multiple growing seasons before the first harvest.</description>
     </item>
     <item>
       <title>An Atheist&#39;s Glimpse of God</title>
-      <link>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</link>
+      <link>http://localhost:1313/essays/2013-02-01-an-atheists-glimpse-of-god/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2013-02-01-an-atheists-glimpse-of-god/</guid>
+      <guid>http://localhost:1313/essays/2013-02-01-an-atheists-glimpse-of-god/</guid>
       <description>One of the benefits of working for a startup like C42 Engineering (where I help build rubymonk.com &amp;mdash; the name is a coincidence) is the broad range of experiences available, both in and out of the office. Thanks to our flexible work environment, I was able to travel to Himachal Pradesh for a couple weeks of experimenting on myself as a break from experimenting with software. I know not everyone enjoys such benefits, so let me start by saying this: I am thankful.</description>
     </item>
   </channel>

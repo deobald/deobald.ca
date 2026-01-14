@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ayurveda on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/ayurveda/</link>
+    <link>http://localhost:1313/tags/ayurveda/</link>
     <description>Recent content in Ayurveda on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/ayurveda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ayurveda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Ayurveda? Because Science!</title>
-      <link>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</link>
+      <link>http://localhost:1313/essays/2015-04-01-why-ayurveda-because-science/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/essays/2015-04-01-why-ayurveda-because-science/</guid>
+      <guid>http://localhost:1313/essays/2015-04-01-why-ayurveda-because-science/</guid>
       <description>He squinted through a pair of wrap-around sunglasses, the kind one often expects to see on the crowning end of a wheelchair with wings of lenses spread wide and soaring across a sea of wrinkles &amp;ndash; or drool, if the sea had previously suffered a stroke. Or at home in makeshift bingo halls constructed of a dusty old Lions Club because all the Lions and Lionesses were dead and even the Rotary Club (Rotors?</description>
     </item>
   </channel>

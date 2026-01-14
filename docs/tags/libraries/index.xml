@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libraries on Steven Deobald</title>
-    <link>https://www.deobald.ca/tags/libraries/</link>
+    <link>http://localhost:1313/tags/libraries/</link>
     <description>Recent content in Libraries on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.deobald.ca/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 Reading List</title>
-      <link>https://www.deobald.ca/reading/2025-01-08-reading-list/</link>
+      <link>http://localhost:1313/reading/2025-01-08-reading-list/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.deobald.ca/reading/2025-01-08-reading-list/</guid>
+      <guid>http://localhost:1313/reading/2025-01-08-reading-list/</guid>
       <description>It&amp;rsquo;s been half a decade since I updated my personal reading list. Seems like as good a time as any to create another little time capsule.&#xA;I want to read I&amp;rsquo;m trying to keep this list shorter. Hopefully I&amp;rsquo;ll revisit this document with a new version in 2026.&#xA;House of Leaves, Danielewski The Buddha before Buddhism, Fronsdal The Body Keeps the Score, van der Kolk Gideon the Ninth, Muir How to Invent Everything, North Also, Goodreads.</description>
     </item>
     <item>
       <title>2020 Reading List</title>
-      <link>https://www.deobald.ca/reading/2020-01-28-reading-list/</link>
+      <link>http://localhost:1313/reading/2020-01-28-reading-list/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://www.deobald.ca/reading/2020-01-28-reading-list/</guid>
+      <guid>http://localhost:1313/reading/2020-01-28-reading-list/</guid>
       <description>The following is a personal list of books and essays I would like to read, in priority order. This is a living document and entirely personal. I have only published it because, well, Publish Everything.&#xA;I want to read Full list on Goodreads&#xA;Priority 1 Exhalation (Chiang) Hackers (Levy) Reinventing Organizations (Laloux) Priority 2 Poor Economics (Banerjee) The Checklist Manifesto (Gawande) Stories of Your Life and Others (Chiang) I am a Strange Loop (Hofstadter) New Hopes for a Changing World (Russell) Scale (West) The Body Keeps the Score (van der Kolk) Money (Harari) House of Leaves (Danielewski) The Black Dwarves of the Good Little Bay (Mathew) Priority 3 The Three-Body Problem (Liu) The Buddha before Buddhism (Fronsdal) Total Freedom (Krishnamurti) Siddhartha&amp;rsquo;s Brain (Kingsland) Deep Work (Newport) The Master and His Emissary (McGilchrist) The Silk Roads (Frankopan) The New Silk Roads (Frankopan) The Overstory (Powers) Food Rules (Pollan) Out of the Gobi (Shan) I am reading Patterns of Software (Gabriel) I have read 2020-01-28: Early Indians 2020-01-27: The Rise and Fall of the Bilingual Intellectual </description>
     </item>
   </channel>
