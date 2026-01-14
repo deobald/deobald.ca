@@ -81,6 +81,8 @@ I still have no idea what happened in August. I'm beginning to believe I never w
 * accountability, feedback, open honest comm
   * private chan in matrix
   * private area in discourse?
+  * transparency at scales: exec, board, membership, hackers, public
+  * "transparency" does not mean everyone can read every line item in the Foundation's accounting history, see what every contractor is being paid, or otherwise firehose the general public with information
 
 * documents and documentation
   * a component of succession planning
