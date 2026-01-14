@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media on Steven Deobald</title>
-    <link>http://localhost:1313/tags/social-media/</link>
+    <link>https://www.deobald.ca/tags/social-media/</link>
     <description>Recent content in Social Media on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compassion For Donald</title>
-      <link>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</link>
+      <link>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-08-28-compassion-for-donald/</guid>
+      <guid>https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/</guid>
       <description>The 2019 Canadian federal election is over. I doubt anyone feels very good about it. Not because a minority government threatens to immobilize the Canadian government. I mean, there is that. But the suffocating air of this election was far less tangible, far less quantifiable, than counted ballots. The outmoded left-right political spectrum is gasping for breath through a death rattle and, for those of us who plan to be here on the far side, it&amp;rsquo;s disgusting to watch.</description>
     </item>
     <item>
       <title>How To Disconnect</title>
-      <link>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</link>
+      <link>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2019-01-16-how-to-disconnect/</guid>
+      <guid>https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/</guid>
       <description>For those of us who grew up in the 1990s (Gen-Y-ers? Pre-Millennials?), the sound of connecting was&#xA;Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcchdingding*ding&#xA;and there was a certain romance to the ritual of Getting On The Internet. At least, there is a certain romance now, looking back. Now that we live in the era which precedes the era of ubiquitous computing, with all our nerdy fantasies fulfilled, the internet is everywhere and the ritual is our lives.</description>
     </item>
   </channel>

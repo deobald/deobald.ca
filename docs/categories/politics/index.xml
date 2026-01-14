@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics on Steven Deobald</title>
-    <link>http://localhost:1313/categories/politics/</link>
+    <link>https://www.deobald.ca/categories/politics/</link>
     <description>Recent content in Politics on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/categories/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ceci n&#39;est pas une pipe</title>
-      <link>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
+      <link>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
+      <guid>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
       <description>A description of a doctrine without words is not a doctrine without words.&#xA;Over the last few days, the internet saw a layered explosion of conversation regarding Adria Richards, and a conversation which happened near her at PyCon 2013. To me, it looked like this:&#xA;The first circle represents the initial event. The second circle represents Adria&amp;rsquo;s public reaction. The third circle represents the reactions of HackerNews, Twitter, Playhaven, SendGrid, Anonymous, 4chan, and the internet at large to Adria&amp;rsquo;s reaction.</description>
     </item>
     <item>
       <title>Cartoons and Comic Books</title>
-      <link>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</link>
+      <link>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</link>
       <pubDate>Fri, 02 May 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2008-05-02-cartoons-and-comic-books/</guid>
+      <guid>https://www.deobald.ca/essays/2008-05-02-cartoons-and-comic-books/</guid>
       <description>The curiosity of my coworkers at ThoughtWorks often leads to a number of healthy and interesting debates, which often occur in the pub, on internal mailing lists, and anywhere in-between. One such discussion, of the mailing list variety, revolved around the topic Chinese economics and politics. Inevitably, the recent Angry Red Dragon issue of The Economist was mentioned in passing as participants shuffled over the topic of general Western opinions on China.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toilets on Steven Deobald</title>
-    <link>http://localhost:1313/tags/toilets/</link>
+    <link>https://www.deobald.ca/tags/toilets/</link>
     <description>Recent content in Toilets on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/toilets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/toilets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangalore 2030</title>
-      <link>http://localhost:1313/essays/2015-12-01-bangalore-2030/</link>
+      <link>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2015-12-01-bangalore-2030/</guid>
+      <guid>https://www.deobald.ca/essays/2015-12-01-bangalore-2030/</guid>
       <description>This past week, nilenso interviewed a German fellow for a software development position. As part of the routine of meeting a new stranger in this city, a variation of &amp;ldquo;Why do you live in Bangalore?&amp;rdquo; passed between us. My answer to this question is complex and usually varies based on the tone and implied subtext with which the question is asked. My immediate reasons are somewhat boring. My job is here and I like my job.</description>
     </item>
   </channel>

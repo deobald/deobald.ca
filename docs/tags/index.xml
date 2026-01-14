@@ -2,276 +2,276 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Steven Deobald</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.deobald.ca/tags/</link>
     <description>Recent content in Tags on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design</title>
-      <link>http://localhost:1313/tags/design/</link>
+      <link>https://www.deobald.ca/tags/design/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/design/</guid>
+      <guid>https://www.deobald.ca/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Local-First</title>
-      <link>http://localhost:1313/tags/local-first/</link>
+      <link>https://www.deobald.ca/tags/local-first/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/local-first/</guid>
+      <guid>https://www.deobald.ca/tags/local-first/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/tags/books/</link>
+      <link>https://www.deobald.ca/tags/books/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/books/</guid>
+      <guid>https://www.deobald.ca/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Libraries</title>
-      <link>http://localhost:1313/tags/libraries/</link>
+      <link>https://www.deobald.ca/tags/libraries/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/libraries/</guid>
+      <guid>https://www.deobald.ca/tags/libraries/</guid>
       <description></description>
     </item>
     <item>
       <title>Federation</title>
-      <link>http://localhost:1313/tags/federation/</link>
+      <link>https://www.deobald.ca/tags/federation/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/federation/</guid>
+      <guid>https://www.deobald.ca/tags/federation/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
+      <link>https://www.deobald.ca/tags/open-source/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/open-source/</guid>
+      <guid>https://www.deobald.ca/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Free Software</title>
-      <link>http://localhost:1313/tags/free-software/</link>
+      <link>https://www.deobald.ca/tags/free-software/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/free-software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ethics</title>
-      <link>http://localhost:1313/tags/ethics/</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ethics/</guid>
+      <guid>https://www.deobald.ca/tags/free-software/</guid>
       <description></description>
     </item>
     <item>
       <title>Concepts</title>
-      <link>http://localhost:1313/tags/concepts/</link>
+      <link>https://www.deobald.ca/tags/concepts/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/concepts/</guid>
+      <guid>https://www.deobald.ca/tags/concepts/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
+      <link>https://www.deobald.ca/tags/blockchain/</link>
       <pubDate>Thu, 11 Nov 2021 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <guid>https://www.deobald.ca/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Encryption</title>
-      <link>http://localhost:1313/tags/encryption/</link>
+      <link>https://www.deobald.ca/tags/encryption/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/encryption/</guid>
+      <guid>https://www.deobald.ca/tags/encryption/</guid>
       <description></description>
     </item>
     <item>
       <title>Meditation</title>
-      <link>http://localhost:1313/tags/meditation/</link>
+      <link>https://www.deobald.ca/tags/meditation/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/meditation/</guid>
+      <guid>https://www.deobald.ca/tags/meditation/</guid>
       <description></description>
     </item>
     <item>
       <title>Off-Grid</title>
-      <link>http://localhost:1313/tags/off-grid/</link>
+      <link>https://www.deobald.ca/tags/off-grid/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/off-grid/</guid>
+      <guid>https://www.deobald.ca/tags/off-grid/</guid>
       <description></description>
     </item>
     <item>
       <title>Vipassana</title>
-      <link>http://localhost:1313/tags/vipassana/</link>
+      <link>https://www.deobald.ca/tags/vipassana/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/vipassana/</guid>
+      <guid>https://www.deobald.ca/tags/vipassana/</guid>
       <description></description>
     </item>
     <item>
       <title>Anapana</title>
-      <link>http://localhost:1313/tags/anapana/</link>
+      <link>https://www.deobald.ca/tags/anapana/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/anapana/</guid>
+      <guid>https://www.deobald.ca/tags/anapana/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Health</title>
-      <link>http://localhost:1313/tags/mental-health/</link>
+      <link>https://www.deobald.ca/tags/mental-health/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <guid>https://www.deobald.ca/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media</title>
-      <link>http://localhost:1313/tags/social-media/</link>
+      <link>https://www.deobald.ca/tags/social-media/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/social-media/</guid>
+      <guid>https://www.deobald.ca/tags/social-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure</title>
-      <link>http://localhost:1313/tags/infrastructure/</link>
+      <link>https://www.deobald.ca/tags/infrastructure/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <guid>https://www.deobald.ca/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Urban Planning</title>
-      <link>http://localhost:1313/tags/urban-planning/</link>
+      <link>https://www.deobald.ca/tags/urban-planning/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/urban-planning/</guid>
+      <guid>https://www.deobald.ca/tags/urban-planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Life Hacks</title>
-      <link>http://localhost:1313/tags/life-hacks/</link>
+      <link>https://www.deobald.ca/tags/life-hacks/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/life-hacks/</guid>
+      <guid>https://www.deobald.ca/tags/life-hacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Drugs</title>
-      <link>http://localhost:1313/tags/drugs/</link>
+      <link>https://www.deobald.ca/tags/drugs/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/drugs/</guid>
+      <guid>https://www.deobald.ca/tags/drugs/</guid>
       <description></description>
     </item>
     <item>
       <title>Cryptography</title>
-      <link>http://localhost:1313/tags/cryptography/</link>
+      <link>https://www.deobald.ca/tags/cryptography/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/cryptography/</guid>
+      <guid>https://www.deobald.ca/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>https://www.deobald.ca/tags/ethics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://www.deobald.ca/tags/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>https://www.deobald.ca/tags/travel/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>https://www.deobald.ca/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Nilenso</title>
-      <link>http://localhost:1313/tags/nilenso/</link>
+      <link>https://www.deobald.ca/tags/nilenso/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/nilenso/</guid>
+      <guid>https://www.deobald.ca/tags/nilenso/</guid>
       <description></description>
     </item>
     <item>
       <title>Feminism</title>
-      <link>http://localhost:1313/tags/feminism/</link>
+      <link>https://www.deobald.ca/tags/feminism/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/feminism/</guid>
+      <guid>https://www.deobald.ca/tags/feminism/</guid>
       <description></description>
     </item>
     <item>
       <title>Bicycles</title>
-      <link>http://localhost:1313/tags/bicycles/</link>
+      <link>https://www.deobald.ca/tags/bicycles/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/bicycles/</guid>
+      <guid>https://www.deobald.ca/tags/bicycles/</guid>
       <description></description>
     </item>
     <item>
       <title>Transportation</title>
-      <link>http://localhost:1313/tags/transportation/</link>
+      <link>https://www.deobald.ca/tags/transportation/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/transportation/</guid>
+      <guid>https://www.deobald.ca/tags/transportation/</guid>
       <description></description>
     </item>
     <item>
       <title>Electric Vehicles</title>
-      <link>http://localhost:1313/tags/electric-vehicles/</link>
+      <link>https://www.deobald.ca/tags/electric-vehicles/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/electric-vehicles/</guid>
+      <guid>https://www.deobald.ca/tags/electric-vehicles/</guid>
       <description></description>
     </item>
     <item>
       <title>Schools</title>
-      <link>http://localhost:1313/tags/schools/</link>
+      <link>https://www.deobald.ca/tags/schools/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/schools/</guid>
+      <guid>https://www.deobald.ca/tags/schools/</guid>
       <description></description>
     </item>
     <item>
       <title>Solar</title>
-      <link>http://localhost:1313/tags/solar/</link>
+      <link>https://www.deobald.ca/tags/solar/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/solar/</guid>
+      <guid>https://www.deobald.ca/tags/solar/</guid>
       <description></description>
     </item>
     <item>
       <title>Tiny Houses</title>
-      <link>http://localhost:1313/tags/tiny-houses/</link>
+      <link>https://www.deobald.ca/tags/tiny-houses/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/tiny-houses/</guid>
+      <guid>https://www.deobald.ca/tags/tiny-houses/</guid>
       <description></description>
     </item>
     <item>
       <title>Toilets</title>
-      <link>http://localhost:1313/tags/toilets/</link>
+      <link>https://www.deobald.ca/tags/toilets/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/toilets/</guid>
+      <guid>https://www.deobald.ca/tags/toilets/</guid>
       <description></description>
     </item>
     <item>
       <title>Trees</title>
-      <link>http://localhost:1313/tags/trees/</link>
+      <link>https://www.deobald.ca/tags/trees/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/trees/</guid>
+      <guid>https://www.deobald.ca/tags/trees/</guid>
       <description></description>
     </item>
     <item>
       <title>Waste</title>
-      <link>http://localhost:1313/tags/waste/</link>
+      <link>https://www.deobald.ca/tags/waste/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/waste/</guid>
+      <guid>https://www.deobald.ca/tags/waste/</guid>
       <description></description>
     </item>
     <item>
       <title>Ayurveda</title>
-      <link>http://localhost:1313/tags/ayurveda/</link>
+      <link>https://www.deobald.ca/tags/ayurveda/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ayurveda/</guid>
+      <guid>https://www.deobald.ca/tags/ayurveda/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooperatives</title>
-      <link>http://localhost:1313/tags/cooperatives/</link>
+      <link>https://www.deobald.ca/tags/cooperatives/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/cooperatives/</guid>
+      <guid>https://www.deobald.ca/tags/cooperatives/</guid>
       <description></description>
     </item>
     <item>
       <title>Media</title>
-      <link>http://localhost:1313/tags/media/</link>
+      <link>https://www.deobald.ca/tags/media/</link>
       <pubDate>Fri, 02 May 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/media/</guid>
+      <guid>https://www.deobald.ca/tags/media/</guid>
       <description></description>
     </item>
     <item>
       <title>Racism</title>
-      <link>http://localhost:1313/tags/racism/</link>
+      <link>https://www.deobald.ca/tags/racism/</link>
       <pubDate>Fri, 02 May 2008 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/racism/</guid>
+      <guid>https://www.deobald.ca/tags/racism/</guid>
       <description></description>
     </item>
   </channel>

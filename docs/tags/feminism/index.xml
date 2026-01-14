@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feminism on Steven Deobald</title>
-    <link>http://localhost:1313/tags/feminism/</link>
+    <link>https://www.deobald.ca/tags/feminism/</link>
     <description>Recent content in Feminism on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 May 2016 00:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/feminism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/feminism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menstrual Leave: &#39;I Have Cramps&#39;</title>
-      <link>http://localhost:1313/essays/2016-05-01-menstrual-leave-i-have-cramps/</link>
+      <link>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2016-05-01-menstrual-leave-i-have-cramps/</guid>
+      <guid>https://www.deobald.ca/essays/2016-05-01-menstrual-leave-i-have-cramps/</guid>
       <description>PMS. I still can&amp;rsquo;t remember first learning about Pre-Menstrual Symptoms as a child. I don&amp;rsquo;t remember the specific event, but the understanding conveyed. I imagine it went something like this: &amp;ldquo;My Mom was really grouchy this morning.&amp;rdquo; - &amp;ldquo;Oh, she probably has PMS.&amp;rdquo; - &amp;ldquo;Is that a disease?&amp;rdquo; - &amp;ldquo;Nah, it&amp;rsquo;s something that happens to Moms once a month. They get really grouchy and you should just leave them alone.&amp;rdquo;</description>
     </item>
     <item>
       <title>Ceci n&#39;est pas une pipe</title>
-      <link>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
+      <link>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
+      <guid>https://www.deobald.ca/essays/2013-03-01-cest-nest-pas-une-pipe/</guid>
       <description>A description of a doctrine without words is not a doctrine without words.&#xA;Over the last few days, the internet saw a layered explosion of conversation regarding Adria Richards, and a conversation which happened near her at PyCon 2013. To me, it looked like this:&#xA;The first circle represents the initial event. The second circle represents Adria&amp;rsquo;s public reaction. The third circle represents the reactions of HackerNews, Twitter, Playhaven, SendGrid, Anonymous, 4chan, and the internet at large to Adria&amp;rsquo;s reaction.</description>
     </item>
   </channel>

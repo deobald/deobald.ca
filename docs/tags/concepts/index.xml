@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concepts on Steven Deobald</title>
-    <link>http://localhost:1313/tags/concepts/</link>
+    <link>https://www.deobald.ca/tags/concepts/</link>
     <description>Recent content in Concepts on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/concepts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.deobald.ca/tags/concepts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trucks, Tubes, and Truth</title>
-      <link>http://localhost:1313/essays/2022-06-21-trucks-tubes-truth/</link>
+      <link>https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/2022-06-21-trucks-tubes-truth/</guid>
+      <guid>https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/</guid>
       <description>I am carrying a bucket of human waste. Two buckets, actually. I’m visiting an off-grid cabin in an Acadian forest where the vegetable garden is nourished by a humanure composting system. It’s my turn to take out the, uh, compost. Every visit to this forest is an opportunity to get away from Twitter, away from the noise of the city, and enjoy a simpler life as a temporary monastic hobo.</description>
     </item>
   </channel>
