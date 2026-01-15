@@ -8,9 +8,9 @@ Mike (seen [here](http://www.thoughtworks.co.uk/who-we-are/our-people/profiles/A
 
 In response to his non-existent post, I will engage in a tirade describing where computing has taken me.
 
-First, there was my PC. My first real computer of my very own. At the time I was a poor teenager in secondary school and my options were limited. Gateway 2000 (still charging extra for Holstein-style cardboard boxes) and Dell were not the most affordable girls on 8th street. No, with only a lifeguard's salary and some babysitting money I was forced to be frugal. I needed Helga... on the darkest corner... with sweat pants on. Preferably those sweat pants would be two or three sizes too small and I could knock a few more dollars off. Do you know how little a lifeguard is paid?
+First, there was my PC. My first real computer of my very own. At the time I was a poor teenager in secondary school and my options were limited. Gateway 2000 (still charging extra for Holstein-style cardboard boxes) and Dell were not the most affordable options. No, with only a lifeguard's salary and some babysitting money I was forced to be frugal. I had to choose between the sketchiest of computer companies advertised at the back of PC Magazine. Do you know how little a lifeguard is paid?
 
-And so, I invested in a little computer company with an ugly web page, terrible service and cheap parts. My computer was addressed with "SK" (for Saskatchewan), but without "Canada", and made a fun journey to Slovakia during the long months between my order placement and the eventual arrival.
+And so, I invested in a little computer company with an ugly web page, terrible service, and cheap parts. My computer was addressed with "SK" (for Saskatchewan), but without "Canada", and made a fun journey to Slovakia during the long months between my order placement and the eventual arrival.
 
 But it did come. And when it finally came, I enjoyed a long and glorious marriage to Windows 95. That was not to last, however. As I grew older and bought more computers I had to keep buying software. Software I really didn't find that valuable. "Why does Microsoft Office cost $400?" I'd wonder. Word is basically Notepad stocked with fonts and tables. I'm sure I don't use Excel for anything VisiCalc couldn't handle. PowerPoint? I'd rather just draw on a whiteboard.
 
