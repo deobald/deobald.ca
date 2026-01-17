@@ -17,7 +17,7 @@ All of these example products above have problems. None of those problems is exa
 
 ## Let's Talk About Sinks
 
-Fuck airport sinks. I understand why they are designed the way they are but they are deeply flawed in a single, funamental way: agency.
+Fuck airport sinks. I understand why they are designed the way they are but they are deeply flawed in a single, fundamental way: agency.
 
 Somewhere along the way, it was decided that we should stop spreading germs by touching sink handles. Okay, great. Good idea. It was also decided that the best UI for turning on the sink was a motion sensor. Not my first choice, but alright, fine. Finally, it was also decided that the motion for turning on the sensor should be to put your hands under the faucet. Makes sense, right? You need to put them there anyway. The sink is anticipating what you want! Seamless.
 
