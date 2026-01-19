@@ -41,53 +41,104 @@ In short, the GNOME Foundation exists to support GNOME. Nothing else.
 
 It is important that directors of the board do not get bogged down in other well-meaning initiatives.
 
-As of 2026, for better or for worse, the GNOME Foundation is incorporated in the United States. There are many concepts or initiatives we, in other countries, take for granted as positive forces for society. In the United States (especially under its current administration), most of these are still hot-button political issues. No matter how useful, positive, or wholesome such an initiative may be, the GNOME Foundation cannot legally pursue that initiative under its charter. It doesn't exist to solve climate change, eliminate poverty, end genocide, or fight human rights violations. It cannot legally do those things. Nor should it --- a tiny organization like the GNOME Foundation cannot solve all of humanity's problems.
+As of 2026, for better or for worse, the GNOME Foundation is incorporated in the United States. There are many concepts or initiatives we, in other countries, take for granted as positive forces for society. In the United States (especially under its current administration), most of these are still hot-button political issues. No matter how useful, positive, or wholesome such an initiative may be, the GNOME Foundation cannot legally pursue that initiative under its charter. The Foundation doesn't exist to solve climate change, eliminate poverty, end genocide, or fight human rights violations. It cannot legally do those things. Nor should it --- a tiny organization like the GNOME Foundation cannot solve all of humanity's problems.
 
 I am of the opinion that the Python Software Foundation strikes the right balance, here. Back in October, they [withdrew from a $1.5m USA government grant](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html) that they were almost guaranteed to win because the terms violated their ethics and betrayed the trust of their community. This is the kind of principled stance the GNOME Foundation can and should still make. The PSF is a brilliant role model based on this one example alone.
 
-The purpose of the GNOME Foundation is to provide a trustworthy, diverse, sustainable, accessible Free Software ecosystem to everyone --- in every country --- while stewarding a safe, welcoming community.
+The purpose of the GNOME Foundation is to provide a trustworthy, sustainable, accessible Free Software ecosystem to everyone --- in every country --- while stewarding a safe, welcoming community.
 
 Do that.
 
+### Fill In The Gaps
+
+While it's quaint to suggest that [fundraising via Friends of GNOME](https://www.youtube.com/watch?v=ptltPdcXH0Q) pays for most of GNOME, there isn't a single GNOME Foundation member who believes this. The vast majority of GNOME's development comes from the hard work of folks at companies like Red Hat and Igalia. The majority of them get paid full-time to work on GNOME and then spend their evenings and weekends on their favourite hobby: hacking on GNOME.
+
+The rest of GNOME's development comes from volunteers, unrestricted grants, and contract work. The massive effort enabled by the [STF contract](TODO: link) is a recent example.
+
+To my knowledge, the GNOME Foundation has only ever engaged in the act of software development via _restricted_ grants. This includes [work on GTK from 2018 to 2021](TODO: link), and work on Digital Wellbeing and GLib in recent years. There's absolutely nothing wrong with restricted grants and hopefully the Foundation continues to receive such grants.
+
+However, for the GNOME Foundation to fulfill its nonprofit mission, I believe its role is to "fill in the gaps." Companies like Red Hat and Canonical only have so many degrees of freedom --- the software they write will, generally, try to make their customers happy. That's just... how you run a company. But there are times when commercial incentives won't get certain software built. GNOME Calendar is, arguably, the most beautiful calendar app out there --- but it lacks essential features because it's 100% volunteer-built. GNOME's accessibility (#a11y) story gets better every release --- but major gaps exist, even in 2026. The diagram that follows is a doodle I created for the Fundraising Committee when I left:
+
+TODO: diagram
+
+The entire diagram can be seen on Excalidraw. This largely covers my outreach and fundraising strategy, but I'm happy to answer questions about it if anyone has them.
+
 ## Build An Institution
 
-I've had a lot to say about building institutions over the years. Most recently, [I spoke about this on the Lifestyle Democracy Podcast](https://shows.acast.com/lifestyle-democracy/episodes/the-future-of-tech-worker-cooperatives-institutions-not-star). I've been beating the same dead horse... er, drum... for years now: if you build a corporation but that corporation dies with you? Then you haven't built anything at all.
-
-This applies even more acutely to nonprofits than it does to for-profit companies. There is no such thing as a nonprofit "family business." The institution is everything.
-
-* focus on the institution
+* build an institution
   * succession planning
+    * network resilience
+    * documentation
+  * "death" - david, aaron, 501c3 good governance
+  * nurture the next generation: Design Team as good example
+    * committee rotation => CoCC rotation
+    * actually _slow_ board rotation
+
+* grow the membership
+  * onboard app developers - Quickstart, demonstrate the attactiveness of the GNOME platform for building native apps, senior devs get bored easily, #lofi is coming
+  * events = opportunity to communicate and collaborate, densely. opportunity for old-timers to provide history and help the next generation learn non-technical skills needed for an extended f/oss community.
+  * link rich's conj open? ("confer" = "give")
+  * ad board = meeting ground, home for old-timers
+  * stop the slow bleed
+  * communicate heavily with members
+
+
   * financial stability
+    * slide deck
+    * excalidraw
   * organizational excellence
   * diversity
   * Flathub LLC co-owned by KDE e.V.
   * paradox: requires vision and benefits from a mascot
   * in short: run a nonprofit like any other business
 
-## Succession Planning
+I've had a lot to say about building institutions over the years. Most recently, [I spoke about this on the Lifestyle Democracy Podcast](https://shows.acast.com/lifestyle-democracy/episodes/the-future-of-tech-worker-cooperatives-institutions-not-star). I've been beating the same dead horse... er, drum... for years now: if you build a corporation but that corporation dies with you, then you haven't built anything at all.
 
-Succession planning is essential in competent governance, regardless of corporate structure. But in a nonprofit, it's all the more important because of the additional layers of oversight. In a 501(c)(3), that includes scrutiny from both the IRS and the Attorney General. It's a component of every director's fiduciary duty to the corporation.
+This applies even more acutely to nonprofits than it does to for-profit companies. There is no such thing as a nonprofit "family business." The institution is everything.
 
-While I was in the ED role, I think people were surprised that I didn't shy away from the topic of death. Americans, in particular, seemed bothered by this. (It was once even demanded of me that I avoid the use of the term "bus factor.") I did avoid the topic with the two people who requested it of me. I [provided content warnings](https://youtu.be/26ys1p6VVs0?si=eafOWsUprdsQhwY3&t=46) in group contexts. But the fact that more than one person raised the issue with me led me to reflect on the topic more deeply in the autumn.
+### Succession Planning
 
-For those who have wondered this about me: I lost a first cousin two days my senior last year. My brother went through six months of intense chemo this year. (He's doing fine now.) Death has been with me, even if subconsciously.
+Succession planning (sometimes called _continuity planning_) is essential in competent governance, regardless of corporate structure. But in a nonprofit, it's all the more important because of the additional layers of oversight. In a 501(c)(3), that includes scrutiny from both the IRS and the Attorney General. Continuity planning is a component of every director's fiduciary duty to the corporation.
 
-Consciously, however, I don't think the topic can be avoided by anyone with the maturity to consider building a corporation which will outlive them. Inherently, the topic of succession planning includes emergency succession. With the Covid-19 pandemic barely behind us, it's easy to forget that [nonprofits were scrambling to construct succession plans](https://independentsector.org/wp-content/uploads/2023/09/A-Shock-to-the-Status-Quo-IS-White-Paper.pdf) not that long ago. The GNOME Foundation should have one.
+While I was in the ED role, I think people were surprised that I didn't shy away from the topic of death. Americans, in particular, seemed bothered by this. (It was once even demanded of me that I refrain from using the term "bus factor.") I did avoid the topic with the two people who requested it of me. I [provided content warnings](https://youtu.be/26ys1p6VVs0?si=eafOWsUprdsQhwY3&t=46) in group contexts. But the fact that more than one person raised the issue with me led me to reflect on the topic more deeply in the autumn.
+
+I lost a first cousin two days my senior last year. My brother went through six months of intense chemo this year. (He's doing fine now.) I've considered death a lot in the past two years, even if subconsciously.
+
+Consciously, however, I don't think the topic can be avoided by anyone with the maturity to build a corporation which will outlive them. Inherently, the topic of succession planning includes emergency succession. With the Covid-19 pandemic barely behind us, it's easy to forget that [nonprofits and for-profits alike were scrambling to construct succession plans](https://www.researchgate.net/publication/348417640_Revitalising_Organisations'_Emergency_Succession_Planning_in_the_Face_of_the_Covid-19_Outbreak) not that long ago. The GNOME Foundation should have one.
 
 ### Nurture The Next Generation
 
+Every aspect of GNOME needs to encourage and grow the next generation of contributors, not just the Foundation. The Design Team does a great job of this and I hope they don't mind me calling them out. The Core Design Team is kind of broken down by generation: old farts like Jakub and Allan, the middle generation like Sam and Tobias, and the young folks like Jamie and Kramo. I've attended Design Team meetings. They're a productive and mindful group. I have little doubt that mindfulness is a large part of them considering how to ensure GNOME's design doesn't stagnate and that no one is a SPOF.
 
+[Emmanuele talked about other project strategies](TODO: link) at GUADEC 2025. The board and staff are loosening some of these knots. Knowledge-sharing and [pairing on roles](todo: link pres/secretary) is a great way to unstick the Foundation's legacy processes. Pushing the staff to become cross-functional is another. This work has begun. It just needs to continue.
 
-* "death" - david, aaron, 501c3 good governance
-* nurture the next generation: Design Team as good example
-  * committee rotation => CoCC rotation
-  * actually _slow_ board rotation
-* onboard app developers - Quickstart, demonstrate the attactiveness of the GNOME platform for building native apps, senior devs get bored easily, #lofi is coming
-* events = opportunity to communicate and collaborate, densely. opportunity for old-timers to provide history and help the next generation learn non-technical skills needed for an extended f/oss community.
-  * link rich's conj open? ("confer" = "give")
-* ad board = meeting ground, home for old-timers
-* stop the slow bleed
-* communicate heavily with members
+For the avoidance of doubt, I'll call out explicitly: "continuity planning" never refers to "continuity" by way of keeping the same person in the same role indefinitely. If we were immortal (and if someone were willing to work the same job for hundreds of years), we could plan this way. Since we are not, the "continuity" we're planning for is a transition: from one person or one group of people to another person or another group of people.
+
+I bring this up because different corners of the GNOME Foundation (and the GNOME project) seem to view this from different angles, and it drives me slightly nuts when folks confuse consistency with continuity.
+
+### Committee Rotation
+
+Every committee should experience some amount of rotation, every year. Most do, with one notable exception: the Code of Conduct Committee.
+
+Given that this was the only committee I ever received complaints about as Executive Director (many complaints, from all but one corner of the community), I strongly encourage the board to heavily rotate the Code of Conduct Committee, as soon as they have the bandwidth to do so.
+
+### Slow Board Rotation
+
+Paradoxically, I would love to see the board _slow_ its rotation. Prior to Holly's appointment as ED, the board would sometimes rotate in its entirety _every single year._ Holly, with her nonprofit experience, helped the board plug that hole. However, when I asked certain directors of the board if they would be willing to seek a second term, I heard a very tired "if I'm asked to serve, I can."
+
+Serving on the board should neither be a luxury, nor a chore. It should strike a balance between the serious work of governance and avoiding burnout. Ideally, elections should decide when a board member is rotated out. At the moment, barely enough members run for elections to fill the available seats. I coaxed all four candidates in the 2025 elections to run.
+
+A slower board rotation would indicate a few things: It would indicate that the work is no longer soul-crushing. It would indicate that the membership is actually happy with the work the Foundation does. It would indicate that the directors are getting comfortable with the few small operational tasks required of an organization of this scale.
+
+If we combine the desire for succession planning with the desire for slower board rotation, the outcome is acute: the longest-serving board members are asked to step out of Officer roles and bow out of the board.
+
+### Documentation
+
+When I joined the GNOME Foundation, there was no operational documentation. This was, in part, a tooling problem: the Foundation had jumped between wikis and Nextcloud and Google Docs on multiple occasions. Still, 25 years is a long time to get some basic SOPs in place. While I was there, Bart and Andrea created a single, internal, go-to Sphinx instance in the style of [https://handbook.gnome.org](https://handbook.gnome.org) --- I sincerely hope this is still going and that the board is incrementally fleshing it out.
+
+Clear documentation, centralized at a single location, is how the Foundation will manage its people transitions. Hand-offs are great, but board members and staff alike should have a single README-style document from which they can find everything else they need to keep the Foundation running smoothly.
+
+I should clarify that non-operational processes were well documented: board policies, accounting practices (courtesy Rebecca the bookkeeper), and infrastructure documentation (courtesy Bart and Andrea). But even these need to be discoverable, which is where the Foundation Handbook comes in. If someone has a question about infrastructure, their first port of call shouldn't be waking Andrea up in the middle of the night.
 
 ## financial stability
 
