@@ -104,7 +104,8 @@ While I was in the ED role, I think people were surprised that I didn't shy away
 
 I lost a first cousin two days my senior last year. My brother went through six months of intense chemo this year. (He's doing fine now.) I've considered death a lot in the past two years, even if subconsciously.
 
-Consciously, however, I don't think the topic can be avoided by anyone with the maturity to build a corporation which will outlive them. Inherently, the topic of succession planning includes emergency succession. With the Covid-19 pandemic barely behind us, it's easy to forget that [nonprofits and for-profits alike were scrambling to construct succession plans](https://www.researchgate.net/publication/348417640_Revitalising_Organisations'_Emergency_Succession_Planning_in_the_Face_of_the_Covid-19_Outbreak) not that long ago. The GNOME Foundation should have one.
+Consciously, however, I don't think the topic can be avoided by anyone with the maturity to build a corporation which will outlive them. Inherently, the topic of succession planning includes emergency succession. With the Covid-19 pandemic barely behind us, it's easy to forget that [nonprofits and for-profits alike were scrambling to construct succession plans](https://www.researchgate.net/publication/348417640_Revitalising_Organisations'_Emergency_Succession_Planning_in_the_Face_of_the_Covid-19_Outbreak) not that long ago. The nonprofit space is very supportive, and there was [plenty of simple, easy-to-understand advice](https://blueavocado.org/leadership-and-management/how-to-plan-and-execute-an-emergency-succession/) for creating succession plans during the Covid-19 pandemic. The GNOME Foundation should have one.
+
 
 ### Nurture The Next Generation
 
@@ -114,31 +115,99 @@ Every aspect of GNOME needs to encourage and grow the next generation of contrib
 
 For the avoidance of doubt, I'll call out explicitly: "continuity planning" never refers to "continuity" by way of keeping the same person in the same role indefinitely. If we were immortal (and if someone were willing to work the same job for hundreds of years), we could plan this way. Since we are not, the "continuity" we're planning for is a transition: from one person or one group of people to another person or another group of people.
 
-I bring this up because different corners of the GNOME Foundation (and the GNOME project) seem to view this from different angles, and it drives me slightly nuts when folks confuse consistency with continuity.
+I bring this up because different corners of the GNOME Foundation (and the GNOME project) seem to view this from different angles. We shouldn't confuse consistency with continuity.
 
 ### Committee Rotation
 
 Every committee should experience some amount of rotation, every year. Most do, with one notable exception: the Code of Conduct Committee.
 
-Given that this was the only committee I ever received complaints about as Executive Director (many complaints, from all but one corner of the community), I strongly encourage the board to heavily rotate the Code of Conduct Committee, as soon as they have the bandwidth to do so.
+Given that this was the only committee I ever received complaints about as Executive Director (many complaints, from most corners of the community), I strongly encourage the board to heavily rotate the Code of Conduct Committee, as soon as they have the bandwidth to do so. Start by documenting the entrance criteria: how does someone join the CoCC? Currently, that's unclear.
+
+The board would be well-served with a policy on committee rotation for all committees, to prevent stagnation.
 
 ### Slow Board Rotation
 
-Paradoxically, I would love to see the board _slow_ its rotation. Prior to Holly's appointment as ED, the board would sometimes rotate in its entirety _every single year._ Holly, with her nonprofit experience, helped the board plug that hole. However, when I asked certain directors of the board if they would be willing to seek a second term, I heard a very tired "if I'm asked to serve, I can."
+Paradoxically, I would love to see the board _slow_ its rotation. Prior to Holly Million's appointment as ED, the board would sometimes rotate in its entirety _every single year._ Holly, with her nonprofit experience, helped the board plug that hole. However, when I asked certain directors of the board if they would be willing to seek a second term, I heard a very tired "if I'm asked to serve, I can."
 
-Serving on the board should neither be a luxury, nor a chore. It should strike a balance between the serious work of governance and avoiding burnout. Ideally, elections should decide when a board member is rotated out. At the moment, barely enough members run for elections to fill the available seats. I coaxed all four candidates in the 2025 elections to run.
+Serving on the board should be neither a luxury, nor a chore. It should strike a balance between the serious work of governance and avoiding burnout. Ideally, elections should decide when a board member is rotated out. At the moment, barely enough members run for elections to fill the available seats. I coaxed all four candidates in the 2025 elections to run.
 
 A slower board rotation would indicate a few things: It would indicate that the work is no longer soul-crushing. It would indicate that the membership is actually happy with the work the Foundation does. It would indicate that the directors are getting comfortable with the few small operational tasks required of an organization of this scale.
 
-If we combine the desire for succession planning with the desire for slower board rotation, the outcome is acute: the longest-serving board members are asked to step out of Officer roles and bow out of the board.
+If we combine the desire for succession planning with the desire for slower board rotation, the outcome is acute: the longest-serving board members are eventually asked to step out of Officer roles and bow out of the board.
 
 ### Documentation
 
-When I joined the GNOME Foundation, there was no operational documentation. This was, in part, a tooling problem: the Foundation had jumped between wikis and Nextcloud and Google Docs on multiple occasions. Still, 25 years is a long time to get some basic SOPs in place. While I was there, Bart and Andrea created a single, internal, go-to Sphinx instance in the style of [https://handbook.gnome.org](https://handbook.gnome.org) --- I sincerely hope this is still going and that the board is incrementally fleshing it out.
+When I joined the GNOME Foundation, there was no operational or executive documentation. This was, in part, a tooling problem: the Foundation had jumped between wikis and GitLab and Nextcloud and Google Docs on multiple occasions. Still, 25 years is a long time to go without even basic SOPs. While I was there, Bart and Andrea created a single, internal, go-to Sphinx instance in the style of [https://handbook.gnome.org](https://handbook.gnome.org) --- I sincerely hope this is still going and that the board is incrementally fleshing it out.
 
 Clear documentation, centralized at a single location, is how the Foundation will manage its people transitions. Hand-offs are great, but board members and staff alike should have a single README-style document from which they can find everything else they need to keep the Foundation running smoothly.
 
-I should clarify that non-operational processes were well documented: board policies, accounting practices (courtesy Rebecca the bookkeeper), and infrastructure documentation (courtesy Bart and Andrea). But even these need to be discoverable, which is where the Foundation Handbook comes in. If someone has a question about infrastructure, their first port of call shouldn't be waking Andrea up in the middle of the night.
+I should clarify that non-operational processes were well documented: board policies, accounting practices (courtesy Rebecca the bookkeeper), and infrastructure documentation (courtesy Bart and Andrea). But even these need to be discoverable, which is where the Foundation Handbook comes in. If someone has a question about infrastructure, their first port of call should be a document linked from the Handbook, not waking Andrea up in the middle of the night.
+
+### Network Resilience
+
+If you paid much attention to the things I was saying in the spring and summer of 2025, you definitely heard me speak about "network resilience." Documentation is a part of that resilience but redundancy carries more weight. Documentation can get out of date. Documentation requires that the author write in such a way that the reader doesn't misinterpret what is being said.
+
+The advantage that human redundancy carries over documentation is that it directly represents the truth on the ground. A Deputy Executive Director has access to, and understands, all of the work of the Executive Director. An involved Vice President is familiar with the strategy and policy of the President.
+
+Helpfully, redundancy in every role ensures the documentation remains up-to-date. If the Foundation needs to execute some mundane-but-essential task, like [renewing the trademark](https://blogs.gnome.org/aday/2026/01/09/gnome-foundation-update-2026-01-09/), have the less-experienced person execute by following the documentation, while pairing with the more experienced person. Pairing on these kinds of slow-cycle tasks while following the documentation will lead to the usual brand of insightful questions, such as "Do we still have the same trademark lawyer as 10 years ago?" and "Has international trademark law changed significantly, causing us to require registration in a new jurisdiction?"
+
+## Grow The Community
+
+* grow the membership
+  * onboard app developers - Quickstart, demonstrate the attactiveness of the GNOME platform for building native apps, senior devs get bored easily, #lofi is coming
+  * events = opportunity to communicate and collaborate, densely. opportunity for old-timers to provide history and help the next generation learn non-technical skills needed for an extended f/oss community.
+  * link rich's conj open? ("confer" = "give")
+  * ad board = meeting ground, home for old-timers
+  * stop the slow bleed
+  * communicate heavily with members
+
+The GNOME Foundation's responsibility is to the community. The membership. This makes it the Foundation's responsibility to grow the membership. This can happen in many ways.
+
+First, and this is a personal preference, I would love to see a greater focus on app developers. Every janky JavaScript framework cooked up in a weekend has a very lightweight _Quickstart_ document. While [developer.gnome.org](https://developer.gnome.org/) does have Beginner Tutorials, it doesn't have a short document that assumes the reader already knows half a dozen programming languages and just wants to get from zero to Baby's First Adwaita App in under 3 minutes. Writing documentation can be a joy (I personally loved writing [docs.endatabas.com](https://docs.endatabas.com/tutorial/quickstart)) but it's a chore more often than not. Where the developer.gnome.org has gaps, the Foundation should help flesh those out. I believe a Quickstart (short enough to be printed on an A4) would be a great place to start.
+
+I'll pause here to explain part of why I think this is so important. It's not a beef with the current GNOME docs; they're quite lovely. The importance is capturing the moment. Desktop Linux is going gangbusters. Meanwhile, every senior dev and their cat is trying to think of an app to build on top of local-first tech. Many (most?) of the people switching to Linux are, themselves, developers. A lot of those developers will just [do what Linus does](https://youtu.be/mfv0V1SxbNA?si=yte6DTa9MMuOdHSj&t=2711) and install Fedora. They will probably run GNOME. If they want to spend a weekend tossing together a D&D campaign manager, recipe app, or the perfect local-first todo list app for their workflow, the Foundation should encourage that. Native app development on Linux is _fun_ and _addictive._ Good intro docs are a gateway drug.
+
+Second to the app developer focus would be to focus on platform developers. From the Foundation's perspective, this effort is twofold: to pay developers directly to work on the platform and then to encourage corporate diversity (ctrl+f for "diversity" to read more on what I mean by that) so up-and-coming platform devs have a soft landing.
+
+Paying platform developers means more than internships. While internships are a wonderful way to encourage inexperienced folks to build their skills and contribute to open source, they have a pretty low historical hit rate of keeping people in f/oss ecosystems. Why? Because everyone needs to eat. If there aren't jobs in GNOME tech after an internship finishes, a GNOME intern is just going to get gobbled up writing Yet Another React App or some cloud-native something-or-other in Go. It's not 1997. You can't assume these folks are going to sacrifice every evening and weekend for open source anymore.
+
+Instead, it's preferable to find someone who would be a "lateral hire" in a regular company. The global income gap sucks in just about every way... except for this. If you have $1500/mo to spend on maintaining GLib, find a hacker in a developing economy for whom that's a comfortable salary. Then give them a 12-month fellowship and see what happens.
+
+Of course, the GNOME Foundation President can't be a kingmaker for Rust hackers in emerging economies. The Foundation should nurture the for-profit landscape of destination employers and help people find jobs where they can work on GNOME full-time --- interns and laterals, alike.
+
+## Events
+
+Events are an opportunity for GNOME hackers to communicate and collaborate, densely. I really enjoyed [this 5-minute intro by Rich Hickey](https://www.youtube.com/watch?v=MLDwbhuNvZo) to the 2025 edition of the annual Clojure conference, beginning with "We can take a moment to reflect on the role of people." He goes on to suggest further reflection on where everyone gained the technical experience they enjoy today, as senior developers. As is standard for talks by Rich, he includes some etymology. _Confer_, the root of _conference_, literally means "to give."
+
+An event like GUADEC is an opportunity for the old-timers to provide history. It's an opportunity for them to teach skills, technical and non-technical, so that the newer generations can learn to manage and grow the GNOME community of contributors. Most of us participate in open source precisely because we want to share what we know and what we've created. An open source conference is an opportunity to share skills for sharing.
+
+Like every other operational procedure, the process of running a conference should be well-documented: from "Who do we contact about sponsorship?" to "Check if this year's venue have enough bandwidth for livestreaming." I've had the honour and the privilege of helping run 10-day meditation courses here in Atlantic Canada the past few years. As part of setting up our local nonprofit, we created checklist-based operations manuals for _everything._ Which isn't to say that any random person could pick up our hundreds of pages of checklists and run a meditation course. They couldn't. But it does afford the management (and thus, the organization) many degrees of freedom when it comes to enlisting volunteers for help or rotating managers. Clear, unambiguous documentation means there's no risk of micromanaging volunteers. As a result, volunteers don't burn out. But it also affords the organization the same succession planning tools I've discussed above.
+
+## Advisory Board
+
+The GNOME Foundation Advisory Board has a huge amount of potential. Where the board of directors participates in governance and policy (and, at the moment, execution), the AdBoard can be one step further removed from the day-to-day of the Foundation.
+
+The Advisory Board can, and should, act as a meeting ground for the diverse set of corporate interests. For-profits and non-profits could use the AdBoard to coordinate development efforts, synchronize on ideas and release schedules, and help the Foundation find new revenue to develop GNOME and sustain itself. The AdBoard doesn't really do this today. But I don't believe it would take much effort to grow it into a powerful force for the well-being of GNOME.
+
+Additionally, the Advisory Board could act as a landing pad for the older old-timers. Someone may be involved in GNOME at work but not have the energy or bandwidth to participate in the board or committees. If that person has decades of experience building GNOME and working with the Foundation, let them be their company's AdBoard representative. They're the perfect candidate.
+
+## Stop The Slow Bleed
+
+Over the past year, while reaching out to GNOME contributors, I spoke to quite a few who would tell me "I don't contribute that much anymore" or "I'm trying to avoid a particular personality online." Community members doing the Homer Simpson backwards-hedge-walk gif create a slow bleed. It's almost imperceptable, because some people already disengage from the project for months at a time. But, over enough time, this slow bleed can drastically reduce the number of active GNOME hackers.
+
+After I left in August, I had a number of people reach out to me to tell me this was the last straw after years of mismanagement. The line was usually the same: "I won't renew my Foundation membership." To them, and to you, I humbly request the oppsite:
+
+Stay and fight.
+
+The majority of directors on the board now see change --- healthy change --- as good for the Foundation. These changes, slow as they may have been to begin with, began long before I ever joined as ED. They continue today. Despite the strange lack of communication throughout and after August, I still firmly believe that the GNOME Foundation is the strongest it has ever been. If you have been wondering if you should stand for elections in 2026, do it. If you aren't sure if your vote matters in the elections, let me reassure you it matters now more than ever.
+
+If you feel, as many do, that the Foundation and the Project have been at odds in recent years, there is a new opportunity to help the Foundation correct its course, stabilize, and grow GNOME.
+
+## Heavy Communication With Members
+
+Because the executive is beholden to the board and the board is beholden to the membership, it is (I would hope) obvious that the executive and board both communicate frequently and transparently with members.
+
+I love reading [Allan's Foundation Updates](https://blogs.gnome.org/aday/), a continuation of a practice we started while I was there. Just before I left, I'd started hosting office hours. I'd also wanted to have quarterly panels. It's not possible for the ED or the President to have one-on-ones with every single Foundation member, all the time. But there should be opportunities outside of Matrix to engage in open and honest conversation.
 
 ## financial stability
 
