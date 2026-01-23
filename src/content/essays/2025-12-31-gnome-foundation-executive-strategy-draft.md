@@ -136,6 +136,8 @@ Clear documentation, centralized at a single location, is how the Foundation wil
 
 I should clarify that non-operational processes were well documented: board policies, accounting practices (courtesy Rebecca the bookkeeper), and infrastructure documentation (courtesy Bart and Andrea). But even these need to be discoverable, which is where the Foundation Handbook comes in. If someone has a question about infrastructure, their first port of call should be a document linked from the Handbook, not waking up Andrea in the middle of the night.
 
+Once the Foundation's documentation has started to tighten up, it would be wise to implement a document archival and retention policy designed for the long term. We began this work while I was ED and managed to get all of the Foundation's historical documents into Nextcloud, but there's still quite a bit of work to do in terms of making the archival process repeatable and discoverable for new officers and staff.
+
 ### Network Resilience
 
 If you paid much attention to the things I was saying in the spring and summer of 2025, you definitely heard me speak about "network resilience." Documentation is a part of that resilience but redundancy carries more weight. Documentation can get out of date. Documentation requires that the author write in such a way that the reader doesn't misinterpret what is being said.
@@ -232,7 +234,9 @@ Where does the money go, though? Are donors paying for GNOME Calendar, Flatpak 2
 
 On the topic of grantmaking, I hear the board has a plan in the works to finance some GNOME development. I look forward to seeing what they come up with.
 
-The third step is to talk about donations to GNOME. Loudly. Podcasts, YouTube, and traditional media. (Aside: Social media, not so much. The rallying cry for user participation will be met with crickets on LinkedIn.) My original intention was to do this myself. Perhaps the best option with a Community Executive is to assign someone (whether they're a director of the board or not) to act as a spokesperson. Such a person would probably become synonymous with GNOME, as Miguel was once upon a time. An alternative would be to distribute this responsibility but that risks diluting the message and reducing (or never building up) the recognizability of public personas.
+The third step is to talk about donations to GNOME. Loudly. Podcasts, YouTube, and traditional media. (Aside: Tweet-shaped social media, not so much. The rallying cry for user participation will be met with crickets on LinkedIn.) My original intention was to do this myself. Perhaps the best option with a Community Executive is to assign someone (whether they're a director of the board or not) to act as a spokesperson. Such a person would probably become synonymous with GNOME, as Miguel was once upon a time. An alternative would be to distribute this responsibility but that risks diluting the message and reducing (or never building up) the recognizability of public personas.
+
+Public personas need to know the audience. The PR exercise of marketing GNOME's donation page will require finesse. The GNOME Foundation has a habit of preaching to the choir. It's hardly the only first-wave open source project that is stuck in this rut but messaging to donors within the community, versus GNOME's millions of users, versus corporate donors, versus government donors? Every one should highlight very different aspects. Governments care about Digital Sovereignty. Users care about features and stability. Thoughtful users will care about GNOME's infrastructure, like GitLab. GNOME hackers care about GUADEC. There isn't a lot of overlap. Red Hat employees will donate every year because they love GNOME. You don't need to win them over. Focus on the donations you _don't have._
 
 The last step is to get Canonical to stop patching out the "Please Donate" notification in Ubuntu. I can appreciate why Canonical currently does this. Since the Foundation doesn't finance GNOME development yet, there's an argument to be made that Canonical isn't obligated to participate beyond their [Advisory Board membership](https://foundation.gnome.org/advisory-board). You may or may not agree with that but the way to convince Canonical that Ubuntu should support the GNOME Foundation with a "Donate" button is to demonstrate that Ubuntu users who make such donations see returns in their operating system of choice: Ubuntu. Ubuntu is built on GNOME (you might even say it's _mostly_ GNOME) so if the donations fund GNOME development directly, then everything checks out.
 
@@ -284,29 +288,39 @@ Other organizations indulge the firehose, and that's fine. Buffer [publishes its
 
 It's also important to consider that different layers of the organization require transparency at different scales. The membership, the board, the executive, the staff, the wider hacker community, and the general public all produce and consume information and different rates and at different volumes. With a Community Executive, the Foundation enjoys fewer layers to contend with and transparency as a function of public relations is simplified, somewhat.
 
+The outcome of increased transparency can be immense. Transparency --- especially transparency at the right scale, granularity, and volume, targetting the right audience --- will rebuild the community's trust in the Foundation. Members will then be more likely to participate, which in turn will lead to more vibrant elections, which in turn will lead to higher transparency by community osmosis. It's a virtuous circle.
+
 ## Board of Directors
 
+A clear indication that the Foundation is healing will be when too many people run for board elections. It should be an honour to sit on the board of directors. And it will be, eventually.
 
+This is one aspect of the Foundation I had backwards, initially. When I joined in May, I tried as hard as I could to recruit candidates with accounting, legal, governance, and management backgrounds. "Just because someone has mastered Rust doesn't make them a great director," I thought. And while that's true, just because someone has a management background doesn't make them a great director, either.
 
-* board
-  * I had it backwards: hackers make good directors
-  * where are our Canonical friends? -- they're on the Ad Board; get them memberships and get them on the board, too
+The strongest directors have been those with an unwavering commitment to GNOME. They aren't on the board to boost their own organization's standing and they aren't there to twist the knife on petty grievances. Good directors sit on the board because they want to see GNOME stronger in 2056 than it is in 2026. Good directors put in the work. Good directors have the difficult conversations.
 
-* policy governance
-  * this would still be my preference but, after August, I'm not convinced it's a good idea for the Foundation to have a staff ED ... no one wants to work for 9 bosses who ghost you for weeks at a time.
-  * perhaps the current situation is the best possible outcome: have the board accept that they're deeply involved in the foundation's executive activities anyway, and maintain a community executive, rather than staff.
+Hackers can absolutely make great directors.
 
-* shift to infrastructure
-  * operational struggles
-  * infra doesn't have this problem: bart and andrea are excellent and very trustworthy
-  * banking has been moved into the treasury function (pres, treasurer), non-banking tools should move into infra: Stripe, Wise.com, etc.
-  * automate
+## Policy Governance
 
-* documents and documentation
-  * a component of succession planning
-  * archival policy, retention policy
+I spoke about [Policy Governance](https://en.wikipedia.org/wiki/Policy_Governance) in [my GUADEC 2025 keynote](https://youtu.be/26ys1p6VVs0?t=1286). I worked almost exclusively with Allan Day for my 3 or 4 months at the Foundation. I really enjoyed working with Allan and I believe that, generally, we agreed on how the Foundation should operate.
+
+This is the one place where Allan and I differed in opinion. He's been around both GNOME and the Foundation for much longer. He has expressed the opinion that the board's heavy involvement in the Foundation's operation is a good thing. I tend to disagree. I believe a high level of involvement from the Executive Committee in a 501(c)(3) is an antipattern, indicative of cash flow issues, a failure of management, or a failure of operations --- or all three.
+
+That said, the current situation is perhaps the best possible outcome. If the board and the Executive Committee are going to be deeply involved in the operation of the Foundation anyway, lean in. A Community Executive has distinct advantages: it saves money, it unifies the management strategy, and it brings the board (and thus, the membership) closer to the day-to-day operations of the Foundation which, in turn, should assure the Foundation satisfies its mission and the desires of the membership. A Community Executive also benefits from decades of GNOME experience.
+
+Perhaps, years in the future, the board will choose to hire another staff executive. If and when they do, I still believe that Policy Governance will be their friend and I will continue to advocate for it along those timelines.
+
+## Shift to Infrastructure
+
+With a vanishingly small staff, the GNOME Foundation needs anchors to maintain ownership of its most important tooling. Directors will come and go. Someone needs to hold down the fort over a longer window of time.
+
+The peculiar advantage of a software-focused nonprofit is the same operational advantage of software companies: automation and infrastructure. [New finance platforms](https://blogs.gnome.org/aday/2026/01/16/gnome-foundation-update-2026-01-16/) are being put in place at the Foundation, which is excellent. While I was there, we moved all banking ownership from the accounting function of the organization to the treasury function (the President and Treasurer). This is the correct alignment of tooling and access for the Foundation's finances, and both of these adjustments represent a wonderful step forward.
+
+Beyond this, however, I firmly believe all non-banking tools should move under the umbrella of the GNOME Foundation's [Infrastructure Team](https://handbook.gnome.org/infrastructure.html). This includes payment processors, ForEx tooling, contract software, and so on. The selfless efforts of Andrea and Bart over the years have demonstrated them to be some of the most loyal and trustworthy actors across the GNOME Foundation. In a nonprofit apocalypse, when everything else falls apart, they are the ones who will keep the lights on, whether they're paid for it or not.
 
 ## Diversity
+
+
 
 * corporate diversity (spread out Red Hat risk)
 * more diversity in hackers, not the board
