@@ -28,8 +28,8 @@ There's quite a bit of detail beneath this, but these two ideals provide a usefu
 * Focus On The Mission
 * Build An Institution
 * Grow The Community
-* Events
-* Advisory Board
+* Events Are Succession In Action
+* Advisory Board: The Old-Timer Meeting Ground
 * Stop The Slow Bleed
 * Heavy Communication With Members
 * Financial Policy
@@ -93,7 +93,7 @@ While I was in the ED role, I think people were surprised that I didn't shy away
 
 I lost a first cousin last year. He was two days my senior. My brother went through six months of intense chemo this year. (He's doing fine now.) I've considered death a lot in the past two years, even if subconsciously.
 
-Consciously, however, I don't think the topic can be avoided by anyone with the maturity to build a corporation which must outlive them. Inherently, the topic of succession planning includes emergency succession. With the Covid-19 pandemic barely behind us, it's easy to forget that [nonprofits and for-profits alike were scrambling to construct succession plans](https://www.researchgate.net/publication/348417640_Revitalising_Organisations'_Emergency_Succession_Planning_in_the_Face_of_the_Covid-19_Outbreak) not that long ago. The nonprofit space is very supportive, and there was [plenty of simple, easy-to-understand advice](https://blueavocado.org/leadership-and-management/how-to-plan-and-execute-an-emergency-succession/) for creating succession plans during the Covid-19 pandemic.
+Consciously, however, I don't think the topic can be avoided by anyone with the maturity to build a corporation which must outlive them. Inherently, the topic of succession planning includes emergency succession. With the Covid-19 pandemic barely behind us, it's easy to forget that nonprofits and for-profits alike were [scrambling to construct succession plans](https://www.researchgate.net/publication/348417640_Revitalising_Organisations'_Emergency_Succession_Planning_in_the_Face_of_the_Covid-19_Outbreak) not that long ago. The nonprofit space is very supportive, and there was [plenty of simple, easy-to-understand advice](https://blueavocado.org/leadership-and-management/how-to-plan-and-execute-an-emergency-succession/) for creating succession plans during the Covid-19 pandemic.
 
 The GNOME Foundation needs a succession plan.
 
@@ -152,7 +152,7 @@ The GNOME Foundation's responsibility is to the community. The membership. This 
 
 First, and this is a personal preference, I would love to see a greater focus on app developers. Every janky JavaScript framework cooked up in a weekend has a very lightweight _Quickstart_ document. While [developer.gnome.org](https://developer.gnome.org/) does have Beginner Tutorials, it doesn't have a short document that assumes the reader already knows half a dozen programming languages and just wants to get from zero to Baby's First Adwaita App in under 3 minutes. Writing documentation can be a joy (I personally loved writing [docs.endatabas.com](https://docs.endatabas.com/tutorial/quickstart)) but it's a chore more often than not. Where developer.gnome.org has gaps, the Foundation should help flesh those out. I believe a Quickstart (short enough to be printed on an A4) would be a great place to start.
 
-I'll pause here to explain part of why I think this is so important. It's not a beef with the current GNOME docs; they're quite lovely. The importance is capturing the moment. Desktop Linux is going gangbusters. Meanwhile, every senior dev and their cat is trying to think of an app to build on top of local-first tech. Many (most?) of the people switching to Linux are, themselves, developers. A lot of those developers will just [do what Linus does](https://youtu.be/mfv0V1SxbNA?si=yte6DTa9MMuOdHSj&t=2711) and install Fedora. They will probably run GNOME. If they want to spend a weekend tossing together a D&D campaign manager app, recipe app, or the perfect local-first todo list app, the Foundation should encourage that. Native app development on Linux is _fun_ and _addictive._ Good quickstart docs are the gateway drug, and they're cheap to make.
+I'll pause here to explain part of why I think this is so important. It's not a beef with the current GNOME docs; they're quite lovely. The importance is capturing the moment. Desktop Linux is going gangbusters. Meanwhile, every senior dev and their cat is trying to think of an app to build on top of local-first tech like [p2panda](https://p2panda.org/) and [Automerge](https://automerge.org/). Many (most?) of the people switching to Linux are, themselves, developers. A lot of those developers will just [do what Linus does](https://youtu.be/mfv0V1SxbNA?si=yte6DTa9MMuOdHSj&t=2711) and install Fedora. They will probably run GNOME. If they want to spend a weekend tossing together a D&D campaign manager app, recipe app, or the perfect local-first todo list app, the Foundation should encourage that. Native app development on Linux is _fun_ and _addictive._ Good quickstart docs are the gateway drug, and they're cheap to make.
 
 Second to the app developer focus comes a focus on platform developers. From the Foundation's perspective, this effort is twofold: to pay developers directly to work on the platform and then to encourage corporate diversity (ctrl+f for "diversity" to read more on what I mean by that) so up-and-coming platform devs have a soft landing.
 
@@ -162,7 +162,7 @@ Instead, it's preferable to find someone who would be a "lateral hire" in a regu
 
 Of course, the GNOME Foundation President can't be a kingmaker for Rust hackers in emerging economies. The Foundation should nurture the for-profit landscape of destination employers and help people find jobs where they can work on GNOME full-time --- interns and laterals, alike. Easier said than done, but it should be on the agenda.
 
-## Events
+## Events Are Succession In Action
 
 Events are an opportunity for GNOME hackers to communicate and collaborate, densely. I really enjoyed [this 5-minute intro by Rich Hickey](https://www.youtube.com/watch?v=MLDwbhuNvZo) to the 2025 edition of the annual Clojure conference, beginning with "take a moment to reflect on the role of people." He goes on to suggest further reflection on how everyone gained the technical experience they enjoy today, as senior developers. As is standard for talks by Rich, he includes some etymology. _Confer_, the root of _conference_, literally means "to give."
 
@@ -170,7 +170,7 @@ An event like GUADEC is an opportunity for the old-timers to give lessons in his
 
 Like every other operational procedure, the process of running a conference should be well-documented: from "Who do we contact about sponsorship?" to "Check if this year's venue have enough bandwidth for livestreaming." I've had the honour and the privilege of helping run 10-day meditation courses here in Atlantic Canada the past few years. As part of setting up our local nonprofit, we created checklist-based operations manuals for _everything._ This isn't to say that any random person could pick up our hundreds of pages of checklists and run a meditation course. They couldn't. But it does afford the management (and thus, the organization) many degrees of freedom when it comes to enlisting volunteers for help, or even rotating the managers themselves. Network resilience, remember? Clear, unambiguous documentation means there's no risk of micromanaging volunteers. As a result, volunteers don't burn out. But it also affords the organization the same succession planning tools I've discussed above.
 
-## Advisory Board
+## Advisory Board: The Old-Timer Meeting Ground
 
 The GNOME Foundation Advisory Board has a huge amount of potential. Where the board of directors participates in governance and policy (and, at the moment, execution), the AdBoard can be one step further removed from the day-to-day of the Foundation.
 
@@ -340,7 +340,7 @@ Beyond the Foundation's core mission, I believe there are a few remaining places
 
 The first is to embrace other Free Software organizations: [third-wave open source](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/) companies, newer nonprofits like [FOSS United](https://fossunited.org/), hardware manufacturers [who believe in open hardware as much as open source](https://frame.work/), and governments [who are willing to acknowledge the lies of the old world order](https://youtu.be/flsgJe8mN-A?t=154) and now look for cooperative, sovereign technology alternatives.
 
-The second is, over time, to detach from legacy f/oss nonprofit social networks. I have not witnessed these social networks benefiting GNOME. Executive Directors at existing f/oss nonprofits and CEOs of companies building Free Software repeatedly described these networks to me with a single, ugly word: "incestuous." There is fat to trim not just from the GNOME Foundation but from the wider network, on the whole.
+The second is, over time, to distance the Foundation from legacy f/oss nonprofit social networks and embrace new ones. It's not 1997 anymore and I have not witnessed these old social networks benefitting GNOME. While I was ED, other Executive Directors and CEOs in the Free Software world repeatedly described these networks to me with a single, ugly word: "incestuous." There are millions of skilled people out there to hire. The only advantage to hiring "in network" is the false sense of security it brings.
 
 Last, I believe the Foundation will have to move to Europe. This isn't a near-term goal. The Foundation still has an incredible amount of work to do before its head is above water, and even more work before it achieves its deserved excellence. Only once the Foundation is financially sound, stable, and serving its mission of building GNOME should it uproot itself.
 
