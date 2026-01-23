@@ -300,6 +300,8 @@ The strongest directors have been those with an unwavering commitment to GNOME. 
 
 Hackers can absolutely make great directors.
 
+One of the biggest changes I would like to see is a representative from Canonical on the GNOME Foundation board. Canonical has Advisory Board representatives but very few Canonical employees even seem to be Foundation members. Step one: get your Ubuntu friends a Foundation membership! Step two: get at least one Ubuntu Desktop person on the board. You folks are in this together.
+
 ## Policy Governance
 
 I spoke about [Policy Governance](https://en.wikipedia.org/wiki/Policy_Governance) in [my GUADEC 2025 keynote](https://youtu.be/26ys1p6VVs0?t=1286). I worked almost exclusively with Allan Day for my 3 or 4 months at the Foundation. I really enjoyed working with Allan and I believe that, generally, we agreed on how the Foundation should operate.
@@ -320,18 +322,26 @@ Beyond this, however, I firmly believe all non-banking tools should move under t
 
 ## Diversity
 
+Although GNOME is an upstream project, it feels to me like it is at risk from a lack of corporate diversity. The Red Hat Desktop team does amazing work but GNOME benefits from a diversification of downstreams. It would be lovely to see heavier involvement from the Ubuntu Desktop folks --- not just on the board, but everywhere. There are other downstream software and hardware players, too. The more companies get involved in GNOME, the healthier GNOME will be. This is just network resilience again, for software bus factor.
 
+Financially, the Foundation itself will benefit from diversified revenue streams. I hear that the new user donation platform is moving along smoothly but the Foundation management needs to dovetail those donations from individuals into larger donations from corporate donors. It's not just about money. As a 501(c)(3), the GNOME Foundation needs to pass a [Public Support Test](https://www.501c3.org/understanding-the-501c3-public-support-test/) every year. As Jef Spaleta, the Fedora project lead, put it: "more individual donors raise the ceiling on how many big donations the Foundation can receive... everybody wins." In the same way that many small donations from individuals are better, a large number of medium-sized donations from corporations is preferable to two or three large cheques.
 
-* corporate diversity (spread out Red Hat risk)
-* more diversity in hackers, not the board
-  * the board is made of members; don't force board diversity if it's not there in the membership; solve the root problem
-* broaden the base: bring in more app developers
-* focus less on outreach programs like Outreachy and GSoC (which would help unburden Felipe, also) and focus more on mid- to senior-level developers.
+Culturally, GNOME benefits from a broader base of contributors. This isn't just a case of "more hackers = better". Growing communities for the long term in locations outside of Berlin and Boston will ensure GNOME's longevity and vibrance. [GNOME Nepal](https://nepal.gnome.org/) is the canonical example of how to execute on this: start small and humbly, embrace the local community, and tackle challenges head-on. GNOME Nepal is walking the long arc from growing adoption (including teaching engineering students what open source even _is_) to onboarding new contributors. That kind of effort takes years and requires someone like Aditya to have the vision _and_ execute on it. The GNOME Foundation has done a fantastic job of supporting GNOME Nepal and, I hope, will use it as a template for growing GNOME in other parts of the world.
+
+In the long term, broadening the base will mean bringing more app developers into GNOME. Show mid- to senior-level developers the joys of GTK and Libadwaita. Get people excited about the Linux desktop again. I hear it's making a comeback.
 
 ## The Future
 
-* detach from legacy f/oss nonprofit social networks
-  * EDs / CEOs describe as "incestuous"
-* move the Foundation to Europe
-* keep "GNOME", get rid of the foot
-  * rebecca's reaction
+The strategy laid out in this document describes what might be a 5- to 10-year plan. There will be difficult and ongoing conversations to be had about how to invest the Foundation's newfound revenue back into GNOME development.
+
+Beyond the Foundation's core mission, I believe there are a few remaining places the organization can lead in the world of f/oss nonprofits.
+
+The first is to embrace other Free Software organizations: [third-wave open source](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/) companies, newer nonprofits like [FOSS United](https://fossunited.org/), hardware manufacturers [who believe in open hardware as much as open source](https://frame.work/), and governments [who are willing to acknowledge the lies of the old world order](https://youtu.be/flsgJe8mN-A?t=154) and now look for cooperative, sovereign alternatives.
+
+The second is, over time, to detach from legacy f/oss nonprofit social networks. I have not witnessed these social networks benefiting GNOME. Executive Directors at existing f/oss nonprofits and CEOs of companies building Free Software repeatedly described these networks to me with a single, ugly word: "incestuous." There is fat to trim not just from the GNOME Foundation but from the wider network, on the whole.
+
+Ultimately, I believe, the Foundation will have to move to Europe. This isn't a near-term goal. The Foundation still has an incredible amount of work to do before its head is above water, and even more work before it achieves its deserved excellence. Only once the Foundation is financially sound, stable, and serving its mission of building GNOME should it uproot itself.
+
+My reason for recommending that the Foundation shift to Europe is probably not the one you are thinking of. American administrations come and go, just like directors of a nonprofit board come and go. The current state of the USA won't be its political landscape forever. No, the problem I see with incorporating entities in the United States lives somewhere between law and culture. The expected behaviours in an American officeplace are no longer in alignment with the rest of the world. This is exacerbated by legal frameworks which seem absurd to Europeans, Indians, and Canadians like me. America's idiotic culture war penetrates its institutions, including its nonprofits. The GNOME Foundation needs to focus on its mission: GNOME. Europe will be the best place to do that, in the long term.
+
+Maybe after all that is accomplished, the membership can unleash the Design Team on the foot.
