@@ -23,6 +23,22 @@ This strategy hinges on two broad conceptual shifts in how the GNOME Foundation 
 
 There's quite a bit of detail beneath this, but these two ideals provide a useful framework upon which the community executive can ask themselves these questions, from time to time: "Are we focusing on the mission?" and "Are we building an institution?"
 
+## Table of Contents
+
+## Focus On The Mission
+## Build An Institution
+## Grow The Community
+## Events
+## Advisory Board
+## Stop The Slow Bleed
+## Heavy Communication With Members
+## Financial Policy
+## Fiscal Controls
+## Fundraising
+## Organizational Excellence
+## Diversity
+## The Future
+
 ## Focus On The Mission
 
 It is illegal for the GNOME Foundation to pursue any initiative other than it's 501(c)(3) mission, as declared on its Form 990 that it submits to the IRS. As of 2025, that mission is as follows:
@@ -224,10 +240,53 @@ The last step is to get Canonical to stop patching out the "Please Donate" notif
 
 ## Organizational Excellence
 
-* feedback
-  * help board & community members
-  * build a healthier community with healthier communication
-  * avoid instantly going over someone's head
+Participation in the GNOME project has always been marked by technical excellence. It isn't a secret within the GNOME community that the Foundation [hasn't always met this bar](https://blogs.gnome.org/tbernard/2025/04/11/gnome-stf-2024/#planning-coordination-reporting).
+
+Basic operating procedures, documentation, document archival policies, and financial stability are not the mark of business excellence. Everything described above is pretty basic stuff. Excellence at the Foundation will only come from reshaping the organization from the ground up.
+
+## Feedback
+
+It is the mark of a healthy organization that its members can engage in open and honest feedback.
+
+I received many complaints about the Foundation even in the 3 or 4 months I spent as ED but these didn't come with any structure. Rather, they took the form of DMs or emails from members, sent directly to me, with a sampling bias for those individuals willing to email a new ED out of the blue. The medium makes sense, when you think about it. The alternative at the time was to raise feedback in public Matrix channels, where bad faith actors lurk, or to broadcast something on Planet GNOME. There was no middle ground.
+
+Before I left the ED post, I created a private Matrix channel for GNOME Foundation members. I also proposed creating a similar, members-only space on Discourse (this space doesn't exist yet; I'm not sure if that's seen any progress behind the scenes). Foundation members are the top of the accountability and control hierarchy --- they should have a way to speak directly to the board of directors and ED that sits between the high-friction world of emails and the high-visibility world of blogs posts.
+
+Perhaps more important than open communication between the membership and the board, however, is open communication between individuals. I can't count the number of times people raised complaints directly to me, about someone else.
+
+Raising a complaint about someone without first speaking to that person is a bizarre and unhealthy pattern of behaviour. Try not to do that. Before running to the ED, the board, or the CoCC, talk to the person you're having difficulty with. They may be receptive. They may not. But it's worth your effort, every time.
+
+It is the Foundation's responsibility to help guide the community. Learning to provide feedback to someone is a skill like any other. GNOME hackers are community members like any other. This isn't an unsolvable puzzle. There are coaches, nonprofit advisory consultants, and other third parties who can help the Foundation with this process. The Foundation can't bootstrap itself out of bad habits, much less teach the community a skill most of the directors lack themselves. Thankfully, there is help out there --- and much of it is free. Also thankfully, some of the newer directors are excellent communicators and can measure whether or not a particular coach or consultant is helping the Foundation.
+
+## Accountability
+
+The Foundation struggles to hold its staff, directors, and officers accountable for patterns of broken behaviour. I am not referring to one-off mistakes: a forgotten task, a momentary lack of judgment, or a dropped ball. _Patterns of behaviour_ are marked by repeatedly failing to deliver: repeatedly failing to own a task, project, or strategy from start to finish.
+
+Just as there are two scales to the Foundation (the board and the staff), there are two scales to accountability. Staff need to be held accountable for work at the task or project level. "I told you about this a month ago." is the canonical antipattern. Did this person follow up? Was there a clear delineation of responsibility? Was everyone clear on what needed to be accomplished, and by when? There are Staff, Infrastructure, and Board project walls in GitLab for this purpose. The board need to be held accountable for work at the strategic level: what are the goals of the organization for this year? Five years? Ten years? Is the ED ensuring that we meet those goals? Last, the ED needs to be held accountable for both. The ED helps the board decide on strategy and enables the staff to execute on it. In an organization as small as the GNOME Foundation, the ED will be executing on a lot of tasks herself, directly.
+
+The GNOME Foundation board, at the top of this hierarchy, is a "working board" (in the sense that they are heavily involved in the day-to-day operation of the business) and a 9-person board can make accountability too diffuse. As a result, it's useful for the membership to narrow in on board leadership when evaluating the board's performance. The timescales are long but, helpfully, board elections only happen once a year. This May, I strongly encourage the Foundation membership to retrospect on the past five years. There were some significant leadership changes in August of 2025 and if you have concerns about the Foundation's legacy strategies, provide that feedback to the new board so they can learn from past mistakes.
+
+## Transparency
+
+"Transparency" is a term that somehow manages to confuse a lot of people. As a consequence, people debate the merits of transparency, with each side of the argument grounded in this confusion.
+
+Back in 2016, I gave a CreativeMornings talk about [our transparency strategy at Nilenso](https://youtu.be/0sUMbqdHhME). (Apologies for two things: First, yes, I'm presenting on a Mac. 2016 Nilenso had a lot of Macs in the office and that happened to be the computer available. Second, I'm sorry the acoustics of that building were horrible.) You can go and watch the talk but tl;dw:
+
+* transparency lives _on a spectrum_ --- it's not binary
+* the word "transparency" in the context of organizations refers to _reducing the chance of corruption_
+* transparency reduces corruption by merit of being "read-write", not "read-only" --- observing the thing changes the thing
+
+The Foundation will benefit from transparency. _A lot more_ transparency. Private, members-only conversation channels help with this. [Allan's Foundation Updates](https://blogs.gnome.org/aday/) help with this. Fresh blood in leadership positions at the Foundation will help with this. But every one of these is really just the beginning. The Foundation will achieve excellence, in my opinion, when it finds an optimal balance in the act of sharing the vast majority of its strategy, execution, and operation with the membership --- in a way that is easy to digest and receptive to feedback.
+
+The word "balance" here is key. It does not make the GNOME Foundation "transparent" if everyone can read every line item in the organization's accounting history, see what every contractor is being paid, or record every board meeting on video and publish it to YouTube. That's a firehose of information no one can keep up with, which would only act as a magnet for trolls.
+
+Other organizations indulge the firehose, and that's fine. Buffer [publishes its employees salaries](https://buffer.com/open). The postmarketOS team [publish a financial transparency report that links to spreadsheets](https://postmarketos.org/blog/2025/12/19/contributor-compensantion-and-financial-update/). These are extreme examples and the GNOME Foundation can't go this far, in part because it needs to consider the safety of staff and the sanity of its directors.
+
+It's also important to consider that different layers of the organization require transparency at different scales. The membership, the board, the executive, the staff, the wider hacker community, and the general public all produce and consume information and different rates and at different volumes. With a Community Executive, the Foundation enjoys fewer layers to contend with and transparency as a function of public relations is simplified, somewhat.
+
+## Board of Directors
+
+
 
 * board
   * I had it backwards: hackers make good directors
@@ -242,12 +301,6 @@ The last step is to get Canonical to stop patching out the "Please Donate" notif
   * infra doesn't have this problem: bart and andrea are excellent and very trustworthy
   * banking has been moved into the treasury function (pres, treasurer), non-banking tools should move into infra: Stripe, Wise.com, etc.
   * automate
-
-* accountability, feedback, open honest comm
-  * private chan in matrix
-  * private area in discourse?
-  * transparency at scales: exec, board, membership, hackers, public
-  * "transparency" does not mean everyone can read every line item in the Foundation's accounting history, see what every contractor is being paid, or otherwise firehose the general public with information
 
 * documents and documentation
   * a component of succession planning
