@@ -6,7 +6,7 @@ tags: []
 draft: true
 ---
 
-[Like Nick](https://www.youtube.com/watch?v=dR_Uzf2B-YA&t=106s), I had no idea what happened back in August. I worked almost exclusively with Allan Day throughout my 3.5 months at the Foundation. Immediately following GUADEC, Allan went on vacation for a couple weeks and during that time the board held a few meetings I wasn't invited to. On August 13th, Robert McQueen called me to tell me I "wasn't a good fit." The board's half of the decision was never discussed with me and their decision was never explained. I think (hope?) that Allan was as surprised as I was when he returned from vacation on August 18th. My agreement to step down was largely due to the total lack of communication from the board at that time. People joke about an Executive Director having "nine bosses", which is its own kind of challenge. That challenge really deepens if your bosses don't speak to you.
+[Like Nick](https://www.youtube.com/watch?v=dR_Uzf2B-YA&t=106s), I had no idea what happened back in August. I worked almost exclusively with Allan Day throughout my 3.5 months at the Foundation. Immediately following GUADEC, Allan went on vacation for a couple weeks and during that time the board held a few meetings I wasn't invited to. On August 13th, Robert McQueen called me to tell me I "wasn't a good fit." I had no idea what that meant. The board's half of the decision was never discussed with me and their decision was never explained. It's my understanding that Allan was as surprised as I was when he returned from vacation on August 18th. My agreement to step down was largely due to the total lack of communication from the board at that time. People joke about an Executive Director having "nine bosses", which is its own kind of challenge. That challenge really deepens if your bosses don't speak to you.
 
 I still don't know what happened in August. I probably never will. If the board opts to hire a staff Executive Director in the future, I sincerely hope they learn to talk through their problems openly first.
 
@@ -71,7 +71,7 @@ While it's quaint to suggest that [fundraising via Friends of GNOME](https://www
 
 The rest of GNOME's development comes from volunteers, restricted grants, and contract work. The massive effort enabled by the [STF contract](https://blogs.gnome.org/tbernard/2025/04/11/gnome-stf-2024/) is a recent example.
 
-To my knowledge, the GNOME Foundation has only ever engaged in the act of software development via _restricted_ grants. This includes [work on GTK from 2018 to 2021](TODO: link), and the work on Digital Wellbeing and GLib in recent years. There's absolutely nothing wrong with restricted grants and hopefully the Foundation continues to receive such grants.
+To my knowledge, other than the STF contract, the GNOME Foundation has only ever engaged in the act of software development via grants. This includes [work on GTK from 2018 to 2021](TODO: link), and the work on Digital Wellbeing and GLib in recent years. There's absolutely nothing wrong with restricted grants and hopefully the Foundation continues to receive such grants.
 
 However, for the GNOME Foundation to fulfill its nonprofit mission, I believe its role is to "fill in the gaps." Companies like Red Hat and Canonical only have so many degrees of freedom --- the software they write will, generally, try to make their customers happy. That's just... how you run a company. But there are times when commercial incentives won't get certain software built. GNOME Calendar is, arguably, the most beautiful calendar app out there --- but it lacks essential features because it's 100% volunteer-built. GNOME's accessibility (#a11y) story gets better every release --- but major gaps exist, even in 2026. The diagram that follows is a doodle I created for the Fundraising Committee when I left:
 
@@ -97,12 +97,11 @@ Consciously, however, I don't think the topic can be avoided by anyone with the 
 
 The GNOME Foundation needs a succession plan.
 
-
 ### Nurture The Next Generation
 
 Every aspect of GNOME needs to encourage and grow the next generation of contributors, not just the Foundation. The Design Team does a great job of this and I hope they don't mind me calling them out. The Core Design Team is kind of broken down by generation: old farts like Jakub and Allan, the middle generation like Sam and Tobias, and the young folks like Jamie and Kramo. I've attended Design Team meetings. They're a productive and mindful group. I have little doubt that mindfulness is a large part of them considering how to ensure GNOME's design doesn't stagnate and that no one becomes a Single Point of Failure (SPOF).
 
-[Emmanuele talked about creating a steering group](https://www.youtube.com/live/18Ir6RXkIeA?si=uwOFJUYtRga7hYTZ&t=3381) at GUADEC 2025. The board and staff are loosening some of these knots. Knowledge-sharing and [pairing up on Officer roles](https://handbook.gnome.org/foundation/board-of-directors/officers.html) is a great way to unstick the Foundation's legacy processes. Pushing the staff to become cross-functional is another. This work has begun. It just needs to continue.
+Emmanuele [talked about creating a steering group](https://www.youtube.com/live/18Ir6RXkIeA?si=uwOFJUYtRga7hYTZ&t=3381) at GUADEC 2025. The board and staff are loosening some of these knots. Knowledge-sharing and [pairing up on Officer roles](https://handbook.gnome.org/foundation/board-of-directors/officers.html) is a great way to unstick the Foundation's legacy processes. Pushing the staff to become cross-functional is another. This work has begun. It just needs to continue.
 
 For the avoidance of doubt, I'll call out explicitly: "continuity planning" never refers to "continuity" by way of keeping the same person in the same role indefinitely. If we were immortal (and if someone were willing to work the same job for hundreds of years), we could plan this way. Since we are not, the "continuity" we're planning for is a transition: from one person or one group of people to another person or another group of people.
 
@@ -114,7 +113,7 @@ Keeping one person in the same role without redundancy for years and years also 
 
 Every committee should experience some amount of rotation, every year. Most do, with one notable exception: the Code of Conduct Committee.
 
-Given that this was the only committee I ever received complaints about as Executive Director (many complaints, from most corners of the community), I strongly encourage the board to heavily rotate the Code of Conduct Committee, as soon as they have the bandwidth to do so. They can probably start by documenting the entrance criteria: how does someone join the CoCC? Currently, that's unclear.
+Given that this was the only committee I ever received complaints about as Executive Director (_many_ complaints, from most corners of the community), I strongly encourage the board to heavily rotate the Code of Conduct Committee, as soon as they have the bandwidth to do so. They can probably start by documenting the entrance criteria: how does someone join the CoCC? Currently, that's unclear.
 
 The board would be well-served with a policy on committee rotation for all committees, to prevent stagnation.
 
@@ -347,3 +346,13 @@ Last, I believe the Foundation will have to move to Europe. This isn't a near-te
 My reason for recommending that the Foundation shift to Europe is probably not the one you are thinking of. American administrations come and go, just like directors of a nonprofit board come and go. The current state of the USA won't be its political landscape forever. No, the problem I see with incorporating entities in the United States lives somewhere between law and culture. The expected behaviours in an American officeplace are no longer in alignment with the rest of the world. This is exacerbated by legal frameworks which seem absurd to Europeans, Indians, and Canadians like me. America's idiotic culture war penetrates its institutions, including its nonprofits. The GNOME Foundation needs to focus on its mission: GNOME. Europe will be the best place to do that, in the long term.
 
 Maybe after all that is accomplished, the membership can unleash the Design Team on the foot.
+
+## Now What?
+
+I don't expect the GNOME Foundation board to treat the recommendations above as prescriptive. Every one of these recommendations is available à la carte, and I hope they are useful both individually and in terms of their interdependencies. I also hope they are useful to the community when future Foundation members become board members and when the membership becomes increasingly involved in Foundation operations.
+
+In spite of the weird lack of communication during the first two weeks of August, it's my opinion that, as of August 2025, the Foundation is the strongest it's been in a decade. It has gotten stronger every month. We balanced the budget. We corrected the treasury function of the organization. We appointed a competent treasurer to manage that treasury function. The Foundation is learning to cut costs and control spending. Most of the board's acting directors now want what's best for GNOME.
+
+GNOME Foundation 2.0 will happen whether it relies on my advice or not. It has to happen because GNOME Foundation 1.0 was completely unsustainable. I believe the GNOME Foundation is changing for the better. It's not easy. There is a lot of work left to do and there will be growing pains along the way.
+
+The Foundation's bylaws saddle Allan with the Acting Executive Director role, just as Rob McQueen was Acting ED for the majority of the preceding 5 years while he was President. There's a mountain of work to do and Allan's taking it in stride but he could use your help. If you are a GNOME Foundation member and you want to volunteer, ask the board how you can be of service.
