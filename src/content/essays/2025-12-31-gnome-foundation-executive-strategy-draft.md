@@ -14,7 +14,9 @@ Quick note: As a condition of receiving my last paycheque, I did sign [_One Of T
 
 I didn't publish a strategy while I was in the ED role because if there was one thing I heard from every corner of the community it was "DO NOT MAKE ANY PROMISES." I took this to heart and generally only spoke about the work the team accomplished once the work was already done.
 
-I'm publishing a strategy now because (a) it's been four months since I left, which is roughly how long I was there and (b) I want the board's Community Executive to have this blueprint, regardless of whether they make use of it or not.
+I'm publishing a strategy now because (a) it's been four months since I left, which is roughly how long I was there, (b) I've had time to cool off emotionally, and (c) I want the board's Community Executive to have this blueprint, regardless of whether they make use of it or not.
+
+(Cooling off emotionally was important because August left me confused, angry, and, honestly, frightened. It's a real brainscrew to leave a public position like that without a clear understanding as to _why._ When I re-read the announcement in September, I realized it looked like I'd embezzled money or abused a staff member or something else insane. I needed some distance from that.)
 
 This strategy hinges on two broad conceptual shifts in how the GNOME Foundation operates:
 
