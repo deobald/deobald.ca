@@ -374,7 +374,7 @@ Before I interviewed for the ED role, I asked Holly and Richard to tell me about
 
 As one outgoing director put it, "even solving the biggest and most obvious problem only treats a symptom --- the problems are systemic." Systemic problems require systematic solutions because an organization is a system like any other. It's a puzzle to be solved. For 5 months, my visualization was that of a ball of yarn. Pull at a thread. Pull, pull, pull until it comes loose. Then pull at another thread. And another. And another. Repeat until the ball is untangled.
 
-The current board is untangling that ball of yarn. They're employing systematic solutions, just as I did. They're smart folks and they're doing a brilliant job. But a lot of the board's work is hard to see and it's a big ball of yarn. So please be patient with them.
+The current board is untangling that ball of yarn. Some of the threads represent broken processes, some represent unhealthy relationships, and others represent flawed execution. Regardless of the immediate problem in front of them, the board is employing systematic solutions, just as I did. They're smart folks and they're doing a brilliant job. But a lot of the board's work is hard to see and it's a big ball of yarn. So please be patient with them.
 
 ## The Future
 
