@@ -12,9 +12,9 @@ I know what happened to me at GUADEC, at the end of July. It was unpleasant. But
 
 I didn't publish a strategy while I was in the ED role because if there was one thing I heard from every corner of the community it was "DO NOT MAKE ANY PROMISES." I took this to heart and generally only spoke about the work the team accomplished once the work was already done.
 
-I'm publishing a strategy now because (a) it's been four months since I left, which is roughly how long I was there, (b) I've had time to cool off emotionally, and (c) I want the board's Community Executive to have this blueprint, regardless of whether they make use of it or not.
+I'm publishing a strategy now because (a) it's been four months since I left, which is roughly how long I was there, (b) I've had time to cool off emotionally, and (c) I want the board's Community Executive to have this blueprint, whether they make use of it or not.
 
-(Cooling off emotionally was important because August left me confused and, honestly, frightened. It's a real brainscrew to leave a public position like that without a clear understanding as to _why._ When I re-read the announcement in September, I realized it reads "he did everything right...but we still had to fire him." It looked like I'd embezzled money or abused a staff member or something else insane. I needed some distance from that.)
+(Cooling off emotionally was important because August left me confused and, honestly, frightened. It's a real brainscrew to know somebody had a problem with me they were willing to escalate to the board and that the problem, whatever it was, led the board to ask me to leave --- without the slightest indication _what that problem might be._ There is nothing as scary as my own imagination and I was completely in the dark. When I re-read the announcement in September, I realized it reads "he did everything right...but we still had to part ways." It looked like I'd embezzled money or abused someone or something equally insane. I needed some distance from that.)
 
 * * *
 
@@ -58,6 +58,7 @@ There's quite a bit of detail beneath this, but these three ideals provide a use
   * [Policy Governance](#policy-governance)
   * [Shift to Infrastructure](#shift-to-infrastructure)
   * [Diversity](#diversity)
+* [A Ball of Yarn](#a-ball-of-yarn)
 * [The Future](#the-future)
 * [Now What?](#now-what)
 
@@ -363,6 +364,18 @@ Culturally, GNOME is very [safe](https://web.archive.org/web/20251012011628/http
 
 In the long term, broadening the base will mean bringing more app developers into GNOME. Show mid- to senior-level developers the joys of GTK and Libadwaita. Get people excited about the Linux desktop again. I hear it's making a comeback.
 
+## A Ball of Yarn
+
+It was widely understood that the GNOME Foundation was in trouble before I applied for the role of ED. Google "gnome foundation" in conjunction with any choice phrase: "problems", "steps down", "tough times", that sort of thing. [Here's my cover letter](/pdf/2024-12-04-gnome-foundation-ed.pdf), which has always been public. I wasn't shy about the fact that I knew the GNOME Foundation needed to undergo some fundamental change, and fast. That was why they hired me.
+
+I list [my job titles on LinkedIn](https://www.linkedin.com/in/steven-deobald/) as "janitor" for a reason. I love this stuff.
+
+Before I interviewed for the ED role, I asked Holly and Richard to tell me about their experiences and strategic thinking as the prior Executive Directors. I had a very consistent picture painted in most of my interviews: there are financial troubles and there are people troubles. When I joined? Sure enough. Financial troubles and people troubles.
+
+As one outgoing director put it, "even solving the biggest and most obvious problem only treats a symptom --- the problems are systemic." Systemic problems require systematic solutions because an organization is a system like any other. It's a puzzle to be solved. For 5 months, my visualization was that of a ball of yarn. Pull at a thread. Pull, pull, pull until it comes loose. Then pull at another thread. And another. And another. Repeat until the ball is untangled.
+
+The current board is untangling that ball of yarn. They're employing systematic solutions, just as I did. They're smart folks and they're doing a brilliant job. But a lot of the board's work is hard to see and it's a big ball of yarn. So please be patient with them.
+
 ## The Future
 
 The strategy laid out in this document describes what might be a 5- to 10-year plan. There will be difficult and ongoing conversations to be had about how to invest the Foundation's newfound revenue back into GNOME development.
@@ -383,10 +396,12 @@ Maybe after all that is accomplished, the membership can unleash the Design Team
 
 I don't expect the GNOME Foundation board to treat the recommendations above as prescriptive. I'm not even sure they'll read this document. But every one of these recommendations is available à la carte, and I hope they are useful both individually and in terms of their interdependencies. I also hope they are useful to the community when future Foundation members become board members and when the membership becomes increasingly involved in Foundation operations.
 
-In spite of the weird lack of communication during the first two weeks of August, I will reiterate my opinion that, as of August 2025, the Foundation is the strongest it's been in a decade. It has gotten stronger every month. We balanced the budget. We corrected the treasury function of the organization. The Foundation is learning to cut costs and control spending. Most of the board's acting directors now want what's best for GNOME. The Foundation is well on its way to fulfilling its mission.
+In spite of the weird lack of communication during the first two weeks of August, I will reiterate my opinion that, as of August 2025, the Foundation is the strongest it's been in a decade. It has gotten stronger every month. We balanced the budget. We corrected the treasury function of the organization. The board is learning to cut costs and control spending. Most of the board's acting directors now want what's best for GNOME. The Foundation is well on its way to fulfilling its mission.
 
 GNOME Foundation 2.0 will happen whether it relies on my advice or not. It has to happen. GNOME Foundation 1.0 was completely unsustainable. I do believe the GNOME Foundation is changing for the better. That change isn't easy. There will be growing pains along the way.
 
-The Foundation's [bylaws](https://gitlab.gnome.org/Infrastructure/foundation-web/-/raw/1312bc359e661de6c114a34bd3c77434032a9d38/foundation.gnome.org/about/bylaws.pdf) saddle Allan with the Acting Executive Director role, just as Robert McQueen [was Acting Executive Director](https://gitlab.gnome.org/Infrastructure/foundation-web/-/blob/b2631b950cc6126262cf9659d6527c3d8f364e2a/foundation.gnome.org/about/bylaws.html#L883) for the vast majority of the preceding 5 years while he was President. There's a mountain of work to do and the new board is taking it in stride under Allan's leadership, but they could use your help. If you are a GNOME Foundation member and you want to volunteer, ask the board how you can be of service.
+The Foundation's [bylaws](https://gitlab.gnome.org/Infrastructure/foundation-web/-/raw/1312bc359e661de6c114a34bd3c77434032a9d38/foundation.gnome.org/about/bylaws.pdf) saddle Allan with the Acting Executive Director role, just as Robert McQueen [was Acting Executive Director](https://gitlab.gnome.org/Infrastructure/foundation-web/-/blob/b2631b950cc6126262cf9659d6527c3d8f364e2a/foundation.gnome.org/about/bylaws.html#L883) for the vast majority of the preceding 5 years while he was President. Allan's vision for the Foundation isn't the same as my vision, and that's fine. The important thing is that the people at the helm love GNOME and are willing to put their egos aside to ensure the Foundation is a success. In my 25-year career, I don't think I've ever seen the kind of commitment that Allan has to GNOME. The Foundation is in good hands.
+
+There's a mountain of work to do and the new board is taking it in stride under Allan's leadership, but they could use your help. If you are a GNOME Foundation member and you want to volunteer, ask the board how you can be of service.
 
 GNOME Foundation 2.0 is around the corner and there's never been a better time to get involved. ❤️

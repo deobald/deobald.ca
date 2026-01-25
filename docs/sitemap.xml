@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.deobald.ca/essays/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deobald.ca/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,13 +17,7 @@
     <loc>https://www.deobald.ca/tags/design/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.deobald.ca/essays/</loc>
-    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.deobald.ca/categories/open-source/</loc>
-    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.deobald.ca/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.deobald.ca/tags/</loc>
