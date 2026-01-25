@@ -14,7 +14,7 @@ I didn't publish a strategy while I was in the ED role because if there was one 
 
 I'm publishing a strategy now because (a) it's been four months since I left, which is roughly how long I was there, (b) I've had time to cool off emotionally, and (c) I want the board's Community Executive to have this blueprint, whether they make use of it or not.
 
-(Cooling off emotionally was important because August left me confused and, honestly, frightened. It's a real brainscrew to know somebody had a problem with me they were willing to escalate to the board and that the problem, whatever it was, led the board to ask me to leave --- without the slightest indication _what that problem might be._ There is nothing as scary as my own imagination and I was completely in the dark. When I re-read the announcement in September, I realized it reads "he did everything right...but we still had to part ways." It looked like I'd embezzled money or abused someone or something equally insane. I needed some distance from that.)
+(Cooling off emotionally was important because August left me confused and, honestly, frightened. It's a real brainscrew to know somebody had a problem with me they were willing to escalate to the board and that the problem, whatever it was, led the board to ask me to leave --- without the slightest indication _what that problem might be._ There is nothing as scary as my own imagination and I was completely in the dark. When I re-read the announcement from September, I realized it reads "he did everything right...but we still had to part ways." It looked like I'd embezzled money or abused someone or something equally insane. I needed some distance from that.)
 
 * * *
 
@@ -28,7 +28,7 @@ This strategy hinges on three broad conceptual shifts in how the GNOME Foundatio
 2. Build An Institution
 3. Demand Organizational Excellence
 
-There's quite a bit of detail beneath this, but these three ideals provide a useful framework upon which the community executive can ask themselves these questions, from time to time: "Are we focusing on the mission?" and "Are we building an institution?" and "Are we demanding the same level of excellence from the Foundation that we demand from the project?"
+There's quite a bit of detail sandwiched in between (the usual stuff like event planning and financial policy), but these three ideals provide a useful framework upon which the Community Executive can ask themselves these questions, from time to time: "Are we focusing on the mission?" and "Are we building an institution?" and "Are we demanding the same level of excellence from the Foundation that we demand from the project?"
 
 ## Table of Contents
 
@@ -100,7 +100,7 @@ However, for the GNOME Foundation to fulfill its nonprofit mission, I believe it
 
 ![Filling The Gaps](/img/2025-12-31-gnome-foundation-fill-gaps.png)
 
-[The entire diagram](https://excalidraw.com/#json=3iN6VclACR5te9Czs5bHp,BlEAC-_2qLylKP_CuRBEkQ) can be seen on Excalidraw. This largely covers my outreach and fundraising strategy, but I'm happy to answer questions about it if anyone has them. There's nothing new in there. It's mostly stuff I've said in my blog, GUADEC 2025 keynote, or in public Matrix channels... but it puts it all in one place.
+[The entire diagram](https://excalidraw.com/#json=3iN6VclACR5te9Czs5bHp,BlEAC-_2qLylKP_CuRBEkQ) can be seen on Excalidraw. This largely covers my outreach and fundraising strategy, but I'm happy to answer questions about it if anyone has them. There's nothing new in there. It mostly consists of things I've said in my blog, GUADEC 2025 keynote, or in public Matrix channels... but it puts it all in one place.
 
 ## Build An Institution
 
@@ -229,7 +229,7 @@ I was very happy to see that the board [continued with the financial policy I in
 * YoY balanced budget (balance recurring revenue with recurring expenses)
 * Maintain the full board reserve, according to policy, without exception
 
-I received significant pushback from one director on both of these, so it's reassuring to see the Foundation didn't backtrack. I don't consider either of these policies optional in a healthy corporation.
+I received significant pushback from one director on both of these, so it's reassuring to see the Foundation didn't backtrack after I left. I don't consider either of these policies optional in a healthy corporation.
 
 An ex-colleague from one of my alumni networks recently asked me "what did you learn from the experience of running the GNOME Foundation?" and my response was that I left believing even more firmly what I always believed:
 
@@ -241,7 +241,7 @@ While I was at the Foundation, we [began the process of implementing and documen
 
 While I was at the Foundation, we had to implement some hard limits, such as pausing the staff travel policy. With well-documented and well-enforced internal controls, austerity measures like that shouldn't have to happen again.
 
-A close friend recently asked me about the kinds of budgets nonprofits like the GNOME Foundation and Python Software Foundation are operating under. My response was that, for any foundation incorporated in the United States at least, you could just google "Blah Foundation 990" and get a pretty clear high-level picture of any nonprofit's finances. He was shocked to see that an organization like the PSF operates with [only about $4m in revenue](https://projects.propublica.org/nonprofits/organizations/43594598). People often think of f/oss nonprofits as huge entities, like big-name tech companies, because their trademarks are so recognizable. But they aren't. Every dollar counts and every donation matters. Thus, tight fiscal controls are essential to keep costs under control.
+A close friend recently asked me about the kinds of budgets nonprofits like the GNOME Foundation and Python Software Foundation are operating under. My response was that, for any foundation incorporated in the United States at least, you could just google "Blah Foundation 990" and get a pretty clear high-level picture of any nonprofit's finances. He was shocked to see that an organization like the PSF operates with [only about $4m in revenue](https://projects.propublica.org/nonprofits/organizations/43594598). People often think of f/oss nonprofits as huge entities, like big-name tech companies, because their trademarks are so recognizable. But they aren't. Every dollar counts and every donation matters. Thus, tight fiscal controls are essential to keep costs down.
 
 ## Fundraising
 
@@ -250,7 +250,9 @@ Within my first few weeks at the Foundation, I "pitched" a new fundraising strat
 * move toward recurring revenue and away from irregular, one-off cheques
 * make the Foundation a grantmaker --- fund GNOME development directly
 
-[Here is the slide deck, with sensitive/unpublished data redacted](./pdf/2025-06-03-special-meeting_compressed.pdf). The Executive Director doesn't need the buy-in of the board to change course on fundraising. But this was only my third week on the job and I didn't want to commit to this massive shift in the fundraising strategy without board approval. The fundraising strategy outlined in the "pitch deck" is still in place. It's working well, and covering the Foundation's current ongoing expenses, but it will take a couple years before it really bears fruit.
+[Here is the slide deck, with sensitive/unpublished data redacted](./pdf/2025-06-03-special-meeting_compressed.pdf). (I'm guessing at least one person will note the presence of the word "openwash" and and be grossed out by that. Sorry. If you think that for-profit corporations donate to f/oss nonprofits out of altruism... I have bad news for you.)
+
+The Executive Director doesn't need the buy-in of the board to change course on fundraising. But this was only my third week on the job and I didn't want to commit to this massive shift in the fundraising strategy without board approval. The fundraising strategy outlined in the "pitch deck" is still in place. It's working well, and covering the Foundation's current ongoing expenses, but it will take a couple years before it really bears fruit.
 
 The first step was to build [donate.gnome.org](https://donate.gnome.org) --- the Foundation (and I) owe everything in that project to Sam Hewitt, Jakub Steiner, and Bart Piotrowski. As the landing page for donations to the Foundation, `d.g.o` is paramount in turning the Foundation around.
 
@@ -260,7 +262,7 @@ Where does the money go, though? Are donors paying for GNOME Calendar, Flatpak 2
 
 On the topic of grantmaking, I hear the board has a plan in the works to finance some GNOME development. I look forward to seeing what they come up with.
 
-The third step is to talk about donations to GNOME. Loudly. Podcasts, YouTube, and traditional media. (Aside: Tweet-shaped social media, not so much. The rallying cry for user participation will be met with crickets on LinkedIn.) My original intention was to do this myself. Perhaps the best option with a Community Executive is to assign someone (whether they're a director of the board or not) to act as a spokesperson. Such a person would probably become synonymous with GNOME, as Miguel was once upon a time. An alternative would be to distribute this responsibility but that risks diluting the message and reducing (or never building up) the recognizability of public personas. An Executive Director is a kind of mascot --- a mouthpiece and advocate but also a lightning rod for criticism. A Community Executive probably doesn't want to take that on, so this remains one unsolved piece of the puzzle.
+The third step is to talk about donations to GNOME. Loudly. Spend plenty of time on podcasts, YouTube, and traditional media. (Aside: Tweet-shaped social media, not so much. The rallying cry for user participation will be met with crickets on LinkedIn.) My original intention was to do this myself. Perhaps the best option with a Community Executive is to assign someone (whether they're a director of the board or not) to act as a spokesperson. Such a person would probably become synonymous with GNOME, as Miguel was once upon a time. An alternative would be to distribute this responsibility but that risks diluting the message and reducing (or never building up) the recognizability of public personas. An Executive Director is a kind of mascot --- a mouthpiece and advocate but also a lightning rod for criticism. A Community Executive probably doesn't want to take that on, so this remains one unsolved piece of the puzzle.
 
 Public personas need to know the audience. The PR exercise of marketing GNOME's donation page will require finesse. The GNOME Foundation has a habit of preaching to the choir. It's hardly the only first-wave open source project that is stuck in this rut but messaging to donors within the community, versus GNOME's millions of users, versus corporate donors, versus government donors? Every one should highlight very different aspects. Governments care about Digital Sovereignty. Users care about features and stability. Thoughtful users will care about GNOME's infrastructure, like GitLab. GNOME hackers care about GUADEC. There isn't a lot of overlap. Red Hat employees will donate every year because they love GNOME. You don't need to win them over. Focus on the donations you _don't have._
 
@@ -278,7 +280,7 @@ It is the mark of a healthy organization that its members can engage in open and
 
 I received many complaints about the Foundation even in the 3 or 4 months I spent as ED but these didn't come with any structure. Rather, they took the form of DMs or emails from members, sent directly to me, with a sampling bias for the kind of person willing to email a new ED out of the blue. The medium makes sense, when you think about it. The alternative at the time was to raise feedback in public Matrix channels, where bad faith actors lurk, or to broadcast something on Planet GNOME. There was no middle ground.
 
-Before I left the ED post, I created a private Matrix channel for GNOME Foundation members based on a widespread desire from the membership. I also proposed creating a similar, members-only space on Discourse (this space doesn't exist yet; I'm not sure if that's seen any progress behind the scenes). Foundation members are the top of the accountability and control hierarchy --- they should have some medium to speak directly to management that sits between the high-friction world of emails and the high-visibility world of blogs posts.
+Before I left the ED post, we created a private Matrix channel for GNOME Foundation members based on a widespread desire from the membership. I also proposed creating a similar, members-only space on Discourse (this space doesn't exist yet; I'm not sure if that's seen any progress behind the scenes). Foundation members are the top of the accountability and control hierarchy --- they should have some medium to speak directly to management that sits between the high-friction world of emails and the high-visibility world of blog posts.
 
 Perhaps more important than open communication between the membership and the board, however, is open communication between individuals. I can't count the number of times people raised complaints directly to me, about someone else.
 
@@ -336,7 +338,7 @@ Policy Governance is the one place where Allan and I differed in opinion. He's b
 
 That said, the current Community Executive situation is perhaps the best possible outcome in 2026. If the board and the Executive Committee are going to be deeply involved in the operation of the Foundation anyway, lean in. I will admit that a Community Executive has distinct advantages: it saves money, it unifies the management strategy, and it brings the board (and thus, the membership) closer to the day-to-day operations of the Foundation which, in turn, should ensure the Foundation satisfies its mission and the desires of the membership. A Community Executive also benefits from decades of GNOME experience.
 
-Finding a competent staff executive for the Foundation isn't just structurally difficult. It's also financially difficult: By some funky coincidence, my salary offer for the ED position was exactly 50% of my salary from _back in 2010,_ to the dollar. It paid my rent. I wasn't a volunteer. But it wasn't a director-level salary. Since I knew how to google "gnome foundation 990", I didn't bother negotiating. I joined the Foundation to help, not squeeze blood from a stone.
+Finding a competent staff executive for the Foundation isn't just structurally difficult. It's also financially difficult: By some funky coincidence, my salary offer for the ED position was exactly 50% of my salary from _back in 2010,_ to the dollar. It paid my rent. I wasn't a volunteer. But it wasn't a director-level salary, either. Since I knew how to google "gnome foundation 990", I didn't bother negotiating. I joined the Foundation to help, not squeeze blood from a stone.
 
 Unless the board can scrounge together a normal executive salary, a staff executive will need to have the same passion for the Linux desktop experience that GNOME contributors have and, if possible, experience working with the GNOME community. Although not impossible, that's a tall order. For the time-being, a Community Executive makes a lot of sense.
 
@@ -350,7 +352,7 @@ The peculiar advantage of a software-focused nonprofit is the same operational a
 
 Beyond this, however, I firmly believe all non-banking tools should move under the umbrella of the GNOME Foundation's [Infrastructure Team](https://handbook.gnome.org/infrastructure.html). This includes payment processors, ForEx tooling, contract software, SaaS accounts, and so on. The selfless efforts of Andrea and Bart over the years have shown them to be some of the most loyal and trustworthy actors across the GNOME Foundation. I have never seen either of them act politically, or with ill will. In a nonprofit apocalypse, when everything else falls apart, they are the ones who will keep the lights on, whether they're paid for it or not.
 
-Network resilience applies just as much to Infrastructure as it does to everything else. Andrea is in the Americas and Bart's in Europe. It would be lovely to find someone in Asia to join the team so all timezones are covered. That person needs to prove themselves to be equally trustworthy, though.
+That said, network resilience applies just as much to Infrastructure as it does to everything else. Andrea is in the Americas and Bart's in Europe. It would be lovely to find someone in Asia to join the team so all timezones are covered. That person needs to prove themselves to be equally trustworthy, though.
 
 We trust the Infrastructure Team with root on all the servers for good reason. Other than bank accounts, trust them with the other core tooling, too.
 
@@ -400,7 +402,7 @@ In spite of the weird lack of communication during the first two weeks of August
 
 GNOME Foundation 2.0 will happen whether it relies on my advice or not. It has to happen. GNOME Foundation 1.0 was completely unsustainable. I do believe the GNOME Foundation is changing for the better. That change isn't easy. There will be growing pains along the way.
 
-The Foundation's [bylaws](https://gitlab.gnome.org/Infrastructure/foundation-web/-/raw/1312bc359e661de6c114a34bd3c77434032a9d38/foundation.gnome.org/about/bylaws.pdf) saddle Allan with the Acting Executive Director role, just as Robert McQueen [was Acting Executive Director](https://gitlab.gnome.org/Infrastructure/foundation-web/-/blob/b2631b950cc6126262cf9659d6527c3d8f364e2a/foundation.gnome.org/about/bylaws.html#L883) for the vast majority of the preceding 5 years while he was President. Allan's vision for the Foundation isn't the same as my vision, and that's fine. The important thing is that the people at the helm love GNOME and are willing to put their egos aside to ensure the Foundation is a success. In my 25-year career, I don't think I've ever seen the kind of commitment that Allan has to GNOME. The Foundation is in good hands.
+The Foundation's [bylaws](https://gitlab.gnome.org/Infrastructure/foundation-web/-/raw/1312bc359e661de6c114a34bd3c77434032a9d38/foundation.gnome.org/about/bylaws.pdf) saddle Allan with the Acting Executive Director role, just as Robert McQueen [was Acting Executive Director](https://gitlab.gnome.org/Infrastructure/foundation-web/-/blob/b2631b950cc6126262cf9659d6527c3d8f364e2a/foundation.gnome.org/about/bylaws.html#L883) for the vast majority of the preceding 5 years while he was President. Allan's vision for the Foundation isn't the same as my vision, and that's fine. My ideas aren't important. The important thing is that the people at the helm love GNOME and are willing to put their egos aside to ensure the Foundation is a success. In my 25-year career, I don't think I've ever seen the kind of commitment that Allan has to GNOME. The Foundation is in good hands.
 
 There's a mountain of work to do and the new board is taking it in stride under Allan's leadership, but they could use your help. If you are a GNOME Foundation member and you want to volunteer, ask the board how you can be of service.
 
