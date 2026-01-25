@@ -138,7 +138,9 @@ Every committee should experience some amount of rotation, every year. Most do, 
 
 Given that this was the only committee I ever received complaints about as Executive Director (_many_ complaints, from most corners of the community), I strongly encourage the board to heavily rotate the Code of Conduct Committee, as soon as they have the bandwidth to do so. They can probably start by documenting the entrance criteria: how does someone join the CoCC? Currently, that's unclear. It's just listed as ["invitation only"](https://handbook.gnome.org/foundation/committees/coc.html#membership), which isn't very helpful and makes it seem more like a fun club than a group committed to community safety.
 
-The board would be well-served with a policy on committee rotation for all committees, to prevent stagnation.
+Should the CoCC feel overly criticized and decide to delete this post from Planet GNOME, there will always be a copy [on my personal website](https://www.deobald.ca/essays/2025-12-31-gnome-foundation-2-executive-strategy/).
+
+At a higher level, the board would be well-served with a policy on committee rotation for all committees, to prevent stagnation.
 
 ### Slow Board Rotation
 
