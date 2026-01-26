@@ -6,9 +6,9 @@ tags: []
 draft: true
 ---
 
-[Like Nick](https://www.youtube.com/watch?v=dR_Uzf2B-YA&t=106s), I had no idea what happened back in August. I worked almost exclusively with Allan Day throughout my 3.5 months at the Foundation. Immediately following GUADEC, Allan went on vacation for a couple weeks and during that time the board held a few meetings I wasn't invited to. On August 13th, Robert McQueen called me to tell me I "wasn't a good fit." I had no idea what that meant. The board's half of the decision was never discussed with me and their decision was never explained. It's my understanding that Allan was as surprised as I was when he returned from vacation on August 18th. My agreement to step down was largely due to the total lack of communication from the board at that time. People joke about an Executive Director having "nine bosses", which is its own kind of challenge. That challenge really deepens if your bosses don't speak to you.
+[Like Nick](https://www.youtube.com/watch?v=dR_Uzf2B-YA&t=106s), I had no idea what happened back in August. I worked almost exclusively with Allan Day throughout my 3.5 months at the Foundation. Immediately following GUADEC, Allan went on vacation for a couple weeks and during that time the board held a few meetings I wasn't invited to. On August 13th, Robert McQueen called me to tell me I "wasn't a good fit." I had no idea what that meant. The board's half of the decision was never discussed with me and their decision was never explained. It's my understanding that Allan was as surprised as I was when he returned from vacation on August 18th. My agreement to step down was largely due to the total lack of communication from the board at that time. People joke about an Executive Director having "nine bosses", which is its own kind of challenge. That challenge really deepens if those bosses don't speak to you.
 
-I know what happened to me at GUADEC, at the end of July. It was unpleasant. But I still don't know what happened in August. I probably never will. If the board opts to hire a staff Executive Director in the future, I sincerely hope they learn to talk through their problems openly before they start recruiting.
+I know what happened to me at GUADEC, at the end of July. It was unpleasant. But I still don't know what happened in August. I probably never will. For the time-being, I just want the GNOME community to know that I didn't give up on you. If the board opts to hire a staff Executive Director in the future, I sincerely hope they learn to talk through their problems openly before they start recruiting.
 
 I didn't publish a strategy while I was in the ED role because if there was one thing I heard from every corner of the community it was "DO NOT MAKE ANY PROMISES." I took this to heart and generally only spoke about the work the team accomplished once the work was already done.
 
@@ -53,6 +53,7 @@ There's quite a bit of detail sandwiched in between (the usual stuff like event 
 * [Organizational Excellence](#organizational-excellence)
   * [Feedback](#feedback)
   * [Accountability](#accountability)
+  * [Reputations, Bullies, Abuse, and Violence](#reputations-bullies-abuse-and-violence)
   * [Transparency](#transparency)
   * [Board of Directors](#board-of-directors)
   * [Policy Governance](#policy-governance)
@@ -90,17 +91,25 @@ Do that.
 
 ### Fill In The Gaps
 
-While it's quaint to suggest that [fundraising via Friends of GNOME](https://www.youtube.com/watch?v=ptltPdcXH0Q) pays for most of GNOME, there isn't a single GNOME Foundation member who believes this. The vast majority of GNOME's development comes from the hard work of folks at companies like Red Hat and Igalia. The majority of them get paid full-time to work on GNOME and then spend their evenings and weekends on their favourite hobby: hacking on GNOME.
+While it's quaint to suggest that the Foundation pays for most of GNOME's development, as the `@gnome` Bluesky account keeps suggesting, there isn't a single GNOME Foundation member who believes this.
+
+The vast majority of GNOME's development comes from the hard work of folks at companies like Red Hat and Igalia. The majority of them get paid full-time to work on GNOME and then spend their evenings and weekends on their favourite hobby: hacking on GNOME.
 
 The rest of GNOME's development comes from volunteers, restricted grants, and contract work. The massive effort enabled by the [STF contract](https://blogs.gnome.org/tbernard/2025/04/11/gnome-stf-2024/) is a recent example.
 
-To my knowledge, other than the STF contract, the GNOME Foundation has only ever engaged in the act of software development via grants. This includes [work on GTK from 2018 to 2021](TODO: link), and the work on Digital Wellbeing and GLib in recent years. There's absolutely nothing wrong with restricted grants and hopefully the Foundation continues to receive such grants.
+To my knowledge, other than the STF contract, the GNOME Foundation has only ever engaged in the act of software development via grants. This includes work on GTK from [2018](https://blogs.gnome.org/foundation/2020/11/24/gtk-at-the-heart-of-gnome/) to [2022](https://web.archive.org/web/20220816015216/https://wiki.gnome.org/FoundationBoard/Minutes/20220112), and the work on Digital Wellbeing and GLib in recent years. There's absolutely nothing wrong with restricted grants and hopefully the Foundation continues to receive such grants.
 
 However, for the GNOME Foundation to fulfill its nonprofit mission, I believe its role is to "fill in the gaps." Companies like Red Hat and Canonical only have so many degrees of freedom --- the software they write will, generally, try to make their customers happy. That's just... how you run a company. But there are times when commercial incentives won't get certain software built. GNOME Calendar is, arguably, the most beautiful calendar app out there --- but it lacks essential features because it's 100% volunteer-built. GNOME's accessibility (#a11y) story gets better every release --- but major gaps exist, even in 2026. The diagram that follows is a doodle I created for the Fundraising Committee when I left:
 
 ![Filling The Gaps](/img/2025-12-31-gnome-foundation-fill-gaps.png)
 
 [The entire diagram](https://excalidraw.com/#json=3iN6VclACR5te9Czs5bHp,BlEAC-_2qLylKP_CuRBEkQ) can be seen on Excalidraw. This largely covers my outreach and fundraising strategy, but I'm happy to answer questions about it if anyone has them. There's nothing new in there. It mostly consists of things I've said in my blog, GUADEC 2025 keynote, or in public Matrix channels... but it puts it all in one place.
+
+### Include Infrastructure
+
+Where the Foundation has struggled to fund development, it has absolutely excelled at infrastructure. GNOME isn't just a CD-ROM full of packages anymore. Partnering with KDE, it's also the amazing [Flathub](https://flathub.org/) effort. It's also [GitLab](https://gitlab.gnome.org/). It's project walls, build pipelines, office tools, and an open source [Zoom replacement](https://meet.gnome.org/) for Foundation members.
+
+Some of this infrastructure serves users directly and the desktop wouldn't work without it. Other infrastructure ensures GNOME development can happen 24 hours a day. It's all essential. In 2026, infrastructure is part of the mission.
 
 ## Build An Institution
 
@@ -301,6 +310,24 @@ Just as there are two scales to the Foundation (the board and the staff), there 
 The GNOME Foundation board, at the top of this hierarchy, is a "working board" (in the sense that they are heavily involved in the day-to-day operation of the business) and a 9-person board can make accountability too diffuse. As a result, it's useful for the membership to narrow in on board leadership when evaluating the board's performance. The timescales are long but, thankfully, board elections only happen once a year. This May, I strongly encourage you (if you are a member) to retrospect on the past five years. There were some significant leadership changes in August of 2025 and if you have concerns about the Foundation's legacy strategies, provide that feedback to the new board so they can learn from past mistakes.
 
 Importantly, there exist patterns of behaviour which override delivery. If someone exhibits a low-integrity pattern of behaviour, year after year, they need to be held accountable and removed from the project. It does not matter if this person writes mountains of code, brings in big donor cheques, has been with the project for decades, or happens to be your best friend. Your responsibility as 501(c)(3) management is to the institution, not your friendships. This is all the more true when such a person's pattern of behaviour is not only low-integrity, but abusive. Bullies should not be tolerated.
+
+### Reputations, Bullies, Abuse, and Violence
+
+Human psychology tends to lump people into two camps. The good guys and the bad guys. The righteous and the wretched. Princess Zelda and Ganon. We love these simple narratives because they're easier to digest. But they do not help us maintain safe communities.
+
+First, let's talk about _People With A Reputation._ It will surprise no one that there are a couple _personalities_ within the GNOME community. I sometimes heard these folks described as "having a reputation" or "a bit prickly."
+
+At times, grumpy behaviour may require the board's attention. Generally, though, this category of behaviour is why the Code of Conduct Committee exists, if it's functioning correctly.
+
+Second, let's talk about the actual _Bullies and Abusers._ While I was at the GNOME Foundation, I witnessed patterns of both bullying and abuse. These rarely come from the "usual suspects", described above. As is the case in any relationship, abusers are often very skilled at concealing their behaviour. They usually aren't the loudest personalities, or the most visible.
+
+While I was in the ED role, I dealt with the bullying I witnessed as best I could. After I left, I informed the board about what I saw (and what I experienced myself). I have the privilege and the bandwidth to stand up to abusive behaviour. So I'm doing that. Every time someone escapes consequences for their abusive behaviour, it emboldens them to do so again in the future. Especially if those abusive people are in positions of power, those of us who can act, need to act.
+
+Abusive behaviour is not the responsibility of the CoCC. It is the responsibility of the board, with the help of a real lawyer.
+
+Third, I want to talk about _Violence._ The internet can be a dangerous place. When I wrote [_On Safety_](https://blogs.gnome.org/steven/2025/05/28/on-safety/), I was addressing this risk: real, physical safety. When the risks associated with someone cross this line, it is the role of the Foundation to enlist the help of lawyers and law enforcement. It is not the time to push back ourselves, as individuals. There have been criminal attacks on the GNOME community, from outside. Let the law deal with these.
+
+[My keynote story about anger](https://youtu.be/26ys1p6VVs0?si=9o1pvAEyJfxhdzch&t=376) attempted, in a fumbling way, to address these three categories: the grouch, the bully, and the criminal. Although sometimes intermingled, these three patterns of behaviour are not equivalent. It is the Foundation's role to address each one with the appropriate corrective action.
 
 ### Transparency
 
