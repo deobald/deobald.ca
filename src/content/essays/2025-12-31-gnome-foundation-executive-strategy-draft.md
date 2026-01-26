@@ -421,7 +421,11 @@ The second is, over time, to untether the Foundation from legacy f/oss nonprofit
 
 Last, I believe the Foundation will have to move to Europe. This isn't a near-term goal. The Foundation still has an incredible amount of work to do before its head is above water, and even more work before it achieves its deserved excellence on par with the GNOME project it serves. Only once the Foundation is financially sound, stable, and serving its mission of building GNOME should it uproot itself and jump the Atlantic.
 
-My reason for recommending that the Foundation shift to Europe is probably not the one you are thinking of. American administrations come and go, just like directors of a nonprofit board come and go. The current state of the USA won't be its political landscape forever. No, the problem I see with incorporating entities in the United States lives somewhere between law and culture. The expected behaviours in an American office are no longer in alignment with the rest of the world. This is exacerbated by legal frameworks which seem absurd to Europeans, Indians, and Canadians like me. America's idiotic culture war penetrates its institutions, including its nonprofits. The GNOME Foundation needs to focus on its mission: GNOME. Europe will be the best place to do that, in the long term.
+My reason for recommending that the Foundation shift to Europe is probably not the one you are thinking of. American politicians come and go, just like directors of a nonprofit board come and go. The current state of the USA is completely unhinged, but this won't be its political landscape forever.
+
+No, the problem I see with incorporating entities in the United States rests somewhere between law and culture. The expected behaviours in an American office are no longer in alignment with the rest of the world. This is exacerbated by state and federal legal frameworks which seem absurd to Europeans, Indians, and Canadians like me. The language of American corporations is no longer English. Instead, it's some sort of mangled hieroglyphic, every sentence declaring which team of American ideologues your rage belongs to, even if you shake your head at both. This childish US culture war penetrates its institutions. Nonprofits are not immune.
+
+The GNOME Foundation needs to focus on its mission: GNOME. Europe will be the best place to do that, in the long term.
 
 Maybe after all that is accomplished, the membership can unleash the Design Team on the foot.
 
