@@ -3,7 +3,7 @@ title: "The Problem With LLMs"
 date: 2026-02-11T00:00:00
 categories: ["technology", "open source"]
 tags: []
-draft: true
+draft: false
 ---
 
 ## Premise

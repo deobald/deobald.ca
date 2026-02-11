@@ -6,8 +6,15 @@
     <description>Recent content on Steven Deobald</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.deobald.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Problem With LLMs</title>
+      <link>https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/</guid>
+      <description>Premise Six months ago, a friend of mine, with whom I work on the nonprofit Pariyatti mobile app, sent me this blog post by Vijay Khanna: From Idea to App in 7 Hours. By now, this is a fairly common zero-to-one LLM coding story. (LLM is short for Large Language Model but for the purposes of this essay, we&amp;rsquo;ll use it as a substitute for what is broadly categorized as &amp;ldquo;generative AI&amp;rdquo; in early 2026.</description>
+    </item>
     <item>
       <title>Artificial StupidIntelligence and Airport Sinks</title>
       <link>https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/</link>
