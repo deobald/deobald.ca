@@ -6,28 +6,29 @@ tags: []
 draft: true
 ---
 
-I believe accountability can be a challenge in a nonprofit, which only makes it all the more important. In this post, I am holding myself accountable. For the avoidance of doubt, nothing that follows has anything to do with my exit from the GNOME Foundation last August. (Quite the opposite, actually.)
 
-I owe a few folks some apologies from my time as Executive Director. I have apologized to most of them individually already, if I could contact them. But I am of the belief that public accountability is the antidote to public frustration and I hope it will help the community as it heals from events of recent years. Here goes.
+I believe accountability can be a challenge in a nonprofit, which only makes it all the more important. In this post, I am holding myself accountable. For the avoidance of doubt, nothing that follows has anything to do with my exit from the GNOME Foundation last August.
 
-First off, I sincerely apologize to Jehan Pagès and Christian Hergert. I was curt with both of you and neither of you deserved it. I am not prone to anxiety but, due to circumstances beyond my control, I barely slept from July 23rd to August 29th. I've never experienced sleep deprivation like that. But even severe sleep deprivation is no excuse for the way I spoke to either of you. I'm sorry.
+I owe a few folks some apologies from my time as Executive Director. I have apologized to most of them individually already, where I could. But I believe that public accountability is the antidote to public frustration and I hope this contributes, in a small way, to the GNOME community moving forward.
 
-Next, I apologize to multiple former EDs and many active community members who raised concerns to me. Holly, you warned me. Twice. Folks on the hiring team dropped plenty of hints. I was too preoccupied with getting the Foundation's head above water, financially, and I failed to accurately interpret the concerns being raised at the time.
+First off, I sincerely apologize to Jehan Pagès and Christian Hergert. I was curt with both of you last summer and neither of you deserved it. From July 23rd to August 29th I was dealing with significant sleep deprivation but that's no excuse for the way I spoke to either of you. I'm sorry.
+
+Next, I apologize to the former Executive Directors and active community members who raised concerns to me. Holly, you warned me. Twice. Many other people tried to share their perspectives. I was too focused on the Foundation’s financial situation, and I did not take the time to fully understand what I was hearing from you all. I regret that.
 
 ## Sonny
 
-To Sonny Piers: I am sorry. On June 6th, I had a call with you that lasted nearly four hours. Without naming anyone or making accusations, you told me your complicated story. You seemed hurt. I took five pages of notes but your story was difficult to believe. My evaluation of your situation relied on information that I now believe was inaccurate. As a result, I thought you were faking it -- I know now that you weren't.
+To Sonny Piers: I am sorry. I had a long call with you last June. You told me your complicated story. You seemed hurt — but I didn't believe you. My understanding was incomplete and I did not approach the situation with the care it deserved.
 
-I'm sorry I didn't do more to help you.
+I'm sorry I didn't do more to support you.
 
 ## Tobias
 
-More than anyone, I want to apologize to Tobias Bernard. Tobias, I am sorry. I had multiple 3-hour conversations with you. You were always patient with me. You shared all your ideas with me openly. I have countless pages of notes. You were willing to give your time selflessly to the improvement of GNOME and to repairing the Foundation.
+More than anyone, I want to apologize to Tobias Bernard. Tobias, I am sorry. You gave me many hours of your time, patience, and thoughtfulness. You shared your ideas openly and in good faith, and I didn't always meet that with the same level of openness.
 
-I listened to everything you had to say... until you brought up the topic of Sonny. Once again, my understanding of Sonny's situation was based on inaccurate information. I argued with you. I didn't listen. You deserved better from me.
+In particular, when we discussed Sonny’s situation, I did not listen as carefully as I should have. I was too focused on my existing understanding, and I failed to engage with what you were trying to convey. You deserved better from me.
 
 Sonny is lucky to have a friend like you.
 
 ## Meta
 
-This post reflects only my personal experiences and perspectives. It does not make allegations or claims about the conduct of any individual or organization.
+This post reflects only my personal experiences and perspectives. It is not intended to make allegations or factual claims about the conduct of any individual or organization.
